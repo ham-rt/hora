@@ -1,0 +1,30 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Principes"
+    id="153eddac-97bc-4ab6-a668-511d72eafc4f">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="280e2f34-7200-42c2-bd1d-21636b8b03d8">
+    <bounds
+        x="96"
+        y="120"
+        width="829"
+        height="61"/>
+    <archimateElement
+        xsi:type="archimate:Principle"
+        href="Principle_a329d7b1-c56d-4ebc-b63c-53cb3a3cbcab.xml#a329d7b1-c56d-4ebc-b63c-53cb3a3cbcab"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="795c0f4f-58d6-4580-a166-6039abf53ec5">
+    <bounds
+        x="96"
+        y="204"
+        width="829"
+        height="61"/>
+    <archimateElement
+        xsi:type="archimate:Principle"
+        href="Principle_c27e5c22-9f58-461d-8dfb-448c0668b0a2.xml#c27e5c22-9f58-461d-8dfb-448c0668b0a2"/>
+  </children>
+</archimate:ArchimateDiagramModel>
