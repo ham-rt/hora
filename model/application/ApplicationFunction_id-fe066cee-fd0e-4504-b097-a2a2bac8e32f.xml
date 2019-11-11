@@ -1,0 +1,9 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="BPM-functie"
+    id="id-fe066cee-fd0e-4504-b097-a2a2bac8e32f"
+    documentation="Het ondersteunen van de uitvoering van (bedrijfs)processen">
+  <properties
+      key="Type"
+      value="Applicatiefunctie"/>
+</archimate:ApplicationFunction>

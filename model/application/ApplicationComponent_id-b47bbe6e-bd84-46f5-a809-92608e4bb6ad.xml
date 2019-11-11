@@ -1,0 +1,18 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Externe opleidingscatalogus"
+    id="id-b47bbe6e-bd84-46f5-a809-92608e4bb6ad"
+    documentation="Een systeem dat informatie over alle hoger onderwijs opleidingen in Nederland bevat.">
+  <properties
+      key="Externe informatie"
+      value="http://www.studiekeuze123.nl/"/>
+  <properties
+      key="Domein"
+      value="Derden"/>
+  <properties
+      key="Voorbeelden"
+      value="Studiekeuze 123"/>
+  <properties
+      key="Type"
+      value="Externe applicatie"/>
+</archimate:ApplicationComponent>

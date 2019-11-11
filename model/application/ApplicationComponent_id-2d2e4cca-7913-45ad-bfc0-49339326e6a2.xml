@@ -1,0 +1,21 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Project Programma en Portfoliomanagement systeem"
+    id="id-2d2e4cca-7913-45ad-bfc0-49339326e6a2"
+    documentation="Een systeem dat helpt bij het bepalen en sturen van projecten, programma's en portfolio's van assets en veranderingen.">
+  <properties
+      key="Externe informatie"/>
+  <properties
+      key="Domein"
+      value="Sturing"/>
+  <properties
+      key="Bouwsteen"
+      value="Nee"/>
+  <properties
+      key="Beheerder"/>
+  <properties
+      key="Voorbeelden"/>
+  <properties
+      key="Type"
+      value="Referentieapplicatie"/>
+</archimate:ApplicationComponent>

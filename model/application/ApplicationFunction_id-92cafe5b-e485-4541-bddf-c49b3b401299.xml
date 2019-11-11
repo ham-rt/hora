@@ -1,0 +1,9 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Narrowcastingfunctie"
+    id="id-92cafe5b-e485-4541-bddf-c49b3b401299"
+    documentation="Het ondersteunen van het publiceren van informatie via audiovisuele displays naar specifieke doelgroepen">
+  <properties
+      key="Type"
+      value="Applicatiefunctie"/>
+</archimate:ApplicationFunction>

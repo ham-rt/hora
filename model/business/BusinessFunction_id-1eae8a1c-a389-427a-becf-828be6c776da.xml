@@ -1,0 +1,12 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Bedrijfshulpverlening"
+    id="id-1eae8a1c-a389-427a-becf-828be6c776da"
+    documentation="Het zorgen voor een veiligheidsnet bij calamiteiten.">
+  <properties
+      key="Domein"
+      value="Bedrijfsvoering"/>
+  <properties
+      key="Type"
+      value="Deelbedrijfsfunctie"/>
+</archimate:BusinessFunction>

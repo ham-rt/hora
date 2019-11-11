@@ -1,0 +1,22 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Onderzoeksdisseminatierepository"
+    id="id-0fa8f241-149d-417a-a74f-54e4a8498a85"
+    documentation="Een systeem dat het beheren en publiceren van disseminaties uit een onderzoek ondersteunt.">
+  <properties
+      key="Externe informatie"/>
+  <properties
+      key="Domein"
+      value="Onderzoeksondersteuning"/>
+  <properties
+      key="Bouwsteen"
+      value="Nee"/>
+  <properties
+      key="Beheerder"/>
+  <properties
+      key="Voorbeelden"
+      value="Figshare (http://figshare.com)"/>
+  <properties
+      key="Type"
+      value="Referentieapplicatie"/>
+</archimate:ApplicationComponent>

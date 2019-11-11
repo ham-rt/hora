@@ -1,0 +1,22 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Facilitair systeem"
+    id="id-6f7b4001-8c47-43ca-8e98-cb25503c8c0c"
+    documentation="Een systeem dat het beheren van gebouwen en de daaraan verbonden faciliteiten en goederenstromen ondersteunt.">
+  <properties
+      key="Externe informatie"/>
+  <properties
+      key="Domein"
+      value="Bedrijfsvoering"/>
+  <properties
+      key="Bouwsteen"
+      value="Nee"/>
+  <properties
+      key="Beheerder"/>
+  <properties
+      key="Voorbeelden"
+      value="Planon (http://planonsoftware.com)"/>
+  <properties
+      key="Type"
+      value="Referentieapplicatie"/>
+</archimate:ApplicationComponent>

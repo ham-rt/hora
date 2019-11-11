@@ -1,0 +1,12 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Diplomering"
+    id="id-f99a9897-c0b8-481e-9868-1f9c1eb8b436"
+    documentation="Het beoordelen van uitstroomkwalificaties en verstrekken van een waardedocument.">
+  <properties
+      key="Domein"
+      value="Onderwijsondersteuning"/>
+  <properties
+      key="Type"
+      value="Hoofdbedrijfsfunctie"/>
+</archimate:BusinessFunction>

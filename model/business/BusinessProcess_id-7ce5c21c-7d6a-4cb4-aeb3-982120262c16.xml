@@ -1,0 +1,23 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Implementeren verbeteringen"
+    id="id-7ce5c21c-7d6a-4cb4-aeb3-982120262c16"
+    documentation="Het daadwerkelijk doorvoeren van een voorgenomen verbetering.">
+  <properties
+      key="Beschrijving"/>
+  <properties
+      key="Domein"
+      value="Sturing"/>
+  <properties
+      key="Trigger"
+      value="Er zijn besluiten genomen over te implementeren verbeteringen in en optimalisatie van de huidige situatie."/>
+  <properties
+      key="Preconditie"
+      value="Door te voeren verbeteringen zijn gedefinieerd en geprioriteerd."/>
+  <properties
+      key="Postconditie"
+      value="Voorgenomen verbeteringen zijn doorgevoerd en de huidige situatie is verder geoptimaliseerd. De werking en de prestatie in de verbeterde situatie worden gemonitord."/>
+  <properties
+      key="Type"
+      value="Deelbedrijfsproces"/>
+</archimate:BusinessProcess>

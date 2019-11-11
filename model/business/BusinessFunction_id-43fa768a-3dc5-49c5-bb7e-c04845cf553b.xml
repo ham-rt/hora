@@ -1,0 +1,12 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Onderzoeksopzetontwikkeling"
+    id="id-43fa768a-3dc5-49c5-bb7e-c04845cf553b"
+    documentation="Het zorgen dat de randvoorwaarden voor het onderzoek zijn geborgd.">
+  <properties
+      key="Domein"
+      value="Onderzoek"/>
+  <properties
+      key="Type"
+      value="Deelbedrijfsfunctie"/>
+</archimate:BusinessFunction>

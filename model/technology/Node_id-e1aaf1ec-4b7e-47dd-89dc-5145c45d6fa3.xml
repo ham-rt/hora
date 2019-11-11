@@ -1,0 +1,14 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Netwerk IP (internet)"
+    id="id-e1aaf1ec-4b7e-47dd-89dc-5145c45d6fa3"
+    documentation="Ondersteunt de routering van gegevenspakketjes over netwerkgrenzen heen.">
+  <properties
+      key="Voorbeelden"/>
+  <properties
+      key="Domein"
+      value="Applicatieplatform"/>
+  <properties
+      key="Type"
+      value="Platformnode"/>
+</archimate:Node>

@@ -1,0 +1,32 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Architectuur"
+    id="id-35e2c507-8546-4fb1-835f-0df9b9baa15b"
+    documentation="De eigenschappen van de organisatie die essentieel zijn om de doelstellingen te bereiken.">
+  <properties
+      key="Domein"
+      value="Sturing"/>
+  <properties
+      key="Synoniemen"/>
+  <properties
+      key="Gegevenstype"
+      value="masterdata"/>
+  <properties
+      key="Gegevenscategorie"
+      value="richting"/>
+  <properties
+      key="Beschikbaarheid"
+      value="laag"/>
+  <properties
+      key="Integriteit"
+      value="middel"/>
+  <properties
+      key="Vertrouwelijkheid"
+      value="laag"/>
+  <properties
+      key="Toelichting BIV-classificatie"
+      value="De integriteit van objecten die de planvorming voor veranderingsprocessen beïnvloeden, is belangrijk."/>
+  <properties
+      key="Type"
+      value="Informatieobject"/>
+</archimate:BusinessObject>

@@ -1,0 +1,21 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Officesuite"
+    id="id-efa4ac0e-2f7e-49c1-aa82-e16986ddd73a"
+    documentation="Een verzameling van systemen die het maken van ongestructureerde gegevens zoals presentaties, documenten en spreadsheets ondersteunt.">
+  <properties
+      key="Externe informatie"/>
+  <properties
+      key="Domein"
+      value="Generiek"/>
+  <properties
+      key="Bouwsteen"
+      value="Nee"/>
+  <properties
+      key="Beheerder"/>
+  <properties
+      key="Voorbeelden"/>
+  <properties
+      key="Type"
+      value="Referentieapplicatie"/>
+</archimate:ApplicationComponent>

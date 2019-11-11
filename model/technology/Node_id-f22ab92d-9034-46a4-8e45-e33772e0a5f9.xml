@@ -1,0 +1,15 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Message Queuing Middleware"
+    id="id-f22ab92d-9034-46a4-8e45-e33772e0a5f9"
+    documentation="Een systeem dat het tijdelijk opslaan, routeren en transporteren van berichten ondersteunt.">
+  <properties
+      key="Voorbeelden"
+      value="IBM WebSphere MQ , Oracle AQ, Microsoft MQ"/>
+  <properties
+      key="Domein"
+      value="Applicatieplatform"/>
+  <properties
+      key="Type"
+      value="Platformnode"/>
+</archimate:Node>

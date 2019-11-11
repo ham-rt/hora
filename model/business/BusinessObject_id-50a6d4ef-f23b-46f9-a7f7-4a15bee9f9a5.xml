@@ -1,0 +1,31 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Minor"
+    id="id-50a6d4ef-f23b-46f9-a7f7-4a15bee9f9a5"
+    documentation="Een verzameling van onderwijseenheden die als geheel worden aangeboden.">
+  <properties
+      key="Domein"
+      value="Onderwijs"/>
+  <properties
+      key="Synoniemen"/>
+  <properties
+      key="Gegevenstype"
+      value="masterdata"/>
+  <properties
+      key="Gegevenscategorie"
+      value="product"/>
+  <properties
+      key="Beschikbaarheid"
+      value="middel"/>
+  <properties
+      key="Integriteit"
+      value="hoog"/>
+  <properties
+      key="Vertrouwelijkheid"
+      value="openbaar"/>
+  <properties
+      key="Toelichting BIV-classificatie"/>
+  <properties
+      key="Type"
+      value="Informatieobject"/>
+</archimate:BusinessObject>

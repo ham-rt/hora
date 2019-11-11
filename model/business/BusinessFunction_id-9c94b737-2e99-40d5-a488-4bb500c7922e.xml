@@ -1,0 +1,12 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Informatieverstrekking"
+    id="id-9c94b737-2e99-40d5-a488-4bb500c7922e"
+    documentation="Het verstrekken van informatie over de instelling en haar producten en diensten.">
+  <properties
+      key="Domein"
+      value="Onderwijsondersteuning"/>
+  <properties
+      key="Type"
+      value="Deelbedrijfsfunctie"/>
+</archimate:BusinessFunction>

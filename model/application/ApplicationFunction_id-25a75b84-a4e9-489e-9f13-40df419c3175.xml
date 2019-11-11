@@ -1,0 +1,9 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Onderzoeksvergunningsverwervingsfunctie"
+    id="id-25a75b84-a4e9-489e-9f13-40df419c3175"
+    documentation="Het ondersteunens van het verwerven van vergunningen voor onderzoek">
+  <properties
+      key="Type"
+      value="Applicatiefunctie"/>
+</archimate:ApplicationFunction>

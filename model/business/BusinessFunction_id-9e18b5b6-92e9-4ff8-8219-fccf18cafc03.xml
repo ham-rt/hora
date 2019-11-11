@@ -1,0 +1,12 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Studieloopbaanbegeleiding"
+    id="id-9e18b5b6-92e9-4ff8-8219-fccf18cafc03"
+    documentation="Het helpen van deelnemers bij hun ontwikkelproces en het bewaken van hun studievoortgang.">
+  <properties
+      key="Domein"
+      value="Onderwijs"/>
+  <properties
+      key="Type"
+      value="Deelbedrijfsfunctie"/>
+</archimate:BusinessFunction>

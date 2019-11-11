@@ -1,0 +1,9 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Documentbewerkingsfunctie"
+    id="id-12253a5b-2903-4860-b15c-3d8cca42f76c"
+    documentation="Het ondersteunen van het maken en bewerken van documenten, presentaties, spreadsheets, etc.">
+  <properties
+      key="Type"
+      value="Applicatiefunctie"/>
+</archimate:ApplicationFunction>

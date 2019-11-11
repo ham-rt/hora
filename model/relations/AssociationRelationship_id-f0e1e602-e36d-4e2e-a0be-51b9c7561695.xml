@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="valideert"
+    id="id-f0e1e602-e36d-4e2e-a0be-51b9c7561695">
+  <source
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-77719dee-9e8f-4704-9449-b1d58422a799.xml#id-77719dee-9e8f-4704-9449-b1d58422a799"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-6c569442-9179-46b1-881e-06ccf8ec83af.xml#id-6c569442-9179-46b1-881e-06ccf8ec83af"/>
+</archimate:AssociationRelationship>

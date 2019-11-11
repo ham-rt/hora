@@ -1,0 +1,12 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Marktonderzoek"
+    id="id-14492d85-94c6-41c1-8fca-07733484bff4"
+    documentation="Het verzamelen en analyseren van informatie over de gedragingen, de houding en de motivaties van een bepaalde doelgroep.">
+  <properties
+      key="Domein"
+      value="Onderwijsondersteuning"/>
+  <properties
+      key="Type"
+      value="Deelbedrijfsfunctie"/>
+</archimate:BusinessFunction>

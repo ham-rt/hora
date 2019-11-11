@@ -1,0 +1,24 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Doorvoeren verbeteringen"
+    id="id-17d1239b-5c87-440b-ab25-4e3ac2f39224"
+    documentation="Verbeteringen doorvoeren vanuit het verschil tussen de beoogde en de geconstateerde en ervaren werking van de organisatie en haar prestatie.">
+  <properties
+      key="Beschrijving"
+      value="Doorgevoerde veranderingen blijven onderwerp van verbetering. Er kan een verschil geconstateerd of ervaren worden tussen wat men eigenlijk beoogd qua werking en prestatie en wat er feitelijk gebeurt. Hier ligt dan ruimte voor verdere optimalisatie en verbetering. De door te voeren verbeteringen kunnen op meerdere beleidsterreinen betrekking hebben."/>
+  <properties
+      key="Domein"
+      value="Sturing"/>
+  <properties
+      key="Trigger"
+      value="De feitelijk werking en prestatie van de organisatie komt niet overeenkomt met de beoogde situatie en er is behoefte aan verbetering en optimalisatie van de huidige situatie."/>
+  <properties
+      key="Preconditie"
+      value="De doelen en beoogde opzet voor de werking en prestatie van de organisatie zijn bekend ."/>
+  <properties
+      key="Postconditie"
+      value="De verbeteringen zijn doorgevoerd, geborgd en geëvalueerd."/>
+  <properties
+      key="Type"
+      value="Gebundeld bedrijfsproces"/>
+</archimate:BusinessProcess>

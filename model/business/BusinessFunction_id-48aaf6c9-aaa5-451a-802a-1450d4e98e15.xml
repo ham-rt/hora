@@ -1,0 +1,12 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Grootboekbeheer"
+    id="id-48aaf6c9-aaa5-451a-802a-1450d4e98e15"
+    documentation="Het beheren van de balans van de organisatie.">
+  <properties
+      key="Domein"
+      value="Bedrijfsvoering"/>
+  <properties
+      key="Type"
+      value="Deelbedrijfsfunctie"/>
+</archimate:BusinessFunction>

@@ -1,0 +1,9 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Stagetrajectgegevensbeheer"
+    id="id-7f01fb15-4787-45cf-8894-bc663ce4a1ac"
+    documentation="Het beheren van gegevens over stage- en afstudeertrajecten en de voortgang daarvan">
+  <properties
+      key="Type"
+      value="Applicatiefunctie"/>
+</archimate:ApplicationFunction>

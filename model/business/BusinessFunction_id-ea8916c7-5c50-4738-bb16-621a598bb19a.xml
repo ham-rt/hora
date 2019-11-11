@@ -1,0 +1,12 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Documentafhandeling en archivering"
+    id="id-ea8916c7-5c50-4738-bb16-621a598bb19a"
+    documentation="Het afhandelen van inkomende en uitgaande documentstromen en de archivering van documenten.">
+  <properties
+      key="Domein"
+      value="Bedrijfsvoering"/>
+  <properties
+      key="Type"
+      value="Deelbedrijfsfunctie"/>
+</archimate:BusinessFunction>

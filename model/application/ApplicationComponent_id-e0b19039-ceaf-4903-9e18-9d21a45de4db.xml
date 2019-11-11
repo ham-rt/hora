@@ -1,0 +1,21 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Zoekmachine"
+    id="id-e0b19039-ceaf-4903-9e18-9d21a45de4db"
+    documentation="Een systeem waarmee zowel gestuctureerde als ongestructureerde gegevens uit meerdere systemen wordt geïndexeerd en doorzoekbaar wordt gemaakt.">
+  <properties
+      key="Externe informatie"/>
+  <properties
+      key="Domein"
+      value="Generiek"/>
+  <properties
+      key="Bouwsteen"
+      value="Nee"/>
+  <properties
+      key="Beheerder"/>
+  <properties
+      key="Voorbeelden"/>
+  <properties
+      key="Type"
+      value="Referentieapplicatie"/>
+</archimate:ApplicationComponent>

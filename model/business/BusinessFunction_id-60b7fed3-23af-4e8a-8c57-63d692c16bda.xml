@@ -1,0 +1,12 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Roostering"
+    id="id-60b7fed3-23af-4e8a-8c57-63d692c16bda"
+    documentation="Het koppelen van mensen, middelen en activiteiten op bepaalde momenten in tijd, het publiceren van het resulterende rooster en het afhandelen van roosterwijzigingen.">
+  <properties
+      key="Domein"
+      value="Onderwijsondersteuning"/>
+  <properties
+      key="Type"
+      value="Hoofdbedrijfsfunctie"/>
+</archimate:BusinessFunction>

@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Begeleiden start-ups"
+    id="id-2005d8b9-7ee6-4ace-9d3c-d8204edd3b9b"
+    documentation="Het begeleiden van start-up bedrijven om te zorgen dat zij succesvol zijn.">
+  <properties
+      key="Domein"
+      value="Valorisatie"/>
+  <properties
+      key="Trigger"
+      value="Het ontstaan van spin-off uit onderzoeksresultaten in de vorm van start-ups."/>
+  <properties
+      key="Preconditie"
+      value="Passende organisatievorm"/>
+  <properties
+      key="Postconditie"
+      value="Start-up baat onderzoeksresultaten succesvol uit."/>
+  <properties
+      key="Type"
+      value="Deelbedrijfsproces"/>
+</archimate:BusinessProcess>

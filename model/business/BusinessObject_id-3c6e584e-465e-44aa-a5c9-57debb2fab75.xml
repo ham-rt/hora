@@ -1,0 +1,33 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Onderzoeksvraag"
+    id="id-3c6e584e-465e-44aa-a5c9-57debb2fab75"
+    documentation="Vraagstelling die binnen een onderzoek wordt behandeld en beantwoord.">
+  <properties
+      key="Type"
+      value="Informatieobject"/>
+  <properties
+      key="Domein"
+      value="Onderzoek"/>
+  <properties
+      key="Synoniemen"/>
+  <properties
+      key="Gegevenstype"
+      value="transactie"/>
+  <properties
+      key="Gegevenscategorie"
+      value="middel"/>
+  <properties
+      key="Beschikbaarheid"
+      value="laag"/>
+  <properties
+      key="Integriteit"
+      value="laag"/>
+  <properties
+      key="Vertrouwelijkheid"
+      value="laag"/>
+  <properties
+      key="Toelichting BIV-classificatie"/>
+  <properties
+      key="Voorbeelden"/>
+</archimate:BusinessObject>

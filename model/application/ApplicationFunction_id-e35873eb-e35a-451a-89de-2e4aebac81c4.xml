@@ -1,0 +1,9 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Videomanagementfunctie"
+    id="id-e35873eb-e35a-451a-89de-2e4aebac81c4"
+    documentation="Het ondersteunen van het opnemen, beheren en publiceren van video's">
+  <properties
+      key="Type"
+      value="Applicatiefunctie"/>
+</archimate:ApplicationFunction>

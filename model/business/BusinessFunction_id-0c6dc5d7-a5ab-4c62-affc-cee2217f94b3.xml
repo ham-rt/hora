@@ -1,0 +1,12 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Schoonmaak"
+    id="id-0c6dc5d7-a5ab-4c62-affc-cee2217f94b3"
+    documentation="Het schoonmaken van de gebouwen en de ruimtes daarin.">
+  <properties
+      key="Domein"
+      value="Bedrijfsvoering"/>
+  <properties
+      key="Type"
+      value="Deelbedrijfsfunctie"/>
+</archimate:BusinessFunction>

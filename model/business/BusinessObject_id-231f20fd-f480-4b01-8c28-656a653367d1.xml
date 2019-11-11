@@ -1,0 +1,32 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Onderzoeker"
+    id="id-231f20fd-f480-4b01-8c28-656a653367d1"
+    documentation="Een individu die iets op een wetenschappelijke manier onderzoekt.">
+  <properties
+      key="Type"
+      value="Informatieobject"/>
+  <properties
+      key="Domein"
+      value="Onderzoek"/>
+  <properties
+      key="Gegevenstype"
+      value="masterdata"/>
+  <properties
+      key="Gegevenscategorie"
+      value="partij"/>
+  <properties
+      key="Beschikbaarheid"
+      value="middel"/>
+  <properties
+      key="Integriteit"
+      value="hoog"/>
+  <properties
+      key="Vertrouwelijkheid"
+      value="hoog"/>
+  <properties
+      key="Toelichting BIV-classificatie"
+      value="Analoog aan Medewerker"/>
+  <properties
+      key="Voorbeelden"/>
+</archimate:BusinessObject>

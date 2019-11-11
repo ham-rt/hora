@@ -1,0 +1,32 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Vordering"
+    id="id-2936a8dc-a25d-4634-92d6-666c857f620a"
+    documentation="Het recht van een individu op het uitvoeren van een betaling door een andere individu op grond van een afspraak.">
+  <properties
+      key="Domein"
+      value="Bedrijfsvoering"/>
+  <properties
+      key="Synoniemen"/>
+  <properties
+      key="Gegevenstype"
+      value="transactie"/>
+  <properties
+      key="Gegevenscategorie"
+      value="gebeurtenis"/>
+  <properties
+      key="Beschikbaarheid"
+      value="laag"/>
+  <properties
+      key="Integriteit"
+      value="middel"/>
+  <properties
+      key="Vertrouwelijkheid"
+      value="laag"/>
+  <properties
+      key="Toelichting BIV-classificatie"
+      value="Financiële gegevens moeten integer zijn."/>
+  <properties
+      key="Type"
+      value="Informatieobject"/>
+</archimate:BusinessObject>

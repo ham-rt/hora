@@ -1,0 +1,23 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Evalueren veranderingen"
+    id="id-9c41bc73-022e-40df-9f2f-979e552b9652"
+    documentation="Doorgevoerde veranderingen worden geëvalueerd op aanpak, resultaat en effect ten opzicht heersend beleid.">
+  <properties
+      key="Beschrijving"/>
+  <properties
+      key="Domein"
+      value="Sturing"/>
+  <properties
+      key="Trigger"
+      value="Een verandering is geïmplementeerd."/>
+  <properties
+      key="Preconditie"
+      value="Veranderingen zijn/worden geïmplementeerd in de organisatie."/>
+  <properties
+      key="Postconditie"
+      value="Van een doorgevoerde verandering zijn status, resultaat en effect getoetst met het plan van het veranderingsinitiatief en het heersend beleid en wordt zonodig bijgestuurd."/>
+  <properties
+      key="Type"
+      value="Deelbedrijfsproces"/>
+</archimate:BusinessProcess>

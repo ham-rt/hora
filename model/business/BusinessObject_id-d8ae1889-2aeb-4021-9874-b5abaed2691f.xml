@@ -1,0 +1,32 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Onderzoeksobject"
+    id="id-d8ae1889-2aeb-4021-9874-b5abaed2691f"
+    documentation="Een object dat wordt onderzocht in een onderzoek (kan ook een subject/persoon zijn).">
+  <properties
+      key="Domein"
+      value="Onderzoek"/>
+  <properties
+      key="Synoniemen"/>
+  <properties
+      key="Gegevenstype"
+      value="masterdata"/>
+  <properties
+      key="Gegevenscategorie"
+      value="middel"/>
+  <properties
+      key="Beschikbaarheid"
+      value="laag"/>
+  <properties
+      key="Integriteit"
+      value="middel"/>
+  <properties
+      key="Vertrouwelijkheid"
+      value="hoog"/>
+  <properties
+      key="Toelichting BIV-classificatie"
+      value="Uitgaande van hoogst mogelijke vertrouwelijkheid (persoonsgegevens). In praktijk Vertrouwelijkheid L - H"/>
+  <properties
+      key="Type"
+      value="Informatieobject"/>
+</archimate:BusinessObject>

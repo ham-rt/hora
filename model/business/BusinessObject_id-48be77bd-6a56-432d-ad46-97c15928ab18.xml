@@ -1,0 +1,32 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Voorwerp"
+    id="id-48be77bd-6a56-432d-ad46-97c15928ab18"
+    documentation="Een object dat door individuen kan worden gebruikt.">
+  <properties
+      key="Domein"
+      value="Bedrijfsvoering"/>
+  <properties
+      key="Synoniemen"
+      value="Gebruiksartikel"/>
+  <properties
+      key="Gegevenstype"
+      value="masterdata"/>
+  <properties
+      key="Gegevenscategorie"
+      value="middel"/>
+  <properties
+      key="Beschikbaarheid"
+      value="laag"/>
+  <properties
+      key="Integriteit"
+      value="laag"/>
+  <properties
+      key="Vertrouwelijkheid"
+      value="laag"/>
+  <properties
+      key="Toelichting BIV-classificatie"/>
+  <properties
+      key="Type"
+      value="Informatieobject"/>
+</archimate:BusinessObject>

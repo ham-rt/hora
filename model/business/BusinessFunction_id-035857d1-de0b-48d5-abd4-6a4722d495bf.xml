@@ -1,0 +1,12 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Financieringsondersteuning"
+    id="id-035857d1-de0b-48d5-abd4-6a4722d495bf"
+    documentation="Het ondersteunen van de werving van een financiering voor een onderzoek.">
+  <properties
+      key="Domein"
+      value="Onderzoeksondersteuning"/>
+  <properties
+      key="Type"
+      value="Deelbedrijfsfunctie"/>
+</archimate:BusinessFunction>

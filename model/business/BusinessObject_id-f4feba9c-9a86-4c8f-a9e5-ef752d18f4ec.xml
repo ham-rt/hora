@@ -1,0 +1,33 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Onderzoekssoftware"
+    id="id-f4feba9c-9a86-4c8f-a9e5-ef752d18f4ec"
+    documentation="Geheel van programmatuur met een uniek karakter dat onontbeerlijk is om een onderzoek te kunnen verrichten, waarmee computers of andere digitale apparaten bewerkingen en taken uitvoeren.">
+  <properties
+      key="Type"
+      value="Informatieobject"/>
+  <properties
+      key="Domein"
+      value="Onderzoek"/>
+  <properties
+      key="Synoniemen"/>
+  <properties
+      key="Gegevenstype"
+      value="masterdata"/>
+  <properties
+      key="Gegevenscategorie"
+      value="middel"/>
+  <properties
+      key="Beschikbaarheid"
+      value="laag"/>
+  <properties
+      key="Integriteit"
+      value="middel"/>
+  <properties
+      key="Vertrouwelijkheid"
+      value="laag"/>
+  <properties
+      key="Toelichting BIV-classificatie"/>
+  <properties
+      key="Voorbeelden"/>
+</archimate:BusinessObject>

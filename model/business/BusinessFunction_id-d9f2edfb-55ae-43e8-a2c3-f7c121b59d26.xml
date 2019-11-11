@@ -1,0 +1,12 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Procesmanagement"
+    id="id-d9f2edfb-55ae-43e8-a2c3-f7c121b59d26"
+    documentation="Het bepalen van de gewenste inrichting van de processen en het bewaken dat de uitvoering in lijn is met deze inrichting.">
+  <properties
+      key="Domein"
+      value="Sturing"/>
+  <properties
+      key="Type"
+      value="Deelbedrijfsfunctie"/>
+</archimate:BusinessFunction>

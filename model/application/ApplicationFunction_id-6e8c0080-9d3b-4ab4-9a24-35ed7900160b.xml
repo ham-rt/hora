@@ -1,0 +1,9 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Onderzoeksfinancieringfunctie"
+    id="id-6e8c0080-9d3b-4ab4-9a24-35ed7900160b"
+    documentation="Het ondersteunen van de financiering van onderzoeken">
+  <properties
+      key="Type"
+      value="Applicatiefunctie"/>
+</archimate:ApplicationFunction>

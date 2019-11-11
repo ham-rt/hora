@@ -1,0 +1,21 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Kwaliteitsmanagementsysteem"
+    id="id-464455f2-cab8-48f6-baf1-dbcb9cb98eb3"
+    documentation="Een systeem dat kwaliteitsmanagement ondersteunt.">
+  <properties
+      key="Externe informatie"/>
+  <properties
+      key="Domein"
+      value="Sturing"/>
+  <properties
+      key="Bouwsteen"
+      value="Nee"/>
+  <properties
+      key="Beheerder"/>
+  <properties
+      key="Voorbeelden"/>
+  <properties
+      key="Type"
+      value="Referentieapplicatie"/>
+</archimate:ApplicationComponent>

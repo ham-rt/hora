@@ -1,0 +1,33 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Contact"
+    id="id-552a218b-2729-419e-bc18-7bd701bc65a8"
+    documentation="Een contact tussen individuen dat relevant is voor de bedrijfsvoering.">
+  <properties
+      key="Domein"
+      value="Bedrijfsvoering"/>
+  <properties
+      key="Synoniemen"
+      value="Contactmoment"/>
+  <properties
+      key="Gegevenstype"
+      value="transactie"/>
+  <properties
+      key="Gegevenscategorie"
+      value="gebeurtenis"/>
+  <properties
+      key="Beschikbaarheid"
+      value="laag"/>
+  <properties
+      key="Integriteit"
+      value="laag"/>
+  <properties
+      key="Vertrouwelijkheid"
+      value="laag"/>
+  <properties
+      key="Toelichting BIV-classificatie"
+      value="De integriteit moet opgewaardeerd worden als de interactie met het contact hierom vraagt. Denk bijvoorbeeld aan de opmaat naar juridische vastlegging."/>
+  <properties
+      key="Type"
+      value="Informatieobject"/>
+</archimate:BusinessObject>

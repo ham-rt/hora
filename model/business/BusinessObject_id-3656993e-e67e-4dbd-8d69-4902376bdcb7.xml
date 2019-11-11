@@ -1,0 +1,32 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Resultaat"
+    id="id-3656993e-e67e-4dbd-8d69-4902376bdcb7"
+    documentation="Het resultaat van een uitgevoerde activiteit dat vastgelegd dient te worden om te bepalen of voldaan wordt aan bepaalde key performance indicatoren.">
+  <properties
+      key="Domein"
+      value="Sturing"/>
+  <properties
+      key="Synoniemen"/>
+  <properties
+      key="Gegevenstype"
+      value="transactie"/>
+  <properties
+      key="Gegevenscategorie"
+      value="gebeurtenis"/>
+  <properties
+      key="Beschikbaarheid"
+      value="laag"/>
+  <properties
+      key="Integriteit"
+      value="hoog"/>
+  <properties
+      key="Vertrouwelijkheid"
+      value="middel"/>
+  <properties
+      key="Toelichting BIV-classificatie"
+      value="Vertrouwelijkheid L-H. Dit betreft informatie over de bedrijfsvoering van de instelling t.b.v. het management. Het kan via drill-down informatie bevatten over individuen."/>
+  <properties
+      key="Type"
+      value="Informatieobject"/>
+</archimate:BusinessObject>

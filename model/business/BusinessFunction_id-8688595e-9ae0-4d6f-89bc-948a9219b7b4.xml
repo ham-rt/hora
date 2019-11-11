@@ -1,0 +1,12 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Inzet en middelenplanning"
+    id="id-8688595e-9ae0-4d6f-89bc-948a9219b7b4"
+    documentation="Het reserveren van capaciteit van mensen en middelen zodat zij beschikbaar zijn om te voldoen aan de geprognotiseerde vraag.">
+  <properties
+      key="Domein"
+      value="Onderwijsondersteuning"/>
+  <properties
+      key="Type"
+      value="Deelbedrijfsfunctie"/>
+</archimate:BusinessFunction>

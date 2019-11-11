@@ -1,0 +1,12 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Gegevensverwerking en -analyse"
+    id="id-c4105621-95ba-441a-84a1-b9c573270cc7"
+    documentation="Het verwerken (extraheren, converteren, opschonen, ordenen e.d.), analyseren en interpreteren van de verzamelde onderzoeksgegevens.">
+  <properties
+      key="Domein"
+      value="Onderzoek"/>
+  <properties
+      key="Type"
+      value="Deelbedrijfsfunctie"/>
+</archimate:BusinessFunction>

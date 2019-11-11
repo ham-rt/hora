@@ -1,0 +1,12 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Begrotingsconstructie"
+    id="id-fd325a3d-5944-4c13-a35f-e8e0327a80ae"
+    documentation="Het vaststellen van de beschikbare financiële middelen en de daaruit voortvloeiende budgetten.">
+  <properties
+      key="Domein"
+      value="Bedrijfsvoering"/>
+  <properties
+      key="Type"
+      value="Deelbedrijfsfunctie"/>
+</archimate:BusinessFunction>

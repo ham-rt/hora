@@ -1,0 +1,14 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Besturingssysteem"
+    id="id-414ec812-37a0-44b9-86a2-cf03512e7131"
+    documentation="Een systeem dat het mogelijk maakt om programmatuur op een computer uit te voeren.">
+  <properties
+      key="Voorbeelden"/>
+  <properties
+      key="Domein"
+      value="Applicatieplatform"/>
+  <properties
+      key="Type"
+      value="Platformnode"/>
+</archimate:Node>

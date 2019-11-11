@@ -1,0 +1,9 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Betaalfunctie"
+    id="id-cddfe0a3-819e-4a82-a681-f0fc6b4e2b84"
+    documentation="Het ontvangen van fysieke betalingen">
+  <properties
+      key="Type"
+      value="Applicatiefunctie"/>
+</archimate:ApplicationFunction>

@@ -1,0 +1,9 @@
+<archimate:Grouping
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Valorisatie"
+    id="id-0c99cb07-9a51-44b0-b7d2-de1be61cdf17"
+    documentation="Het domein betreffende Valorisatie.">
+  <properties
+      key="Type"
+      value="HORA-domein"/>
+</archimate:Grouping>

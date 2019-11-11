@@ -1,0 +1,23 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Beheren en ontsluiten onderzoeksresultaten"
+    id="id-f62e3c4e-8f3b-4aad-9bfb-dd726a35d990"
+    documentation="Het beheren en ontsluiten van de resultaten van onderzoek.">
+  <properties
+      key="Beschrijving"/>
+  <properties
+      key="Domein"
+      value="Valorisatie"/>
+  <properties
+      key="Trigger"
+      value="Er zijn onderzoeksresultaten beschikbaar."/>
+  <properties
+      key="Preconditie"
+      value="De onderzoeksresultaten zijn overgedragen."/>
+  <properties
+      key="Postconditie"
+      value="De onderzoeksresultaten worden beheerd en beschikbaar gesteld."/>
+  <properties
+      key="Type"
+      value="Gebundeld bedrijfsproces"/>
+</archimate:BusinessProcess>

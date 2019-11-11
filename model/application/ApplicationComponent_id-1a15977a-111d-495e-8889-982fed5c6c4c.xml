@@ -1,0 +1,21 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Online kennisbank"
+    id="id-1a15977a-111d-495e-8889-982fed5c6c4c"
+    documentation="Een systeem dat ondersteunt bij het vinden van de juiste informatie, ondermeer door antwoorden te geven op veelgestelde vragen op een web-site.">
+  <properties
+      key="Externe informatie"/>
+  <properties
+      key="Domein"
+      value="Generiek"/>
+  <properties
+      key="Bouwsteen"
+      value="Nee"/>
+  <properties
+      key="Beheerder"/>
+  <properties
+      key="Voorbeelden"/>
+  <properties
+      key="Type"
+      value="Referentieapplicatie"/>
+</archimate:ApplicationComponent>

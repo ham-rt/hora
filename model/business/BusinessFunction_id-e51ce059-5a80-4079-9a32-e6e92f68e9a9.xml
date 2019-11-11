@@ -1,0 +1,12 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Toepassing didactische werkvorm"
+    id="id-e51ce059-5a80-4079-9a32-e6e92f68e9a9"
+    documentation="Het toepassen en uitvoeren van de gekozen didactische werkvorm.">
+  <properties
+      key="Domein"
+      value="Onderwijs"/>
+  <properties
+      key="Type"
+      value="Deelbedrijfsfunctie"/>
+</archimate:BusinessFunction>

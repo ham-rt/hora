@@ -1,0 +1,21 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Enterprise outputmanagementsysteem"
+    id="id-3a648b6f-3abe-4889-9848-9abad3e2364f"
+    documentation="Een systeem dat het genereren van documenten op basis van specifieke invoer ondersteunt.">
+  <properties
+      key="Externe informatie"/>
+  <properties
+      key="Domein"
+      value="Generiek"/>
+  <properties
+      key="Bouwsteen"
+      value="Nee"/>
+  <properties
+      key="Beheerder"/>
+  <properties
+      key="Voorbeelden"/>
+  <properties
+      key="Type"
+      value="Referentieapplicatie"/>
+</archimate:ApplicationComponent>

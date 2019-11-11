@@ -1,0 +1,12 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Goederenafhandeling"
+    id="id-6c8dfd9a-4ada-4b5f-b1b9-5370a1baee08"
+    documentation="Het afhandelen en routeren van inkomende en uitgaande goederenstromen en het beheren van goederen.">
+  <properties
+      key="Domein"
+      value="Bedrijfsvoering"/>
+  <properties
+      key="Type"
+      value="Deelbedrijfsfunctie"/>
+</archimate:BusinessFunction>

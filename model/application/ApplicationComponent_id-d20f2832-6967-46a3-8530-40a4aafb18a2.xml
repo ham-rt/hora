@@ -1,0 +1,21 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Narrowcastingsysteem"
+    id="id-d20f2832-6967-46a3-8530-40a4aafb18a2"
+    documentation="Een systeem dat in informatie via audiovisuele displays naar specifieke doelgroepen kan publiceren.">
+  <properties
+      key="Externe informatie"/>
+  <properties
+      key="Domein"
+      value="Generiek"/>
+  <properties
+      key="Bouwsteen"
+      value="Nee"/>
+  <properties
+      key="Beheerder"/>
+  <properties
+      key="Voorbeelden"/>
+  <properties
+      key="Type"
+      value="Referentieapplicatie"/>
+</archimate:ApplicationComponent>

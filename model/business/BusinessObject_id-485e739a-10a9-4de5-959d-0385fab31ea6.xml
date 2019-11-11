@@ -1,0 +1,31 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Beoordeling"
+    id="id-485e739a-10a9-4de5-959d-0385fab31ea6"
+    documentation="Een beoordeling van het functioneren van een medewerker.">
+  <properties
+      key="Domein"
+      value="Bedrijfsvoering"/>
+  <properties
+      key="Synoniemen"/>
+  <properties
+      key="Gegevenstype"
+      value="transactie"/>
+  <properties
+      key="Gegevenscategorie"
+      value="gebeurtenis"/>
+  <properties
+      key="Beschikbaarheid"
+      value="laag"/>
+  <properties
+      key="Integriteit"
+      value="middel"/>
+  <properties
+      key="Vertrouwelijkheid"
+      value="middel"/>
+  <properties
+      key="Toelichting BIV-classificatie"/>
+  <properties
+      key="Type"
+      value="Informatieobject"/>
+</archimate:BusinessObject>

@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ondersteunt"
+    id="id-9a984202-9f56-4464-a98e-e30ae25f0cfe">
+  <source
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-6c569442-9179-46b1-881e-06ccf8ec83af.xml#id-6c569442-9179-46b1-881e-06ccf8ec83af"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-c0de0461-cf28-4c18-8a75-7440bac7ea6d.xml#id-c0de0461-cf28-4c18-8a75-7440bac7ea6d"/>
+</archimate:AssociationRelationship>

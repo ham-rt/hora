@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Vastleggen onderzoeksvoortgang"
+    id="id-fba968a5-033a-4847-ba64-6a1e326864c1"
+    documentation="Het vastleggen van de voortgang van een onderzoek en de behaalde (tussen)resultaten.">
+  <properties
+      key="Domein"
+      value="Onderzoeksondersteuning"/>
+  <properties
+      key="Type"
+      value="Deelbedrijfsproces"/>
+  <properties
+      key="Trigger"
+      value="Er is een rapportageverzoek of een afspraak om op gezette tijden te rapporteren."/>
+  <properties
+      key="Preconditie"
+      value="Het is bekend wat de voortgang van het onderzoek is."/>
+  <properties
+      key="Postconditie"
+      value="Er is een verslag van de voortgang van het onderzoek en de reeds behaalde (tussen)resultaten."/>
+</archimate:BusinessProcess>

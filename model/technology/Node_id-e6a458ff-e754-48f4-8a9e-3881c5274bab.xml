@@ -1,0 +1,14 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="B2B Gateway"
+    id="id-e6a458ff-e754-48f4-8a9e-3881c5274bab"
+    documentation="Een systeem dat bericht-gebaseerde integratie met externe partijen ondersteunt.">
+  <properties
+      key="Voorbeelden"/>
+  <properties
+      key="Domein"
+      value="Applicatieplatform"/>
+  <properties
+      key="Type"
+      value="Platformnode"/>
+</archimate:Node>

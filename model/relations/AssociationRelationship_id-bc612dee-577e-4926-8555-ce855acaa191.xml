@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="heeft effect"
+    id="id-bc612dee-577e-4926-8555-ce855acaa191">
+  <source
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-b2f79465-50d7-4dbc-826e-99f09d5224d7.xml#id-b2f79465-50d7-4dbc-826e-99f09d5224d7"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-62ecaafa-d53b-4e54-a1b0-db928dbf5c96.xml#id-62ecaafa-d53b-4e54-a1b0-db928dbf5c96"/>
+</archimate:AssociationRelationship>

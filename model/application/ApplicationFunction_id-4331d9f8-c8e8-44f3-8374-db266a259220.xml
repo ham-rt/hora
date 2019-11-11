@@ -1,0 +1,12 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Compute &amp; Data Staging"
+    id="id-4331d9f8-c8e8-44f3-8374-db266a259220"
+    documentation="Ruimte binnen de VRE om gebruik te maken van verschillende compute solutions en waar nodig eenvoudig te configureren datastaging om kosteneffectief te bufferen voor grootschalige berekeningen.">
+  <properties
+      key="Type"
+      value="Gebundelde applicatiefunctie"/>
+  <properties
+      key="Externe informatie"
+      value="https://docs.google.com/document/d/1a2NmMlURQDIXDgP6JAIrOa_IbExX_Wqtgir2twuXnXs/edit#"/>
+</archimate:ApplicationFunction>

@@ -1,0 +1,23 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Definiëren veranderingsinitiatieven"
+    id="id-d0da09be-0a06-4635-8a12-fca086a7e65f"
+    documentation="Het definiëren van door te voeren veranderingen vanuit voorgenomen beleid.">
+  <properties
+      key="Beschrijving"/>
+  <properties
+      key="Domein"
+      value="Sturing"/>
+  <properties
+      key="Trigger"
+      value="Er zijn veranderingen noodzakelijk die doorgevoerd moeten worden vanuit voorgenomen beleid."/>
+  <properties
+      key="Preconditie"
+      value="Beleid is bekend. Er is een noodzaak om veranderingen door te voeren in de huidige situatie, afgezet tegen het te voeren beleid."/>
+  <properties
+      key="Postconditie"
+      value="Door te voeren veranderingen zijn gedefinieerd (doelen, scope, uitgangspunten etc.) en afgestemd voor betreffende beleidsterreinen."/>
+  <properties
+      key="Type"
+      value="Deelbedrijfsproces"/>
+</archimate:BusinessProcess>

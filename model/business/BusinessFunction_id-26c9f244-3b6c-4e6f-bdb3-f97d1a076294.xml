@@ -1,0 +1,12 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Onderzoeksdatamanagement"
+    id="id-26c9f244-3b6c-4e6f-bdb3-f97d1a076294"
+    documentation="De zorgvuldige omgang met en organisatie van onderzoeksgegevens gedurende de gehele onderzoekscyclus met als doel het onderzoeksproces zo efficiënt mogelijk te laten verlopen en samenwerking met anderen mogelijk te maken.">
+  <properties
+      key="Domein"
+      value="Onderzoeksondersteuning"/>
+  <properties
+      key="Type"
+      value="Deelbedrijfsfunctie"/>
+</archimate:BusinessFunction>

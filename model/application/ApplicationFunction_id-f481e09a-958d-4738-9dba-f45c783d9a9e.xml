@@ -1,0 +1,9 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Autorisatiegegevensbeheer"
+    id="id-f481e09a-958d-4738-9dba-f45c783d9a9e"
+    documentation="Het beheren van gegevens over autorisaties">
+  <properties
+      key="Type"
+      value="Applicatiefunctie"/>
+</archimate:ApplicationFunction>

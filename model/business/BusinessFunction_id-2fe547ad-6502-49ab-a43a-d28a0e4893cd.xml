@@ -1,0 +1,12 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Enterprise governance"
+    id="id-2fe547ad-6502-49ab-a43a-d28a0e4893cd"
+    documentation="Het inrichten van de besluitvormingsprocessen en structuren.">
+  <properties
+      key="Domein"
+      value="Sturing"/>
+  <properties
+      key="Type"
+      value="Deelbedrijfsfunctie"/>
+</archimate:BusinessFunction>

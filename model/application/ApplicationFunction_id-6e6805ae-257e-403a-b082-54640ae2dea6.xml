@@ -1,0 +1,9 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Faciliteitenbeheerfunctie"
+    id="id-6e6805ae-257e-403a-b082-54640ae2dea6"
+    documentation="Het ondersteunen van het beheer van faciliteiten">
+  <properties
+      key="Type"
+      value="Applicatiefunctie"/>
+</archimate:ApplicationFunction>

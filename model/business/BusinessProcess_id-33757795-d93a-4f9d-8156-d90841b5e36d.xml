@@ -1,0 +1,11 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Ontwikkelen BM Onderwijs"
+    id="id-33757795-d93a-4f9d-8156-d90841b5e36d">
+  <properties
+      key="Type"
+      value="Deelbedrijfsproces"/>
+  <properties
+      key="Domein"
+      value="Sturing"/>
+</archimate:BusinessProcess>

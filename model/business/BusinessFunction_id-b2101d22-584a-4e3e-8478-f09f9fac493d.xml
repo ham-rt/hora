@@ -1,0 +1,12 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Salaris- en declaratieverwerking"
+    id="id-b2101d22-584a-4e3e-8478-f09f9fac493d"
+    documentation="Het berekenen en uitkeren van het salaris en declaraties van medewerkers.">
+  <properties
+      key="Domein"
+      value="Bedrijfsvoering"/>
+  <properties
+      key="Type"
+      value="Deelbedrijfsfunctie"/>
+</archimate:BusinessFunction>

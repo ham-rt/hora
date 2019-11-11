@@ -1,0 +1,24 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Ontwikkelen beleid"
+    id="id-6a30c243-b241-4f3c-b4d3-6cd872a60e59"
+    documentation="Het uitvoeren van ontwikkeld beleid en het afleggen van verantwoording.">
+  <properties
+      key="Beschrijving"
+      value="Het definiëren van beleid, het monitoren en evalueren van de beleidsuitvoering en het afleggen van verantwoording over het gevoerde beleid. Voor allerlei aspecten kan beleid ontwikkeld worden, in wezen per bedrijfsfunctie. Vaak worden er een aantal relevante beleidsterreinen gedefinieerd om het hanteerbaar te houden en waar beleid van een aantal bedrijfsfuncties in samenhang beschouwd wordt. Beleidsterreinen kunnen zijn (indicatief): Marketing en Communicatie, Onderwijs, Onderzoek, Organisatie en Personeel, Financien en risico’s, Bedrijfsvoering en informatievoorziening."/>
+  <properties
+      key="Domein"
+      value="Sturing"/>
+  <properties
+      key="Trigger"
+      value="Meerjarendoelstellingen en een –planning zijn opgesteld c.q. bijgesteld. De resultaten van de beleidsuitvoering noodzaken tot bijstelling van beleid."/>
+  <properties
+      key="Preconditie"
+      value="Instellingsidentiteit, business modellen en meerjarendoelstelling en –plan zijn bekend. Beleid is/wordt gedefinieerd. Resultaten van de beleidsuitvoering zijn bekend."/>
+  <properties
+      key="Postconditie"
+      value="Het te voeren beleid is vastgesteld. Beleidsuitvoering vindt plaats en er vindt periodieke monitoring, toetsing, evaluatie en bijsturing plaats van het te voeren beleid."/>
+  <properties
+      key="Type"
+      value="Gebundeld bedrijfsproces"/>
+</archimate:BusinessProcess>

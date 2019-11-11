@@ -1,0 +1,9 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Kaartbeheerfunctie"
+    id="id-254c0f08-231e-4569-9670-9ffeabf1d54c"
+    documentation="Het ondersteunen van het beheer van fysieke kaarten, inclusief de daarop beschikbare gegevens voor bijvoorbeeld toegang tot gebouwen en ruimtes.">
+  <properties
+      key="Type"
+      value="Applicatiefunctie"/>
+</archimate:ApplicationFunction>

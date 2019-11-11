@@ -1,0 +1,22 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="IT management systeem"
+    id="id-7fbf953d-9bcc-446c-abe9-21a038087061"
+    documentation="Een systeem dat het beheren van IT systemen ondersteunt.">
+  <properties
+      key="Externe informatie"/>
+  <properties
+      key="Domein"
+      value="Bedrijfsvoering"/>
+  <properties
+      key="Bouwsteen"
+      value="Nee"/>
+  <properties
+      key="Beheerder"/>
+  <properties
+      key="Voorbeelden"
+      value="TOPdesk (http://www.topdesk.nl), HP IT Service Management (http://www8.hp.com/us/en/software/enterprise-software.html)"/>
+  <properties
+      key="Type"
+      value="Referentieapplicatie"/>
+</archimate:ApplicationComponent>

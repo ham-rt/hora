@@ -1,0 +1,12 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Onderzoekspartnering"
+    id="id-77da518a-9fa7-4b54-b00e-f25f7f22e5f2"
+    documentation="Het zoeken van partijen die een bijdrage willen leveren aan onderzoek.">
+  <properties
+      key="Domein"
+      value="Onderzoek"/>
+  <properties
+      key="Type"
+      value="Deelbedrijfsfunctie"/>
+</archimate:BusinessFunction>

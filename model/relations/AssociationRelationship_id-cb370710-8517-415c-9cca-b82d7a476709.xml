@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="leidt tot"
+    id="id-cb370710-8517-415c-9cca-b82d7a476709">
+  <source
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-8b27fc72-9731-4d22-83e1-d2e335c06c69.xml#id-8b27fc72-9731-4d22-83e1-d2e335c06c69"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-3ba872b4-be57-4df3-9437-0306bc0f46a0.xml#id-3ba872b4-be57-4df3-9437-0306bc0f46a0"/>
+</archimate:AssociationRelationship>

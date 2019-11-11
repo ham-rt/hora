@@ -1,0 +1,9 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Onderzoeksgegevensarchiveringsfunctie"
+    id="id-4354e517-2bea-4ab1-ada3-bf42bd57019a"
+    documentation="Het ondersteunen van het archiveren van onderzoeksgegevens">
+  <properties
+      key="Type"
+      value="Applicatiefunctie"/>
+</archimate:ApplicationFunction>

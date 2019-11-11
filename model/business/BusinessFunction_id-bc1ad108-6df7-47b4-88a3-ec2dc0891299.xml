@@ -1,0 +1,12 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Externe communicatie"
+    id="id-bc1ad108-6df7-47b4-88a3-ec2dc0891299"
+    documentation="Het verstrekken van informatie naar externe partijen.">
+  <properties
+      key="Domein"
+      value="Bedrijfsvoering"/>
+  <properties
+      key="Type"
+      value="Deelbedrijfsfunctie"/>
+</archimate:BusinessFunction>

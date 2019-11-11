@@ -1,0 +1,33 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Subsidieovereenkomst"
+    id="id-e0d5efff-cbe5-4591-9c43-257704fb7f46"
+    documentation="Een overeenkomst tussen een instelling en een subsidieverstrekker voor het uitvoeren van een onderzoek.">
+  <properties
+      key="Domein"
+      value="Onderzoek"/>
+  <properties
+      key="Synoniemen"
+      value="Subsidie"/>
+  <properties
+      key="Gegevenstype"
+      value="masterdata"/>
+  <properties
+      key="Gegevenscategorie"
+      value="overeenkomst"/>
+  <properties
+      key="Beschikbaarheid"
+      value="laag"/>
+  <properties
+      key="Integriteit"
+      value="middel"/>
+  <properties
+      key="Vertrouwelijkheid"
+      value="laag"/>
+  <properties
+      key="Toelichting BIV-classificatie"
+      value="Objecten waaruit verplichtingen of inkomende betalingen voortvloeien onderbouwen financiële gegevens."/>
+  <properties
+      key="Type"
+      value="Informatieobject"/>
+</archimate:BusinessObject>

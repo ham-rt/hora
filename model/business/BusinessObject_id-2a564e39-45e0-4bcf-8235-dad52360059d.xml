@@ -1,0 +1,33 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Apparaat"
+    id="id-2a564e39-45e0-4bcf-8235-dad52360059d"
+    documentation="Een fysiek rekenmiddel waar artefacten op geïnstalleerd kunnen worden en worden uitgevoerd.">
+  <properties
+      key="Domein"
+      value="Bedrijfsvoering"/>
+  <properties
+      key="Synoniemen"
+      value="Faciliteit, Server, Machine"/>
+  <properties
+      key="Gegevenstype"
+      value="masterdata"/>
+  <properties
+      key="Gegevenscategorie"
+      value="middel"/>
+  <properties
+      key="Beschikbaarheid"
+      value="laag"/>
+  <properties
+      key="Integriteit"
+      value="laag"/>
+  <properties
+      key="Vertrouwelijkheid"
+      value="hoog"/>
+  <properties
+      key="Toelichting BIV-classificatie"
+      value="IP adressen zijn erg gevoelig omdat deze voor hackers aantrekkelijk zijn."/>
+  <properties
+      key="Type"
+      value="Informatieobject"/>
+</archimate:BusinessObject>

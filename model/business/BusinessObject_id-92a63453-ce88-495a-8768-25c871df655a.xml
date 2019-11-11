@@ -1,0 +1,32 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Stageorganisatie"
+    id="id-92a63453-ce88-495a-8768-25c871df655a"
+    documentation="Een organisatie die stage/afstudeeropdrachten aanbiedt aan deelnemers.">
+  <properties
+      key="Domein"
+      value="Onderwijs"/>
+  <properties
+      key="Synoniemen"
+      value="Afstudeerorganisatie, Stagebedrijf, Afstudeerbedrijf, BPV-bedrijf"/>
+  <properties
+      key="Gegevenstype"
+      value="masterdata"/>
+  <properties
+      key="Gegevenscategorie"
+      value="partij"/>
+  <properties
+      key="Beschikbaarheid"
+      value="laag"/>
+  <properties
+      key="Integriteit"
+      value="laag"/>
+  <properties
+      key="Vertrouwelijkheid"
+      value="laag"/>
+  <properties
+      key="Toelichting BIV-classificatie"/>
+  <properties
+      key="Type"
+      value="Informatieobject"/>
+</archimate:BusinessObject>

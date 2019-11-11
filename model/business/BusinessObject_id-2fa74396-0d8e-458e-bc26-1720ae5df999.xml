@@ -1,0 +1,12 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Proefschrift"
+    id="id-2fa74396-0d8e-458e-bc26-1720ae5df999"
+    documentation="Een wetenschappelijke verhandeling die een promovendus moet schrijven en openbaar verdedigen om de graad van doctor te krijgen.">
+  <properties
+      key="Domein"
+      value="Onderzoek"/>
+  <properties
+      key="Type"
+      value="Informatieobject"/>
+</archimate:BusinessObject>

@@ -1,0 +1,12 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Onderzoeksplanning"
+    id="id-0fd17795-34ff-46e9-be96-6c724a39ba64"
+    documentation="Het opstellen van een voorstel voor een onderzoek en het indienen ervan voor goedkeuring.">
+  <properties
+      key="Domein"
+      value="Onderzoek"/>
+  <properties
+      key="Type"
+      value="Deelbedrijfsfunctie"/>
+</archimate:BusinessFunction>

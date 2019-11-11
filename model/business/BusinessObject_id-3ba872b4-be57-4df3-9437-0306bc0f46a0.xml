@@ -1,0 +1,31 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Onderwijseenheiduitvoering"
+    id="id-3ba872b4-be57-4df3-9437-0306bc0f46a0"
+    documentation="Een onderwijseenheid aangeboden aan één of meer doelgroepen in een bepaalde onderwijsperiode.">
+  <properties
+      key="Domein"
+      value="Onderwijsondersteuning"/>
+  <properties
+      key="Synoniemen"/>
+  <properties
+      key="Gegevenstype"
+      value="transactie"/>
+  <properties
+      key="Gegevenscategorie"
+      value="gebeurtenis"/>
+  <properties
+      key="Beschikbaarheid"
+      value="middel"/>
+  <properties
+      key="Integriteit"
+      value="hoog"/>
+  <properties
+      key="Vertrouwelijkheid"
+      value="openbaar"/>
+  <properties
+      key="Toelichting BIV-classificatie"/>
+  <properties
+      key="Type"
+      value="Informatieobject"/>
+</archimate:BusinessObject>

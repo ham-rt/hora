@@ -1,0 +1,23 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Definiëren beleid"
+    id="id-0609fd4f-db39-4595-a470-3a5f3ab38a7c"
+    documentation="Het definiëren van beleid voor een beleidsterrein op basis van de beleidsanalyse.">
+  <properties
+      key="Beschrijving"/>
+  <properties
+      key="Domein"
+      value="Sturing"/>
+  <properties
+      key="Trigger"
+      value="Er is een beleidsanalyse gemaakt voor een bepaald beleidsterrein."/>
+  <properties
+      key="Preconditie"
+      value="Beleidsanalyse is bekend. Instellingsidentiteit, business modellen en meerjarendoelstelling en –plan is bekend."/>
+  <properties
+      key="Postconditie"
+      value="Het te voeren beleid voor een beleidsterein is gedefinieerd, gevalideerd en goedgekeurd, afgestemd op de instellingsidentiteit, de business modellen, de meerjarendoelstelling en –planning en op andere beleidsterreinen."/>
+  <properties
+      key="Type"
+      value="Deelbedrijfsproces"/>
+</archimate:BusinessProcess>

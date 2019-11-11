@@ -1,0 +1,12 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Beleid en planvorming"
+    id="id-58931af6-240e-4c0d-8b7f-ddb0fe79b268"
+    documentation="Het vertalen van de strategie in meer concrete doelstellingen, uitgangspunten en plannen.">
+  <properties
+      key="Domein"
+      value="Sturing"/>
+  <properties
+      key="Type"
+      value="Hoofdbedrijfsfunctie"/>
+</archimate:BusinessFunction>

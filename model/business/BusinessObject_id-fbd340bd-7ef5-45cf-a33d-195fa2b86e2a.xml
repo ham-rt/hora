@@ -1,0 +1,29 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Individu"
+    id="id-fbd340bd-7ef5-45cf-a33d-195fa2b86e2a"
+    documentation="Een mens.">
+  <properties
+      key="Domein"
+      value="Bedrijfsvoering"/>
+  <properties
+      key="Synoniemen"
+      value="Mens, Natuurlijk persoon"/>
+  <properties
+      key="Gegevenstype"
+      value="masterdata"/>
+  <properties
+      key="Gegevenscategorie"
+      value="partij"/>
+  <properties
+      key="Beschikbaarheid"/>
+  <properties
+      key="Integriteit"/>
+  <properties
+      key="Vertrouwelijkheid"/>
+  <properties
+      key="Toelichting BIV-classificatie"/>
+  <properties
+      key="Type"
+      value="Informatieobject"/>
+</archimate:BusinessObject>

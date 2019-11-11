@@ -1,0 +1,22 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Salarisverwerkingssysteem"
+    id="id-00883abb-fe46-4c52-8e3f-fa5f0bc569af"
+    documentation="Een systeem dat het uitbetalen van salarissen aan medewerkers ondersteunt.">
+  <properties
+      key="Externe informatie"/>
+  <properties
+      key="Domein"
+      value="Bedrijfsvoering"/>
+  <properties
+      key="Bouwsteen"
+      value="Nee"/>
+  <properties
+      key="Beheerder"/>
+  <properties
+      key="Voorbeelden"
+      value="PeopleInc. Salaris (http://www.peopleinc.nl/nl-nl/)"/>
+  <properties
+      key="Type"
+      value="Referentieapplicatie"/>
+</archimate:ApplicationComponent>

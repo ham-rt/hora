@@ -1,0 +1,18 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Extern open onderwijsportaal"
+    id="id-788c4536-e218-4773-a148-0fd93356e94c"
+    documentation="Een systeem dat open onderwijsmateriaal ontsluit dat vanuit instellingen beschikbaar is gesteld voor hergebruik.">
+  <properties
+      key="Externe informatie"
+      value="https://www.wikiwijs.nl/"/>
+  <properties
+      key="Domein"
+      value="Derden"/>
+  <properties
+      key="Voorbeelden"
+      value="Wikiwijs, HBO kennisbank."/>
+  <properties
+      key="Type"
+      value="Externe applicatie"/>
+</archimate:ApplicationComponent>

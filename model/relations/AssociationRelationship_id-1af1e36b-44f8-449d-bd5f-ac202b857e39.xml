@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="is gecontracteerd in"
+    id="id-1af1e36b-44f8-449d-bd5f-ac202b857e39">
+  <source
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-466e3558-34f0-4076-9309-bfc1783407e2.xml#id-466e3558-34f0-4076-9309-bfc1783407e2"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-7f3df050-54a6-48b9-a099-2fd9eeb6e172.xml#id-7f3df050-54a6-48b9-a099-2fd9eeb6e172"/>
+</archimate:AssociationRelationship>

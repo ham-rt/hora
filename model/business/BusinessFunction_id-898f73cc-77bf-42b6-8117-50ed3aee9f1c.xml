@@ -1,0 +1,12 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Kennisoverdracht"
+    id="id-898f73cc-77bf-42b6-8117-50ed3aee9f1c"
+    documentation="Het overdragen van kennis over onderzoeksresultaten">
+  <properties
+      key="Domein"
+      value="Valorisatie"/>
+  <properties
+      key="Type"
+      value="Deelbedrijfsfunctie"/>
+</archimate:BusinessFunction>

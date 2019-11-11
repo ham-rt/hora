@@ -1,0 +1,12 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="IT-infrastructuurbeheer"
+    id="id-cdf2ceb3-64f7-47a6-94f1-51df2f67fdf6"
+    documentation="Het in stand houden en beheren van IT-infrastructuur.">
+  <properties
+      key="Domein"
+      value="Bedrijfsvoering"/>
+  <properties
+      key="Type"
+      value="Deelbedrijfsfunctie"/>
+</archimate:BusinessFunction>

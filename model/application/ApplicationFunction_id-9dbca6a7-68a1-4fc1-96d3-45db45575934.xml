@@ -1,0 +1,9 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Onderzoeksplanningsfunctie"
+    id="id-9dbca6a7-68a1-4fc1-96d3-45db45575934"
+    documentation="Het ondersteunen van het plannen van een onderzoek.">
+  <properties
+      key="Type"
+      value="Applicatiefunctie"/>
+</archimate:ApplicationFunction>

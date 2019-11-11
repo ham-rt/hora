@@ -1,0 +1,32 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Toetsactiviteit"
+    id="id-cdbdf92e-3446-430b-97d9-0430f124f557"
+    documentation="Een deelnemeractiviteit die de kennis, het inzicht en de vaardigheden van een deelnemer onderzoekt en die dient te leiden tot een toetsresultaat.">
+  <properties
+      key="Domein"
+      value="Onderwijs"/>
+  <properties
+      key="Synoniemen"
+      value="Summatieve toets, Assessment, Tentamen"/>
+  <properties
+      key="Gegevenstype"
+      value="transactie"/>
+  <properties
+      key="Gegevenscategorie"
+      value="gebeurtenis"/>
+  <properties
+      key="Beschikbaarheid"
+      value="middel"/>
+  <properties
+      key="Integriteit"
+      value="hoog"/>
+  <properties
+      key="Vertrouwelijkheid"
+      value="laag"/>
+  <properties
+      key="Toelichting BIV-classificatie"/>
+  <properties
+      key="Type"
+      value="Informatieobject"/>
+</archimate:BusinessObject>

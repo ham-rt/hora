@@ -1,0 +1,9 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Servicemanagementfunctie"
+    id="id-d623fde1-01c1-4717-971c-c1f3b35f7f3a"
+    documentation="Het ondersteunen van de interne dienstverlening (servicemanagement)">
+  <properties
+      key="Type"
+      value="Applicatiefunctie"/>
+</archimate:ApplicationFunction>

@@ -1,0 +1,9 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Gebouwbeheerfunctie"
+    id="id-fe816536-d64d-49fa-8167-a7a5a66cc067"
+    documentation="Het ondersteunen van het beheer van gebouwen">
+  <properties
+      key="Type"
+      value="Applicatiefunctie"/>
+</archimate:ApplicationFunction>

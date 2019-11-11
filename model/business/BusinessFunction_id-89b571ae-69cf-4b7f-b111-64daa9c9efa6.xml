@@ -1,0 +1,12 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Toetsroosterconstructie"
+    id="id-89b571ae-69cf-4b7f-b111-64daa9c9efa6"
+    documentation="Het koppelen van mensen, middelen en toetsactiviteiten op bepaalde momenten in tijd.">
+  <properties
+      key="Domein"
+      value="Onderwijsondersteuning"/>
+  <properties
+      key="Type"
+      value="Deelbedrijfsfunctie"/>
+</archimate:BusinessFunction>

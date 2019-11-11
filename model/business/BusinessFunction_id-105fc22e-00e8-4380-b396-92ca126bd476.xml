@@ -1,0 +1,12 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Kwaliteitszorg Onderzoek"
+    id="id-105fc22e-00e8-4380-b396-92ca126bd476"
+    documentation="Het evalueren dat het onderzoek voldoet aan daartoe vastgestelde kwaliteitscriteria, en het (extern) rapporteren en verantwoorden hierover. Hieronder vallen evaluaties conform het Standard Evaluation Protocol zoals vastgesteld door VSNU, KNAW en NWO, maar ook andere evaluatieraamwerken zoals de Shanghai-index en citation indices.">
+  <properties
+      key="Domein"
+      value="Sturing"/>
+  <properties
+      key="Type"
+      value="Deelbedrijfsfunctie"/>
+</archimate:BusinessFunction>

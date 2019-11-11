@@ -1,0 +1,23 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Monitoren en evalueren beleidsuitvoering"
+    id="id-621b3645-8679-4b2a-a912-7dbfe91fbe0c"
+    documentation="De uitvoering van het voorgenomen beleid wordt getoetst, bijgestuurd, gemonitord en geëvalueerd.">
+  <properties
+      key="Beschrijving"/>
+  <properties
+      key="Domein"
+      value="Sturing"/>
+  <properties
+      key="Trigger"
+      value="Voorgenomen beleid wordt ter hand genomen."/>
+  <properties
+      key="Preconditie"
+      value="Voorgenomen beleid is goedgekeurd. Over de status en resultaten van de beleidsuitvoering is informatie beschikbaar."/>
+  <properties
+      key="Postconditie"
+      value="Van de beleidsuitvoering zijn status en resultaten getoetst met het beleidsplan en wordt zonodig bijgestuurd."/>
+  <properties
+      key="Type"
+      value="Deelbedrijfsproces"/>
+</archimate:BusinessProcess>

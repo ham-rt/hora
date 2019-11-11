@@ -1,0 +1,33 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Onderzoekshypothese"
+    id="id-c0de0461-cf28-4c18-8a75-7440bac7ea6d"
+    documentation="Een veronderstelling die nog niet bewezen is, vaak in de vorm van het verwachte antwoord op een onderzoeksvraag.">
+  <properties
+      key="Type"
+      value="Informatieobject"/>
+  <properties
+      key="Domein"
+      value="Onderzoek"/>
+  <properties
+      key="Synoniemen"/>
+  <properties
+      key="Gegevenstype"
+      value="transactie"/>
+  <properties
+      key="Gegevenscategorie"
+      value="middel"/>
+  <properties
+      key="Beschikbaarheid"
+      value="laag"/>
+  <properties
+      key="Integriteit"
+      value="middel"/>
+  <properties
+      key="Vertrouwelijkheid"
+      value="laag"/>
+  <properties
+      key="Toelichting BIV-classificatie"/>
+  <properties
+      key="Voorbeelden"/>
+</archimate:BusinessObject>

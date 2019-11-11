@@ -1,0 +1,12 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Applicatie-ontwikkeling"
+    id="id-ddf8569c-b4c1-41a3-99bb-e8d5472bff31"
+    documentation="Het ontwikkelen toepassingsprogrammatuur en gegevensverzamelingen.">
+  <properties
+      key="Domein"
+      value="Bedrijfsvoering"/>
+  <properties
+      key="Type"
+      value="Deelbedrijfsfunctie"/>
+</archimate:BusinessFunction>

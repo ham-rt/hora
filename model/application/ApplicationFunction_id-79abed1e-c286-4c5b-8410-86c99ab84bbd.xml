@@ -1,0 +1,9 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Sollicitatiegegevensbeheer"
+    id="id-79abed1e-c286-4c5b-8410-86c99ab84bbd"
+    documentation="Het beheren van gegevens over sollicitaties">
+  <properties
+      key="Type"
+      value="Applicatiefunctie"/>
+</archimate:ApplicationFunction>

@@ -1,0 +1,12 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Kennisvermarkting"
+    id="id-eb7df7e2-877d-46d2-a3b6-0ad8c8b14b89"
+    documentation="Het daadwerkelijk vermarkten van de kennis die voortvloeit uit de onderzoeksresultaten (publicaties, onderzoeksgegevens).">
+  <properties
+      key="Domein"
+      value="Valorisatie"/>
+  <properties
+      key="Type"
+      value="Deelbedrijfsfunctie"/>
+</archimate:BusinessFunction>

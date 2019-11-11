@@ -1,0 +1,12 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Opleidingsevaluatie"
+    id="id-c0a8c85a-5931-40f6-97f3-ea6bb8c04f35"
+    documentation="Het evalueren of een opleiding of minor nog voldoet aan de gestelde kwaliteitseisen.">
+  <properties
+      key="Domein"
+      value="Onderwijs"/>
+  <properties
+      key="Type"
+      value="Deelbedrijfsfunctie"/>
+</archimate:BusinessFunction>

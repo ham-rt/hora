@@ -1,0 +1,12 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Informatiedoorlevering"
+    id="id-0ffb8948-75b4-4b4b-994f-5cb9c7062d3a"
+    documentation="Het beschikbaar stellen van informatie die buiten de instelling is geproduceerd.">
+  <properties
+      key="Domein"
+      value="Informatieontsluiting"/>
+  <properties
+      key="Type"
+      value="Hoofdbedrijfsfunctie"/>
+</archimate:BusinessFunction>

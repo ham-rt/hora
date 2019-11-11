@@ -1,0 +1,31 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Expressie"
+    id="id-f8036cf0-635c-4f20-bc41-15bdf4848e11"
+    documentation="De specifieke intellectuele of artistieke vorm waarin een werk wordt gerealiseerd (uitdrukkingsvorm).">
+  <properties
+      key="Domein"
+      value="Informatieontsluiting"/>
+  <properties
+      key="Synoniemen"/>
+  <properties
+      key="Gegevenstype"
+      value="masterdata"/>
+  <properties
+      key="Gegevenscategorie"
+      value="middel"/>
+  <properties
+      key="Beschikbaarheid"
+      value="laag"/>
+  <properties
+      key="Integriteit"
+      value="laag"/>
+  <properties
+      key="Vertrouwelijkheid"
+      value="openbaar"/>
+  <properties
+      key="Toelichting BIV-classificatie"/>
+  <properties
+      key="Type"
+      value="Informatieobject"/>
+</archimate:BusinessObject>

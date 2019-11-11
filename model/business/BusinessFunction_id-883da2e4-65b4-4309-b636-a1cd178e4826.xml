@@ -1,0 +1,12 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Deelnemeruitschrijving"
+    id="id-883da2e4-65b4-4309-b636-a1cd178e4826"
+    documentation="Het administratief verwerken van de uitschrijving van een deelnemer bij de onderwijsinstelling.">
+  <properties
+      key="Domein"
+      value="Onderwijsondersteuning"/>
+  <properties
+      key="Type"
+      value="Deelbedrijfsfunctie"/>
+</archimate:BusinessFunction>

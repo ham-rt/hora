@@ -1,0 +1,9 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Compliancybewakingsfunctie"
+    id="id-c749d786-d7c8-46e1-86ff-d3a67fe15def"
+    documentation="Het ondersteunen van processen om compliant te kunnen zijn aan wettelijke vereisten">
+  <properties
+      key="Type"
+      value="Applicatiefunctie"/>
+</archimate:ApplicationFunction>

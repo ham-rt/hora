@@ -1,0 +1,22 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Managementinformatiesysteem"
+    id="id-0c43459a-4f8a-4c90-af0d-815689412c33"
+    documentation="Een systeem dat een integraal en historisch beeld geeft van gegevens.">
+  <properties
+      key="Externe informatie"/>
+  <properties
+      key="Domein"
+      value="Sturing"/>
+  <properties
+      key="Bouwsteen"
+      value="Nee"/>
+  <properties
+      key="Beheerder"/>
+  <properties
+      key="Voorbeelden"
+      value="SAP BusinessObjects (http://www1.sap.com/netherlands/solutions/sapbusinessobjects/large/business-intelligence/BI-platform/index.epx), SAP NetWeaver Business Warehouse (http://www54.sap.com/pc/tech/data-warehousing/software/netweaver-business-warehouse/index.html), IBM InfoSphere Warehouse (http://www-03.ibm.com/software/products/us/en/infowarefami)"/>
+  <properties
+      key="Type"
+      value="Referentieapplicatie"/>
+</archimate:ApplicationComponent>

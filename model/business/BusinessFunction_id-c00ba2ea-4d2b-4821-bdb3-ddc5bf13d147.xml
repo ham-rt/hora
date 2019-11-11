@@ -1,0 +1,12 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Projectmanagement"
+    id="id-c00ba2ea-4d2b-4821-bdb3-ddc5bf13d147"
+    documentation="Het op gecontroleerde wijze uitvoeren van projecten.">
+  <properties
+      key="Domein"
+      value="Sturing"/>
+  <properties
+      key="Type"
+      value="Deelbedrijfsfunctie"/>
+</archimate:BusinessFunction>

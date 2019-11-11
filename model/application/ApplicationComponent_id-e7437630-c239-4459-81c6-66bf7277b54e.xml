@@ -1,0 +1,22 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Architectuurbeheersysteem"
+    id="id-e7437630-c239-4459-81c6-66bf7277b54e"
+    documentation="Een systeem die het modelleren en beheren van de enterprise-architectuur ondersteunt.">
+  <properties
+      key="Externe informatie"/>
+  <properties
+      key="Domein"
+      value="Sturing"/>
+  <properties
+      key="Bouwsteen"
+      value="Nee"/>
+  <properties
+      key="Beheerder"/>
+  <properties
+      key="Voorbeelden"
+      value="BiZZdesign Architect (http://www.bizzdesign.com/tools/bizzdesign-architect/), Software AG ARIS (http://www.softwareag.com/corporate/products/aris_platform/default.asp), Sparx Enterprise Architect (http://www.sparxsystems.com/) , WikiXL (http://www.wikixl.nl)"/>
+  <properties
+      key="Type"
+      value="Referentieapplicatie"/>
+</archimate:ApplicationComponent>

@@ -1,0 +1,33 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Examenprogramma"
+    id="id-2c2df65c-1aca-48a6-babc-cd9d68a74b92"
+    documentation="Een deelnemer-specifieke invulling van een examenprogramma, bestaande uit een geheel van onderwijseenheden.">
+  <properties
+      key="Domein"
+      value="Onderwijs"/>
+  <properties
+      key="Synoniemen"
+      value="Arrangement"/>
+  <properties
+      key="Gegevenstype"
+      value="masterdata"/>
+  <properties
+      key="Gegevenscategorie"
+      value="overeenkomst"/>
+  <properties
+      key="Beschikbaarheid"
+      value="middel"/>
+  <properties
+      key="Integriteit"
+      value="hoog"/>
+  <properties
+      key="Vertrouwelijkheid"
+      value="laag"/>
+  <properties
+      key="Toelichting BIV-classificatie"
+      value="De informatie over het primaire proces moet integer zijn. Als activiteiten van veel individuën afhangen van de beschikbaarheid verhoogt dit de B-score. Dit geldt voor veel objecten die nodig zijn bij (de ondersteuning van) het onderwijsproces."/>
+  <properties
+      key="Type"
+      value="Informatieobject"/>
+</archimate:BusinessObject>

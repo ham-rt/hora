@@ -1,0 +1,12 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Informatiebeveiliging"
+    id="id-4b6db499-5713-4132-a1fc-f5dd034a0460"
+    documentation="Het borgen van de continuïteit van de informatie en de informatievoorziening en het beperken van de eventuele gevolgen van beveiligingsincidenten tot een acceptabel, vooraf bepaald niveau.">
+  <properties
+      key="Domein"
+      value="Bedrijfsvoering"/>
+  <properties
+      key="Type"
+      value="Deelbedrijfsfunctie"/>
+</archimate:BusinessFunction>

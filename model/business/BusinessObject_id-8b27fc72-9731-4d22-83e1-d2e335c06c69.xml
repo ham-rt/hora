@@ -1,0 +1,33 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Onderwijseenheid"
+    id="id-8b27fc72-9731-4d22-83e1-d2e335c06c69"
+    documentation="Een samenhangend onderdeel van de opleiding dat een deelnemer afsluit met een toets.">
+  <properties
+      key="Domein"
+      value="Onderwijs"/>
+  <properties
+      key="Synoniemen"
+      value="Examenproduct"/>
+  <properties
+      key="Gegevenstype"
+      value="masterdata"/>
+  <properties
+      key="Gegevenscategorie"
+      value="product"/>
+  <properties
+      key="Beschikbaarheid"
+      value="middel"/>
+  <properties
+      key="Integriteit"
+      value="hoog"/>
+  <properties
+      key="Vertrouwelijkheid"
+      value="openbaar"/>
+  <properties
+      key="Toelichting BIV-classificatie"
+      value="Bouwstenen voor het examenprogramma van deelnemers moeten integer zijn. Als zij niet beschikbaar zijn is de registratie van onderwijsdeelname onmogelijk."/>
+  <properties
+      key="Type"
+      value="Informatieobject"/>
+</archimate:BusinessObject>

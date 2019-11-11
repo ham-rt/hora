@@ -1,0 +1,12 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Debiteurenbeheer"
+    id="id-a254f940-a7ba-430a-bcf4-0f5990b90d15"
+    documentation="Het ervoor zorg dragen dat debiteuren openstaande vorderingen betalen.">
+  <properties
+      key="Domein"
+      value="Bedrijfsvoering"/>
+  <properties
+      key="Type"
+      value="Deelbedrijfsfunctie"/>
+</archimate:BusinessFunction>

@@ -1,0 +1,12 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Afhandeling bezwaren en beroepen"
+    id="id-650a8347-d81f-4ad9-88c3-aebe273eb19e"
+    documentation="Het afhandelen van een melding van een individu die het niet eens is met een formele uitspraak van de instelling.">
+  <properties
+      key="Domein"
+      value="Bedrijfsvoering"/>
+  <properties
+      key="Type"
+      value="Deelbedrijfsfunctie"/>
+</archimate:BusinessFunction>

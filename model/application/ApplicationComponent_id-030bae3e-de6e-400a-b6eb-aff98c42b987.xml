@@ -1,0 +1,22 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Educatieve applicatie"
+    id="id-030bae3e-de6e-400a-b6eb-aff98c42b987"
+    documentation="Een systeem dat specifieke leerinhoud voor de deelnemer zichtbaar maakt.">
+  <properties
+      key="Externe informatie"/>
+  <properties
+      key="Domein"
+      value="Onderwijs"/>
+  <properties
+      key="Bouwsteen"
+      value="Nee"/>
+  <properties
+      key="Beheerder"/>
+  <properties
+      key="Voorbeelden"
+      value="Pearson Mastering Physics (http://www.masteringphysics.com)"/>
+  <properties
+      key="Type"
+      value="Referentieapplicatie"/>
+</archimate:ApplicationComponent>

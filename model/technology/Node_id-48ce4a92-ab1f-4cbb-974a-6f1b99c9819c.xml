@@ -1,0 +1,14 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Monitoringtool"
+    id="id-48ce4a92-ab1f-4cbb-974a-6f1b99c9819c"
+    documentation="Een systeem dat de status van (andere) systemen in de IT-omgeving bewaakt en alarmeert bij uitval of andere incidenten.">
+  <properties
+      key="Domein"
+      value="Applicatieplatform"/>
+  <properties
+      key="Type"
+      value="Platformnode"/>
+  <properties
+      key="Voorbeelden"/>
+</archimate:Node>

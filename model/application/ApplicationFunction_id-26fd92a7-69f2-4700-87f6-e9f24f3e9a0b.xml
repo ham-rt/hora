@@ -1,0 +1,9 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Contactengegevensbeheer"
+    id="id-26fd92a7-69f2-4700-87f6-e9f24f3e9a0b"
+    documentation="Het beheren van gegevens over contactmomenten">
+  <properties
+      key="Type"
+      value="Applicatiefunctie"/>
+</archimate:ApplicationFunction>

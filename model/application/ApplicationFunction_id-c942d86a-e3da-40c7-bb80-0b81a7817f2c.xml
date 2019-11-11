@@ -1,0 +1,9 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Promotievolgfunctie"
+    id="id-c942d86a-e3da-40c7-bb80-0b81a7817f2c"
+    documentation="Het ondersteunen van het volgen van de voortgang van promoties">
+  <properties
+      key="Type"
+      value="Applicatiefunctie"/>
+</archimate:ApplicationFunction>

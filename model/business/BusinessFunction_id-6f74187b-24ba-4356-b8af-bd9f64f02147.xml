@@ -1,0 +1,12 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Stagematching"
+    id="id-6f74187b-24ba-4356-b8af-bd9f64f02147"
+    documentation="Het beoordelen van de match tussen stage/afstudeeropdracht, stage/afstudeerorganisatie en deelnemer.">
+  <properties
+      key="Domein"
+      value="Onderwijs"/>
+  <properties
+      key="Type"
+      value="Deelbedrijfsfunctie"/>
+</archimate:BusinessFunction>

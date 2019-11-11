@@ -1,0 +1,15 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Enterprise Service Bus"
+    id="id-9179ab52-a531-4b00-b5c3-7508cee6fab0"
+    documentation="Een systeem dat het vertalen en routeren van berichten ondersteunt.">
+  <properties
+      key="Voorbeelden"
+      value="Talend ESB (http://www.talend.com/products/esb), Oracle Service Bus (http://www.oracle.com/technetwork/middleware/service-bus/overview/index.html), MuleSoft Mule ESB (http://www.mulesoft.org), RedHat JBoss SOA Platform (http://www.redhat.com/products/jbossenterprisemiddleware/soa/), IBM WebSphere ESB (http://www-03.ibm.com/software/products/us/en/wsesb/)"/>
+  <properties
+      key="Domein"
+      value="Applicatieplatform"/>
+  <properties
+      key="Type"
+      value="Platformnode"/>
+</archimate:Node>

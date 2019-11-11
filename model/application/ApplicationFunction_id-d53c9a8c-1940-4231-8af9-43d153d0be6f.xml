@@ -1,0 +1,9 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Onderzoeksgegevensbeheerfunctie"
+    id="id-d53c9a8c-1940-4231-8af9-43d153d0be6f"
+    documentation="Het beheren van onderzoeksgegevens tijdens de uitvoering van het onderzoek">
+  <properties
+      key="Type"
+      value="Applicatiefunctie"/>
+</archimate:ApplicationFunction>

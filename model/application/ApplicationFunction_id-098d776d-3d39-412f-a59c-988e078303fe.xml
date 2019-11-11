@@ -1,0 +1,9 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="IT-Systeembeheerfunctie"
+    id="id-098d776d-3d39-412f-a59c-988e078303fe"
+    documentation="Het ondersteunen van het beheer van IT systemen">
+  <properties
+      key="Type"
+      value="Applicatiefunctie"/>
+</archimate:ApplicationFunction>

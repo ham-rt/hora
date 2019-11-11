@@ -1,0 +1,12 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Prospectondersteuning"
+    id="id-775f6d3c-21d2-4790-b827-6f7ac854568f"
+    documentation="Het direct benaderen, adviseren en ondersteunen van een potentiele deelnemer.">
+  <properties
+      key="Domein"
+      value="Onderwijsondersteuning"/>
+  <properties
+      key="Type"
+      value="Deelbedrijfsfunctie"/>
+</archimate:BusinessFunction>

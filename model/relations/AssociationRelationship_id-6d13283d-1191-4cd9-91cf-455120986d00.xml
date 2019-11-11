@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="heeft als inventaris"
+    id="id-6d13283d-1191-4cd9-91cf-455120986d00">
+  <source
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-647a96e2-b391-4f29-93e6-c9976aede177.xml#id-647a96e2-b391-4f29-93e6-c9976aede177"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-48be77bd-6a56-432d-ad46-97c15928ab18.xml#id-48be77bd-6a56-432d-ad46-97c15928ab18"/>
+</archimate:AssociationRelationship>

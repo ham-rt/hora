@@ -1,0 +1,12 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Onderwijsplanning"
+    id="id-a475d4de-8db4-40b6-b6cd-0a5ce0f13646"
+    documentation="Het samenstellen en communiceren van een planning van mensen en middelen.">
+  <properties
+      key="Domein"
+      value="Onderwijsondersteuning"/>
+  <properties
+      key="Type"
+      value="Hoofdbedrijfsfunctie"/>
+</archimate:BusinessFunction>

@@ -1,0 +1,33 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Werkproduct"
+    id="id-c73b98a2-ede0-482b-b7b7-c664ee1795c0"
+    documentation="Een artefact dat gemaakt wordt in het kader van een activiteit. Voorbeelden zijn een scriptie, verslag, werkstuk, proefschrift of foto's van fysieke producten die zijn gemaakt.">
+  <properties
+      key="Domein"
+      value="Onderwijs"/>
+  <properties
+      key="Synoniemen"
+      value="Scriptie, Verslag, Werkstuk, Bewijsstuk"/>
+  <properties
+      key="Gegevenstype"
+      value="transactie"/>
+  <properties
+      key="Gegevenscategorie"
+      value="gebeurtenis"/>
+  <properties
+      key="Beschikbaarheid"
+      value="laag"/>
+  <properties
+      key="Integriteit"
+      value="hoog"/>
+  <properties
+      key="Vertrouwelijkheid"
+      value="middel"/>
+  <properties
+      key="Toelichting BIV-classificatie"
+      value="Vertrouwelijkheid L-M. De uitkomst van het primaire proces moet integer zijn. Ongeoorloofde wijziging kan tot aanzienlijke imagoschade leiden. Vertrouwelijk, maar met een lage risicoclassering."/>
+  <properties
+      key="Type"
+      value="Informatieobject"/>
+</archimate:BusinessObject>

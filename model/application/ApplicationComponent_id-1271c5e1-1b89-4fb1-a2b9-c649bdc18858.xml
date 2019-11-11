@@ -1,0 +1,22 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Stagesysteem"
+    id="id-1271c5e1-1b89-4fb1-a2b9-c649bdc18858"
+    documentation="Een systeem dat vraag en aanbod van stageplaatsen aan elkaar koppelt en het (afstudeer)stagetraject volgt.">
+  <properties
+      key="Externe informatie"/>
+  <properties
+      key="Domein"
+      value="Onderwijsondersteuning, Onderwijs"/>
+  <properties
+      key="Bouwsteen"
+      value="Nee"/>
+  <properties
+      key="Beheerder"/>
+  <properties
+      key="Voorbeelden"
+      value="Xebic OnStage (http://www.onstagesoftware.nl), Equimatch (http://www.stagesoftware.nl)"/>
+  <properties
+      key="Type"
+      value="Referentieapplicatie"/>
+</archimate:ApplicationComponent>

@@ -1,0 +1,12 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Inkoopmanagement"
+    id="id-8b5f023c-1d7e-450b-98b4-0057d617679a"
+    documentation="Het verwerven van middelen en het bewaken van de afspraken hierover met de leverancier.">
+  <properties
+      key="Domein"
+      value="Bedrijfsvoering"/>
+  <properties
+      key="Type"
+      value="Hoofdbedrijfsfunctie"/>
+</archimate:BusinessFunction>

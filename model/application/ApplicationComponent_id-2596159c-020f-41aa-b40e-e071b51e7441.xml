@@ -1,0 +1,22 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Videomanagementsysteem"
+    id="id-2596159c-020f-41aa-b40e-e071b51e7441"
+    documentation="Een systeem dat het opnemen, beheren en publiceren van video's ondersteunt.">
+  <properties
+      key="Externe informatie"/>
+  <properties
+      key="Domein"
+      value="Onderwijs"/>
+  <properties
+      key="Bouwsteen"
+      value="Nee"/>
+  <properties
+      key="Beheerder"/>
+  <properties
+      key="Voorbeelden"
+      value="Kaltura (http://corp.kaltura.com), MediaMosa (http://www.mediamosa.org), Sonicfoundry Mediasite (http://www.sonicfoundry.com/mediasite)"/>
+  <properties
+      key="Type"
+      value="Referentieapplicatie"/>
+</archimate:ApplicationComponent>

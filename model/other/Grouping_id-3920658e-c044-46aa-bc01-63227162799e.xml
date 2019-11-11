@@ -1,0 +1,9 @@
+<archimate:Grouping
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Sturing"
+    id="id-3920658e-c044-46aa-bc01-63227162799e"
+    documentation="Het domein betreffende Sturing.">
+  <properties
+      key="Type"
+      value="HORA-domein"/>
+</archimate:Grouping>

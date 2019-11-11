@@ -1,0 +1,12 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Interne rapportages"
+    id="id-5c058456-dfed-4166-b91b-74af66364dbd"
+    documentation="Het beschikbaar stellen van informatie over de het functioneren van de organisatie aan interne partijen.">
+  <properties
+      key="Domein"
+      value="Sturing"/>
+  <properties
+      key="Type"
+      value="Deelbedrijfsfunctie"/>
+</archimate:BusinessFunction>

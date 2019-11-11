@@ -1,0 +1,9 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Informatievindfunctie"
+    id="id-b464ed8b-62a4-4ffb-974e-cbabd9bd2a88"
+    documentation="Het ondersteunen bij het vinden van de juiste informatie">
+  <properties
+      key="Type"
+      value="Applicatiefunctie"/>
+</archimate:ApplicationFunction>

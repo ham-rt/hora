@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Overdragen kennis naar vakgenoten"
+    id="id-d88a248f-40cc-4318-ba7f-f57c50dffad8"
+    documentation="Het overdragen van kennis over de onderzoeksresultaten naar vakgenoten ten behoeve van kennisdeling.">
+  <properties
+      key="Domein"
+      value="Valorisatie"/>
+  <properties
+      key="Type"
+      value="Deelbedrijfsproces"/>
+  <properties
+      key="Trigger"
+      value="Er is een indicatie dat de onderzoekresultaten kunnen worden uitgebaat ten behoeve van kennisdeling."/>
+  <properties
+      key="Preconditie"
+      value="Er zijn onderzoeksresultaten met een geborgde status."/>
+  <properties
+      key="Postconditie"
+      value="Onderzoeksresultaten zijn succesvol naar vakgenoten overgedragen."/>
+</archimate:BusinessProcess>

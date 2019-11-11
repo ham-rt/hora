@@ -1,0 +1,9 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Stageplaatsmatchingfunctie"
+    id="id-04dcb30f-8ae8-4849-a82d-eaea68f77864"
+    documentation="Het ondersteunen van het matchen van vraag en aanbod van stageplaatsen en van afstudeertrajecten">
+  <properties
+      key="Type"
+      value="Applicatiefunctie"/>
+</archimate:ApplicationFunction>

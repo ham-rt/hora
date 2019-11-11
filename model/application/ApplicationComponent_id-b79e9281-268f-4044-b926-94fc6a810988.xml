@@ -1,0 +1,21 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Kaartbeheersysteem"
+    id="id-b79e9281-268f-4044-b926-94fc6a810988"
+    documentation="Een systeem dat fysieke kaarten beheert, inclusief de daarop beschikbare gegevens voor bijvoorbeeld toegang tot gebouwen en ruimtes.">
+  <properties
+      key="Externe informatie"/>
+  <properties
+      key="Domein"
+      value="Bedrijfsvoering"/>
+  <properties
+      key="Bouwsteen"
+      value="Nee"/>
+  <properties
+      key="Beheerder"/>
+  <properties
+      key="Voorbeelden"/>
+  <properties
+      key="Type"
+      value="Referentieapplicatie"/>
+</archimate:ApplicationComponent>

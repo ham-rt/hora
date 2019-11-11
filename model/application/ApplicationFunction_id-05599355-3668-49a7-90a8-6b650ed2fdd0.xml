@@ -1,0 +1,9 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Studieinschrijffunctie"
+    id="id-05599355-3668-49a7-90a8-6b650ed2fdd0"
+    documentation="Het ondersteunen van het aanmelden, inschrijven en uitschrijven van deelnemers voor deelname aan (delen van) het onderwijsaanbod">
+  <properties
+      key="Type"
+      value="Applicatiefunctie"/>
+</archimate:ApplicationFunction>

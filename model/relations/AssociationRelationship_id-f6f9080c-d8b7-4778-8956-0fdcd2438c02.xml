@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="creëert"
+    id="id-f6f9080c-d8b7-4778-8956-0fdcd2438c02">
+  <source
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-47ac9605-8cf8-48ef-b15c-8943102fbea6.xml#id-47ac9605-8cf8-48ef-b15c-8943102fbea6"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-77719dee-9e8f-4704-9449-b1d58422a799.xml#id-77719dee-9e8f-4704-9449-b1d58422a799"/>
+</archimate:AssociationRelationship>

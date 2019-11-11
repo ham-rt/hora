@@ -1,0 +1,12 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Investering"
+    id="id-f9c797c9-ca64-47e3-8591-143ef7f51217"
+    documentation="Een opoffering in geld, tijd of mankracht (personeel) ten behoeve van een bepaald doel dat (of opbrengsten die) pas in de toekomst wordt (worden) behaald.">
+  <properties
+      key="Type"
+      value="Informatieobject"/>
+  <properties
+      key="Domein"
+      value="Bedrijfsvoering"/>
+</archimate:BusinessObject>

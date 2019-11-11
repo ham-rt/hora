@@ -1,0 +1,12 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Onderwijsmateriaalontsluiting"
+    id="id-5180e2b6-8b97-4d5c-853f-4e6446dd9605"
+    documentation="Het beschikbaar stellen van het onderwijsmateriaal, zowel binnen als buiten de instelling.">
+  <properties
+      key="Domein"
+      value="Onderwijs"/>
+  <properties
+      key="Type"
+      value="Deelbedrijfsfunctie"/>
+</archimate:BusinessFunction>

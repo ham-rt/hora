@@ -1,0 +1,12 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Onderzoeksregistratie"
+    id="id-6ef92e81-ef33-49b5-89fe-60215c4b4fb3"
+    documentation="Het registreren van informatie over een onderzoek.">
+  <properties
+      key="Domein"
+      value="Onderzoeksondersteuning"/>
+  <properties
+      key="Type"
+      value="Deelbedrijfsfunctie"/>
+</archimate:BusinessFunction>

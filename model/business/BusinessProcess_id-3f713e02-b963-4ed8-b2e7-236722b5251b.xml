@@ -1,0 +1,23 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Inschrijven voor opleiding"
+    id="id-3f713e02-b963-4ed8-b2e7-236722b5251b"
+    documentation="Het afhandelen van een aanmelding van een student voor een opleiding.">
+  <properties
+      key="Beschrijving"/>
+  <properties
+      key="Domein"
+      value="Onderwijs"/>
+  <properties
+      key="Trigger"
+      value="Een individu meldt zich aan voor een opleiding."/>
+  <properties
+      key="Preconditie"
+      value="Het individu heeft zich georiënteerd en laten informeren over een specifieke opleiding en heeft zich ook aangemeld."/>
+  <properties
+      key="Postconditie"
+      value="Het individu is wel of niet ingeschreven als deelnemer en zijn/haar examenprogramma is wel of niet samengesteld."/>
+  <properties
+      key="Type"
+      value="Deelbedrijfsproces"/>
+</archimate:BusinessProcess>

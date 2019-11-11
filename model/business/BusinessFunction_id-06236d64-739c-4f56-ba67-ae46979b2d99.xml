@@ -1,0 +1,12 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Onderzoeksobjectwerving"
+    id="id-06236d64-739c-4f56-ba67-ae46979b2d99"
+    documentation="Het werven van objecten die onderzocht gaan worden in het onderzoek.">
+  <properties
+      key="Domein"
+      value="Onderzoeksondersteuning"/>
+  <properties
+      key="Type"
+      value="Deelbedrijfsfunctie"/>
+</archimate:BusinessFunction>

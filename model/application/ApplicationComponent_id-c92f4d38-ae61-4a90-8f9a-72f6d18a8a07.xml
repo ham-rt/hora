@@ -1,0 +1,18 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Extern handelsregister"
+    id="id-c92f4d38-ae61-4a90-8f9a-72f6d18a8a07"
+    documentation="Een systeem dat gegevens over externe organisaties bevat.">
+  <properties
+      key="Externe informatie"
+      value="http://www.kvk.nl/over-de-kvk/over-het-handelsregister/"/>
+  <properties
+      key="Domein"
+      value="Derden"/>
+  <properties
+      key="Voorbeelden"
+      value="Kamer van Koophandel."/>
+  <properties
+      key="Type"
+      value="Externe applicatie"/>
+</archimate:ApplicationComponent>

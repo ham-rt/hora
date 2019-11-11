@@ -1,0 +1,12 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Onderzoeksontwikkeling"
+    id="id-cad98e35-f367-4661-8a0f-78509c198019"
+    documentation="Het uitvoeren van voorbereidende handelingen die erop gericht zijn een onderzoek succesvol te kunnen uitvoeren">
+  <properties
+      key="Domein"
+      value="Onderzoek"/>
+  <properties
+      key="Type"
+      value="Hoofdbedrijfsfunctie"/>
+</archimate:BusinessFunction>

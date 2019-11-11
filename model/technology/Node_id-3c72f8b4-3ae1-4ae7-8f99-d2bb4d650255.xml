@@ -1,0 +1,14 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Web applicatieserver"
+    id="id-3c72f8b4-3ae1-4ae7-8f99-d2bb4d650255"
+    documentation="Omgeving waarbinnen dynamische content wordt ontsloten">
+  <properties
+      key="Voorbeelden"/>
+  <properties
+      key="Domein"
+      value="Applicatieplatform"/>
+  <properties
+      key="Type"
+      value="Platformnode"/>
+</archimate:Node>

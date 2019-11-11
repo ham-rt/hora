@@ -1,0 +1,9 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Salarisverwerkingsfunctie"
+    id="id-1b626c6a-0328-46f9-99aa-12f3a9d8bb2e"
+    documentation="Het ondersteunen van het uitbetalen van salarissen aan medewerkers">
+  <properties
+      key="Type"
+      value="Applicatiefunctie"/>
+</archimate:ApplicationFunction>

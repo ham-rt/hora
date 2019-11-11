@@ -1,0 +1,24 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Instandhouden middelen"
+    id="id-7be77973-fcc1-4103-bf5d-7e09b2962412"
+    documentation="Het beschikbaar stellen van middelen die nodig ter ondersteuning van de organisatie en de uit te voeren processen en ervoor zorgen dat zij voldoen aan de gestelde eisen.">
+  <properties
+      key="Beschrijving"
+      value="Dit proces is bedoeld om alle middelen die ingezet worden op niveau beschikbaar te houden. Het gaat om middelen zoals gebouwen, ruimtes, gegevens, applicaties, IT-infrastructuur, vermogen en activa. Dit vergt expliciete aandacht, bijvoorbeeld in de vorm van onderhoud of reparatie. Het inzetten van middelen is vaak gebonden aan technische en/of economische levensduur."/>
+  <properties
+      key="Domein"
+      value="Ondersteuning"/>
+  <properties
+      key="Trigger"
+      value="Er wordt middelen ingezet die beschikbaar moeten zijn en waaraan eisen worden gesteld."/>
+  <properties
+      key="Preconditie"
+      value="Voor het middel zijn eisen gedefinieerd."/>
+  <properties
+      key="Postconditie"
+      value="Het middel is beschikbaar conform de afgesproken eisen."/>
+  <properties
+      key="Type"
+      value="Deelbedrijfsproces"/>
+</archimate:BusinessProcess>

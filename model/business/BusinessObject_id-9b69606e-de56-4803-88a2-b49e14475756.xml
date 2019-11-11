@@ -1,0 +1,32 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Alumnus"
+    id="id-9b69606e-de56-4803-88a2-b49e14475756"
+    documentation="Een deelnemer die gediplomeerd is.">
+  <properties
+      key="Domein"
+      value="Bedrijfsvoering"/>
+  <properties
+      key="Synoniemen"/>
+  <properties
+      key="Gegevenstype"
+      value="masterdata"/>
+  <properties
+      key="Gegevenscategorie"
+      value="partij"/>
+  <properties
+      key="Beschikbaarheid"
+      value="middel"/>
+  <properties
+      key="Integriteit"
+      value="hoog"/>
+  <properties
+      key="Vertrouwelijkheid"
+      value="hoog"/>
+  <properties
+      key="Toelichting BIV-classificatie"
+      value="Dit is analoog aan deelnemer. Kan wellicht lager als minder gegevens worden geregistreerd."/>
+  <properties
+      key="Type"
+      value="Informatieobject"/>
+</archimate:BusinessObject>

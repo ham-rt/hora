@@ -1,0 +1,9 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Learning content managementfunctie"
+    id="id-0dd9449b-b049-4a08-863e-ea3d2cb4ac69"
+    documentation="Het ondersteunen van het beheren van onderwijsmateriaal">
+  <properties
+      key="Type"
+      value="Applicatiefunctie"/>
+</archimate:ApplicationFunction>

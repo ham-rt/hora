@@ -1,0 +1,12 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Toetsvoorbereiding"
+    id="id-80ade9b6-409e-4249-a82f-3ebf625e6876"
+    documentation="Het voorbereiden van de toetsactiviteiten.">
+  <properties
+      key="Domein"
+      value="Onderwijs"/>
+  <properties
+      key="Type"
+      value="Deelbedrijfsfunctie"/>
+</archimate:BusinessFunction>

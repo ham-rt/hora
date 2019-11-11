@@ -1,0 +1,12 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Werving en selectie"
+    id="id-a5b20fb5-649f-4999-a22a-4a3746f8c54e"
+    documentation="Het werven en selecteren van nieuwe medewerkers.">
+  <properties
+      key="Domein"
+      value="Bedrijfsvoering"/>
+  <properties
+      key="Type"
+      value="Deelbedrijfsfunctie"/>
+</archimate:BusinessFunction>

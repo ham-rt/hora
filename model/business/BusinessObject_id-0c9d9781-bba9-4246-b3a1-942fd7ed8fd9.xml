@@ -1,0 +1,32 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Instelling"
+    id="id-0c9d9781-bba9-4246-b3a1-942fd7ed8fd9"
+    documentation="Een organisatie uitgaande van een privaatrechtelijke rechtspersoon die opleidingen verzorgt en onderzoek uitvoert.">
+  <properties
+      key="Domein"
+      value="Sturing"/>
+  <properties
+      key="Synoniemen"
+      value="Onderwijsinstelling, School"/>
+  <properties
+      key="Gegevenstype"
+      value="masterdata"/>
+  <properties
+      key="Gegevenscategorie"
+      value="partij"/>
+  <properties
+      key="Beschikbaarheid"
+      value="laag"/>
+  <properties
+      key="Integriteit"
+      value="laag"/>
+  <properties
+      key="Vertrouwelijkheid"
+      value="laag"/>
+  <properties
+      key="Toelichting BIV-classificatie"/>
+  <properties
+      key="Type"
+      value="Informatieobject"/>
+</archimate:BusinessObject>

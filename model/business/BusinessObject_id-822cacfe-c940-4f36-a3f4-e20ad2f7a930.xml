@@ -1,0 +1,12 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Promovendus"
+    id="id-822cacfe-c940-4f36-a3f4-e20ad2f7a930"
+    documentation="In Nederland: Een individu die door het zelfstandig beoefenen van wetenschappelijk onderzoek en, hierop aansluitend, het schrijven van een proefschrift wil promoveren tot de academische graad van doctor.">
+  <properties
+      key="Domein"
+      value="Onderzoek"/>
+  <properties
+      key="Type"
+      value="Informatieobject"/>
+</archimate:BusinessObject>

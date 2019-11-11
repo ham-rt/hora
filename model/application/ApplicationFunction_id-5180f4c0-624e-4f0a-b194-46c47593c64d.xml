@@ -1,0 +1,9 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Onderzoeksdisseminatiebeheer"
+    id="id-5180f4c0-624e-4f0a-b194-46c47593c64d"
+    documentation="Het ondersteunen van het dissemineren van resultaten van een onderzoek">
+  <properties
+      key="Type"
+      value="Applicatiefunctie"/>
+</archimate:ApplicationFunction>

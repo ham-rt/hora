@@ -1,0 +1,14 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Directory (attributes database)"
+    id="id-d3a3e15b-bb31-4bee-afd3-1b34b5b261d7"
+    documentation="Een hierarchisch opslagmechanisme van gebruikersgegevens.">
+  <properties
+      key="Voorbeelden"/>
+  <properties
+      key="Domein"
+      value="Applicatieplatform"/>
+  <properties
+      key="Type"
+      value="Platformnode"/>
+</archimate:Node>

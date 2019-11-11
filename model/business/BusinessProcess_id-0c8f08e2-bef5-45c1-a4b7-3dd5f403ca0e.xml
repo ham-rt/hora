@@ -1,0 +1,23 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Ontwikkelen business modellen"
+    id="id-0c8f08e2-bef5-45c1-a4b7-3dd5f403ca0e"
+    documentation="Het ontwikkelen en bijstellen van business modellen voor de primaire activiteiten van de instelling (onderwijs en onderzoek).">
+  <properties
+      key="Beschrijving"/>
+  <properties
+      key="Domein"
+      value="Sturing"/>
+  <properties
+      key="Trigger"
+      value="Er zijn interne en externe factoren die noodzaken om de business modellen te (her)definiëren."/>
+  <properties
+      key="Preconditie"
+      value="De instellingsidentiteit is vastgesteld."/>
+  <properties
+      key="Postconditie"
+      value="De business modellen voor onderwijs en onderzoek zijn vastgesteld."/>
+  <properties
+      key="Type"
+      value="Gebundeld bedrijfsproces"/>
+</archimate:BusinessProcess>

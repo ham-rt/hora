@@ -1,0 +1,12 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Onderzoeksdienstverlening"
+    id="id-0b3f1f54-0562-40cf-936d-c02cbe8cdb1d"
+    documentation="Het administratief en inhoudelijk ondersteunen van onderzoeken.">
+  <properties
+      key="Domein"
+      value="Onderzoeksondersteuning"/>
+  <properties
+      key="Type"
+      value="Hoofdbedrijfsfunctie"/>
+</archimate:BusinessFunction>

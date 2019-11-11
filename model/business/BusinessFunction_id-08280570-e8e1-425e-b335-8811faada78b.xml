@@ -1,0 +1,12 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Jaarverslaglegging"
+    id="id-08280570-e8e1-425e-b335-8811faada78b"
+    documentation="Het opstellen van een algemeen verslag (jaarverslag) en financieel verslag (jaarrekening) over het functioneren van de organisatie.">
+  <properties
+      key="Domein"
+      value="Sturing"/>
+  <properties
+      key="Type"
+      value="Deelbedrijfsfunctie"/>
+</archimate:BusinessFunction>

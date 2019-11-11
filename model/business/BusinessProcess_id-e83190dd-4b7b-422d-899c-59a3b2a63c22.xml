@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Uitnutten onderzoeksfaciliteiten"
+    id="id-e83190dd-4b7b-422d-899c-59a3b2a63c22"
+    documentation="Het commercieel aanwenden van eigen onderzoeksfaciliteiten.">
+  <properties
+      key="Domein"
+      value="Valorisatie"/>
+  <properties
+      key="Type"
+      value="Deelbedrijfsproces"/>
+  <properties
+      key="Trigger"
+      value="Er is een indicatie dat onderzoeksfaciliteiten kunnen worden uitgebaat."/>
+  <properties
+      key="Preconditie"
+      value="Onderzoeksfaciliteiten zijn geschikt of geschikt te maken voor commercieel gebruik."/>
+  <properties
+      key="Postconditie"
+      value="Onderzoeksfaciliteiten worden succesvol uitgebaat."/>
+</archimate:BusinessProcess>

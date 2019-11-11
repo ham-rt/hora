@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="bekostigt"
+    id="id-9bd93963-2677-46de-b50a-0d5e424f50f0">
+  <source
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-5d629dcc-8f7a-4b20-9481-9ded771cfa33.xml#id-5d629dcc-8f7a-4b20-9481-9ded771cfa33"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-47ac9605-8cf8-48ef-b15c-8943102fbea6.xml#id-47ac9605-8cf8-48ef-b15c-8943102fbea6"/>
+</archimate:AssociationRelationship>

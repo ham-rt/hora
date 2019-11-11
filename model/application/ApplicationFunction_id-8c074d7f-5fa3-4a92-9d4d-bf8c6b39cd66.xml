@@ -1,0 +1,9 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Betalingsgegevensbeheer"
+    id="id-8c074d7f-5fa3-4a92-9d4d-bf8c6b39cd66"
+    documentation="Het beheren van gegevens over betalingen">
+  <properties
+      key="Type"
+      value="Applicatiefunctie"/>
+</archimate:ApplicationFunction>

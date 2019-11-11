@@ -1,0 +1,23 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Definiëren en prioriteren verbeteringen"
+    id="id-957c299f-9e65-4333-a5f6-f4910f5b955d"
+    documentation="Het definiëren van door te voeren verbeteringen (doel, scope, resultaat) en het toekennen van prioriteiten voor implementatie.">
+  <properties
+      key="Beschrijving"/>
+  <properties
+      key="Domein"
+      value="Sturing"/>
+  <properties
+      key="Trigger"
+      value="Inventarisatie van verbeteringen is afgerond."/>
+  <properties
+      key="Preconditie"
+      value="Ideeën en voorstellen voor door te voeren verbeteringen zijn bekend."/>
+  <properties
+      key="Postconditie"
+      value="Door te voeren verbeteringen zijn gedefinieerd en geprioriteerd."/>
+  <properties
+      key="Type"
+      value="Deelbedrijfsproces"/>
+</archimate:BusinessProcess>

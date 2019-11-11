@@ -1,0 +1,22 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Corporate LMS"
+    id="id-881fb5da-5800-42b3-9c32-a7499a5ffb0d"
+    documentation="Een systeem dat ondersteunend is aan alle inhoudelijke (incl. leerportaal on social communities), logistieke en administratieve processen rondom het aanbieden van leerinterventies aan medewerkers">
+  <properties
+      key="Externe informatie"/>
+  <properties
+      key="Domein"
+      value="Bedrijfsvoering"/>
+  <properties
+      key="Bouwsteen"
+      value="Nee"/>
+  <properties
+      key="Beheerder"/>
+  <properties
+      key="Voorbeelden"
+      value="Interactyx TOPYX (http://interactyx.com/learning-management-solution/corporate-lms/), Saba LMS (http://uk.saba.com/products/learning-management-solution/unified-learning/), Mindflash (http://www.mindflash.com/), Summit Training Source expert LMS (http://www.safetyontheweb.com/trainingweb.asp)"/>
+  <properties
+      key="Type"
+      value="Referentieapplicatie"/>
+</archimate:ApplicationComponent>

@@ -1,0 +1,9 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Webcontentmanagementfunctie"
+    id="id-71f656e0-64d4-412f-82ce-392ee55a0d71"
+    documentation="Het ondersteunen van het beheren en publiceren van web content">
+  <properties
+      key="Type"
+      value="Applicatiefunctie"/>
+</archimate:ApplicationFunction>

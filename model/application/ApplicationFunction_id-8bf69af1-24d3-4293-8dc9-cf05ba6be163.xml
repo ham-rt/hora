@@ -1,0 +1,9 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Ziektegegevensbeheer"
+    id="id-8bf69af1-24d3-4293-8dc9-cf05ba6be163"
+    documentation="Het beheren van gegevens over ziekte">
+  <properties
+      key="Type"
+      value="Applicatiefunctie"/>
+</archimate:ApplicationFunction>

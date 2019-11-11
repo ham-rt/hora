@@ -1,0 +1,12 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Medewerkercompetentie"
+    id="id-3f697dd7-3959-4b67-bb5b-6999b2af3607"
+    documentation="Geeft inzicht in de geschiktheid en inzetbaarheid van een medewerker op basis van competenties die binnen de taakstelling zijn gedefinieerd.">
+  <properties
+      key="Type"
+      value="Informatieobject"/>
+  <properties
+      key="Domein"
+      value="Bedrijfsvoering"/>
+</archimate:BusinessObject>

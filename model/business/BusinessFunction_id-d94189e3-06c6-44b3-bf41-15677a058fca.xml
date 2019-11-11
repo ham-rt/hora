@@ -1,0 +1,12 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Onderwijsuitvoeringsevaluatie"
+    id="id-d94189e3-06c6-44b3-bf41-15677a058fca"
+    documentation="Het geven van feedback over de uitvoering van de werkvorm en/of onderwijseenheid.">
+  <properties
+      key="Domein"
+      value="Onderwijs"/>
+  <properties
+      key="Type"
+      value="Deelbedrijfsfunctie"/>
+</archimate:BusinessFunction>

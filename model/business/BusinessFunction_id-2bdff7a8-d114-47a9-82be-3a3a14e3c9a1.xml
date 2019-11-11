@@ -1,0 +1,12 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Toetsing"
+    id="id-2bdff7a8-d114-47a9-82be-3a3a14e3c9a1"
+    documentation="Het onderzoeken en beoordelen van de kennis, het inzicht en de vaardigheden van de deelnemer om te komen tot een formeel onderwijseenheidresultaat.">
+  <properties
+      key="Domein"
+      value="Onderwijs"/>
+  <properties
+      key="Type"
+      value="Hoofdbedrijfsfunctie"/>
+</archimate:BusinessFunction>

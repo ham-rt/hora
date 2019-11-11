@@ -1,0 +1,12 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Strategische planning"
+    id="id-05f8e9ad-7729-4654-baf6-e8b281fe4707"
+    documentation="Het ontwikkelen van een strategische visie op de organisatie en het vertalen ervan naar meerjarendoelstellingen, uitgangspunten en een strategisch plan voor de instelling.">
+  <properties
+      key="Domein"
+      value="Sturing"/>
+  <properties
+      key="Type"
+      value="Deelbedrijfsfunctie"/>
+</archimate:BusinessFunction>

@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Waarborgen vindbaarheid onderzoeksgegevens"
+    id="id-bf42dabb-b530-4153-bd3f-57d973c834fe"
+    documentation="Het nemen van maatregelen waardoor de vindbaarheid van onderzoeksgegevens wordt gestimuleerd.">
+  <properties
+      key="Domein"
+      value="Onderzoeksondersteuning"/>
+  <properties
+      key="Type"
+      value="Deelbedrijfsproces"/>
+  <properties
+      key="Trigger"
+      value="Er zijn onderzoeksgegevens beschikbaar."/>
+  <properties
+      key="Preconditie"
+      value="De onderzoeksgegevens moeten toegankelijk blijven."/>
+  <properties
+      key="Postconditie"
+      value="Onderzoeksgegevens zijn accuraat gemetadateerd en voorzien van (persistente) identifiers."/>
+</archimate:BusinessProcess>

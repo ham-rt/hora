@@ -1,0 +1,9 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Studievolgfunctie"
+    id="id-da8316ca-d973-4e0c-be65-efec05507103"
+    documentation="Het ondersteunen van het volgen en begeleiden van deelnemers">
+  <properties
+      key="Type"
+      value="Applicatiefunctie"/>
+</archimate:ApplicationFunction>

@@ -1,0 +1,12 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Programma en projectportfoliomanagement"
+    id="id-c6840a20-a266-48a2-8e1b-095fe1a1f810"
+    documentation="Het bepalen en bewaken van een portfolio van veranderingen en investeringen daarin.">
+  <properties
+      key="Domein"
+      value="Sturing"/>
+  <properties
+      key="Type"
+      value="Deelbedrijfsfunctie"/>
+</archimate:BusinessFunction>

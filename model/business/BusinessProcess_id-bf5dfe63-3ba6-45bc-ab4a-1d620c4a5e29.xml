@@ -1,0 +1,23 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Afsluiten onderwijsperiode"
+    id="id-bf5dfe63-3ba6-45bc-ab4a-1d620c4a5e29"
+    documentation="Het onderwijskundig en logistiek afsluiten van een bepaalde onderwijsperiode.">
+  <properties
+      key="Beschrijving"/>
+  <properties
+      key="Domein"
+      value="Onderwijs"/>
+  <properties
+      key="Trigger"
+      value="Er is een moment aangebroken waarop aangevangen wordt een onderwijsperiode af te sluiten."/>
+  <properties
+      key="Preconditie"
+      value="Er hebben onderwijsactiviteiten plaatsgevonden."/>
+  <properties
+      key="Postconditie"
+      value="De opleiding en onderwijseenheden zijn geëvalueerd, incl. de activiteiten van docenten en deelnemers in deze periode."/>
+  <properties
+      key="Type"
+      value="Deelbedrijfsproces"/>
+</archimate:BusinessProcess>

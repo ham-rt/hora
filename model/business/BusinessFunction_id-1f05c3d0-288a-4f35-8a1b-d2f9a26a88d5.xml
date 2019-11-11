@@ -1,0 +1,12 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Lesroosterconstructie"
+    id="id-1f05c3d0-288a-4f35-8a1b-d2f9a26a88d5"
+    documentation="Het koppelen van mensen, middelen en leeractiviteiten op bepaalde momenten in tijd.">
+  <properties
+      key="Domein"
+      value="Onderwijsondersteuning"/>
+  <properties
+      key="Type"
+      value="Deelbedrijfsfunctie"/>
+</archimate:BusinessFunction>

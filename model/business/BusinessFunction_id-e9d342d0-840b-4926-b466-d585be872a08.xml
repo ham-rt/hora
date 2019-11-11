@@ -1,0 +1,12 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Marktbewerking"
+    id="id-e9d342d0-840b-4926-b466-d585be872a08"
+    documentation="Het uitvoeren van specifieke acties en campagnes om de doelgroepen te bereiken zoals het organiseren van informatiedagen en evenementen voor deelnemers.">
+  <properties
+      key="Domein"
+      value="Onderwijsondersteuning"/>
+  <properties
+      key="Type"
+      value="Deelbedrijfsfunctie"/>
+</archimate:BusinessFunction>

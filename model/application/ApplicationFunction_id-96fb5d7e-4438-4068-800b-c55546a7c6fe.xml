@@ -1,0 +1,9 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Learning managementfunctie"
+    id="id-96fb5d7e-4438-4068-800b-c55546a7c6fe"
+    documentation="Het ondersteunen van studenten bij het leren en het interacteren met medestudenten en docenten over het onderwijs">
+  <properties
+      key="Type"
+      value="Applicatiefunctie"/>
+</archimate:ApplicationFunction>

@@ -1,0 +1,9 @@
+<archimate:Grouping
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Generieke Applicaties"
+    id="id-03970e48-5dee-4963-9db6-2db2d8ede6f2"
+    documentation="Het domein betreffende Generieke Applicaties.">
+  <properties
+      key="Type"
+      value="HORA-domein"/>
+</archimate:Grouping>

@@ -1,0 +1,9 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Zoekfunctie"
+    id="id-f47311fd-a296-4448-bea9-da1ef32afe1b"
+    documentation="Het zoeken naar gegevens in een afgebakend informatiedomein.">
+  <properties
+      key="Type"
+      value="Applicatiefunctie"/>
+</archimate:ApplicationFunction>

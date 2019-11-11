@@ -1,0 +1,12 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Onderwijseenheidevaluatie"
+    id="id-40c3c327-0d41-46ff-b840-df882bbe60cb"
+    documentation="Het evalueren of een onderwijseenheid nog voldoet aan de gestelde kwaliteitseisen.">
+  <properties
+      key="Domein"
+      value="Onderwijs"/>
+  <properties
+      key="Type"
+      value="Deelbedrijfsfunctie"/>
+</archimate:BusinessFunction>

@@ -1,0 +1,12 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Medewerkerbeoordeling"
+    id="id-e267562f-5cc9-4e8d-9849-f8b2a0460e06"
+    documentation="Het beoordelen van de prestaties van de medewerker en het besluiten over beloning en promotie alsook over ontslag en demotie.">
+  <properties
+      key="Domein"
+      value="Bedrijfsvoering"/>
+  <properties
+      key="Type"
+      value="Deelbedrijfsfunctie"/>
+</archimate:BusinessFunction>

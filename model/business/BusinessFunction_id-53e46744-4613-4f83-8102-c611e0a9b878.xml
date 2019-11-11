@@ -1,0 +1,12 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Onderzoekstoetsing"
+    id="id-53e46744-4613-4f83-8102-c611e0a9b878"
+    documentation="Het toetsen of het voorstel voor een onderzoek voldoet aan externe en interne kaders en de plaats binnen of tussen lopende onderzoeksprojecten.">
+  <properties
+      key="Domein"
+      value="Onderzoek"/>
+  <properties
+      key="Type"
+      value="Deelbedrijfsfunctie"/>
+</archimate:BusinessFunction>

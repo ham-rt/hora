@@ -1,0 +1,12 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Vastgoedontwikkeling"
+    id="id-ba38ed40-b8a2-4013-acaa-c0c5525769ca"
+    documentation="Het realiseren, verwerven, slopen en renoveren van vastgoed.">
+  <properties
+      key="Domein"
+      value="Bedrijfsvoering"/>
+  <properties
+      key="Type"
+      value="Deelbedrijfsfunctie"/>
+</archimate:BusinessFunction>

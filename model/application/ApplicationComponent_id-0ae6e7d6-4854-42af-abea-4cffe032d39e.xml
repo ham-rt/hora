@@ -1,0 +1,22 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Unified Communications systeem"
+    id="id-0ae6e7d6-4854-42af-abea-4cffe032d39e"
+    documentation="Een systeem dat het communiceren tussen mensen via verschillende kanalen ondersteunt.">
+  <properties
+      key="Externe informatie"/>
+  <properties
+      key="Domein"
+      value="Generiek"/>
+  <properties
+      key="Bouwsteen"
+      value="Nee"/>
+  <properties
+      key="Beheerder"/>
+  <properties
+      key="Voorbeelden"
+      value="Microsoft Lync (http://office.microsoft.com/en-us/lync/), BlackBoard Connect (http://www.blackboard.com/Platforms/Connect/Overview.aspx), Cisco Unified Communications (http://www.cisco.com/en/US/netsol/ns151/networking_solutions_unified_communications_home.html), IBM Unified Telephony (http://www-03.ibm.com/software/products/us/en/category/SWAAA), IBM Sametime (http://www-03.ibm.com/software/products/us/en/ibmsame)"/>
+  <properties
+      key="Type"
+      value="Referentieapplicatie"/>
+</archimate:ApplicationComponent>

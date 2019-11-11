@@ -1,0 +1,9 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Leermateriaalontsluiting"
+    id="id-c4b52e62-d2a0-4fde-9401-8ec79a5b46f9"
+    documentation="Het zichtbaar maken van specifieke leerinhoud voor de deelnemer">
+  <properties
+      key="Type"
+      value="Applicatiefunctie"/>
+</archimate:ApplicationFunction>

@@ -1,0 +1,22 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CRM systeem"
+    id="id-b040ea7a-b656-420f-a713-089b97c9ec65"
+    documentation="Een systeem dat het relatiebeheer in de brede zin ondersteunt.">
+  <properties
+      key="Externe informatie"/>
+  <properties
+      key="Domein"
+      value="Bedrijfsvoering"/>
+  <properties
+      key="Bouwsteen"
+      value="Nee"/>
+  <properties
+      key="Beheerder"/>
+  <properties
+      key="Voorbeelden"
+      value="SugarCRM (http://www.sugarcrm.com), Microsoft Dynamics CRM (http://crm.dynamics.com/nl-nl/), Salesforce.com (http://www.salesforce.com), Oracle Siebel CRM (http://www.oracle.com/us/products/applications/siebel/overview/index.html), SAP CRM (http://www.sap.com/netherlands/solutions/business-process/customer-relationship-management.epx), Quobell Q-relatie (http://www.q-relatie.nl), Stb CRM (http://www.stb.nl/producten/stb-crm/stb-crm.html)"/>
+  <properties
+      key="Type"
+      value="Referentieapplicatie"/>
+</archimate:ApplicationComponent>

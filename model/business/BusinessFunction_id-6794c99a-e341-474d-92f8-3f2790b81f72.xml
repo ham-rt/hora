@@ -1,0 +1,12 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Vermogensbeheer"
+    id="id-6794c99a-e341-474d-92f8-3f2790b81f72"
+    documentation="Het beheren van het vermogen van de organisatie en de rendering ervan door investeringen aan te gaan.">
+  <properties
+      key="Domein"
+      value="Bedrijfsvoering"/>
+  <properties
+      key="Type"
+      value="Deelbedrijfsfunctie"/>
+</archimate:BusinessFunction>

@@ -1,0 +1,9 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Onderzoeksgegevensverzamelfunctie"
+    id="id-7d8864da-abbf-459b-8688-85601cdc7566"
+    documentation="Het ondersteunen van het verzamelen van onderzoeksgegevens">
+  <properties
+      key="Type"
+      value="Applicatiefunctie"/>
+</archimate:ApplicationFunction>

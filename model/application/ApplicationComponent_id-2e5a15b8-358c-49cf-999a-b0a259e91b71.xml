@@ -1,0 +1,22 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Inkoopsysteem"
+    id="id-2e5a15b8-358c-49cf-999a-b0a259e91b71"
+    documentation="Een systeem dat het inkopen van producten alsook het beheren van leveranciers en contracten ondersteunt.">
+  <properties
+      key="Externe informatie"/>
+  <properties
+      key="Domein"
+      value="Bedrijfsvoering"/>
+  <properties
+      key="Bouwsteen"
+      value="Nee"/>
+  <properties
+      key="Beheerder"/>
+  <properties
+      key="Voorbeelden"
+      value="SAP Supplier Relationship Management (http://www1.sap.com/netherlands/solutions/business-suite/srm/index.epx), Oracle Fusion Procurement (http://www.oracle.com/us/products/applications/fusion/fusion-procurement-170892.html), Oracle PeopleSoft Supplier Relationship Management (http://www.oracle.com/us/products/applications/peoplesoft-enterprise/srm/053337.html)"/>
+  <properties
+      key="Type"
+      value="Referentieapplicatie"/>
+</archimate:ApplicationComponent>

@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Uitvoeren toets op maatschappelijke aspecten"
+    id="id-454717a4-b2c4-41bf-a2ba-87a78c31f245"
+    documentation="Het toetsen van de maatschappelijke aspecten van een onderzoek.">
+  <properties
+      key="Domein"
+      value="Onderzoek"/>
+  <properties
+      key="Type"
+      value="Deelbedrijfsproces"/>
+  <properties
+      key="Trigger"
+      value="Er wordt onderkend dat een voorgenomen onderzoek mogelijk maatschappelijke consequenties heeft."/>
+  <properties
+      key="Preconditie"
+      value="Er zijn maatschappelijke kaders voor het onderzoek."/>
+  <properties
+      key="Postconditie"
+      value="Het is duidelijk wat de maatschappelijke implicaties van het onderzoek zijn en of die implicaties aanvaardbaar zijn."/>
+</archimate:BusinessProcess>

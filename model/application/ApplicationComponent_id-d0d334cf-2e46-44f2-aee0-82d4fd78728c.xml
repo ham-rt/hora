@@ -1,0 +1,18 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Extern onderzoeksportaal"
+    id="id-d0d334cf-2e46-44f2-aee0-82d4fd78728c"
+    documentation="Een systeem dat onderzoeksresultaten ontsluit, zowel publicaties als onderzoeksgegevens.">
+  <properties
+      key="Externe informatie"
+      value="https://dans.knaw.nl/nl"/>
+  <properties
+      key="Domein"
+      value="Derden"/>
+  <properties
+      key="Voorbeelden"
+      value="DANS"/>
+  <properties
+      key="Type"
+      value="Externe applicatie"/>
+</archimate:ApplicationComponent>

@@ -1,0 +1,9 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Documentgeneratiefunctie"
+    id="id-28d7b4b6-dd01-4c09-a46e-719de8f4632c"
+    documentation="Het genereren van documenten op basis van specifieke invoer">
+  <properties
+      key="Type"
+      value="Applicatiefunctie"/>
+</archimate:ApplicationFunction>

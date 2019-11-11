@@ -1,0 +1,32 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Organisatieonderdeel"
+    id="id-a375f6df-b53d-4d57-ab7d-7891837d9745"
+    documentation="Een onderdeel van een organisatie.">
+  <properties
+      key="Domein"
+      value="Sturing"/>
+  <properties
+      key="Synoniemen"
+      value="Academie, Dienst, Organisatiedeel"/>
+  <properties
+      key="Gegevenstype"
+      value="masterdata"/>
+  <properties
+      key="Gegevenscategorie"
+      value="partij"/>
+  <properties
+      key="Beschikbaarheid"
+      value="laag"/>
+  <properties
+      key="Integriteit"
+      value="laag"/>
+  <properties
+      key="Vertrouwelijkheid"
+      value="laag"/>
+  <properties
+      key="Toelichting BIV-classificatie"/>
+  <properties
+      key="Type"
+      value="Informatieobject"/>
+</archimate:BusinessObject>

@@ -1,0 +1,14 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Intrusion prevention en detection systeem"
+    id="id-56e1f443-f542-462c-857a-cfbd3c66821f"
+    documentation="Ondersteunt het voorkomen en detecteren van aanvallen van de IT-omgeving.">
+  <properties
+      key="Voorbeelden"/>
+  <properties
+      key="Domein"
+      value="Applicatieplatform"/>
+  <properties
+      key="Type"
+      value="Platformnode"/>
+</archimate:Node>

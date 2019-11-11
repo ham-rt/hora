@@ -1,0 +1,22 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Document management systeem"
+    id="id-9bd0d1f0-5678-439c-92fd-4d278c8ad2c5"
+    documentation="Een systeem dat het maken, beheren en archiveren van documenten en records ondersteunt.">
+  <properties
+      key="Externe informatie"/>
+  <properties
+      key="Domein"
+      value="Generiek"/>
+  <properties
+      key="Bouwsteen"
+      value="Nee"/>
+  <properties
+      key="Beheerder"/>
+  <properties
+      key="Voorbeelden"
+      value="Circle Software Version Document en Records Management Systeem (http://www.circlesoftware.nl/toepassingen/document-en-records-management-systeem/), EMC Documentum (http://www.emc.com/domains/documentum/index.htm), BCT Corsa (http://www.bct.nl/nl/productlijnen/corsa), Oracle WebCenter Content (http://www.oracle.com/technetwork/middleware/webcenter/content/overview/index.html)"/>
+  <properties
+      key="Type"
+      value="Referentieapplicatie"/>
+</archimate:ApplicationComponent>

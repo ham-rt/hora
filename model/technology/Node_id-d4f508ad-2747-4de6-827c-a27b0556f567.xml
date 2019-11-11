@@ -1,0 +1,14 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Netwerkzones"
+    id="id-d4f508ad-2747-4de6-827c-a27b0556f567"
+    documentation="Ondersteunt het afbakenen van delen van de IT-omgeving.">
+  <properties
+      key="Voorbeelden"/>
+  <properties
+      key="Domein"
+      value="Applicatieplatform"/>
+  <properties
+      key="Type"
+      value="Platformnode"/>
+</archimate:Node>

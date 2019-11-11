@@ -1,0 +1,23 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Voorbereiden onderwijsperiode"
+    id="id-385ff4e1-7aa5-4e15-b227-defdc5c43740"
+    documentation="Het treffen van alle onderwijskundige en logistieke voorbereidingen die nodig zijn voor een bepaalde onderwijsperiode.">
+  <properties
+      key="Beschrijving"/>
+  <properties
+      key="Domein"
+      value="Onderwijs"/>
+  <properties
+      key="Trigger"
+      value="Er is een moment aangebroken waarop voorbereidingen voor een nieuwe periode moeten worden getroffen."/>
+  <properties
+      key="Preconditie"
+      value="Het onderwijs, de opleiding is ontwikkeld en kan gegeven worden."/>
+  <properties
+      key="Postconditie"
+      value="Alle activiteiten, mensen en middelen zijn ingepland en het rooster is gecommuniceerd."/>
+  <properties
+      key="Type"
+      value="Deelbedrijfsproces"/>
+</archimate:BusinessProcess>

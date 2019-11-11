@@ -1,0 +1,12 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Onderzoeksprotocoltoetsing"
+    id="id-b47efe03-04f0-40e4-b767-36411f421dee"
+    documentation="Het periodiek uitvoeren van audits op de kwaliteit en juiste uitvoering van het onderzoek, al dan niet door de externe financiers.">
+  <properties
+      key="Domein"
+      value="Onderzoek"/>
+  <properties
+      key="Type"
+      value="Deelbedrijfsfunctie"/>
+</archimate:BusinessFunction>

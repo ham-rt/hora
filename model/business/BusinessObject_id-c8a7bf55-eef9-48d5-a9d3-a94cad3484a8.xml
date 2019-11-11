@@ -1,0 +1,32 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Medewerker"
+    id="id-c8a7bf55-eef9-48d5-a9d3-a94cad3484a8"
+    documentation="Een individu die werkactiviteiten uitvoert in opdracht van een onderwijsinstelling.">
+  <properties
+      key="Domein"
+      value="Bedrijfsvoering"/>
+  <properties
+      key="Synoniemen"/>
+  <properties
+      key="Gegevenstype"
+      value="masterdata"/>
+  <properties
+      key="Gegevenscategorie"
+      value="partij"/>
+  <properties
+      key="Beschikbaarheid"
+      value="middel"/>
+  <properties
+      key="Integriteit"
+      value="hoog"/>
+  <properties
+      key="Vertrouwelijkheid"
+      value="hoog"/>
+  <properties
+      key="Toelichting BIV-classificatie"
+      value="Extra bescherming tegen diefstal van identiteitsgevens en bankrekening. De herkomst (geboorteplaats, nationaliteit) is vertrouwelijk. Een pasfoto daarom ook. Opt-out mogelijkheden kunnen de verouwelijkheidscore verlagen."/>
+  <properties
+      key="Type"
+      value="Informatieobject"/>
+</archimate:BusinessObject>

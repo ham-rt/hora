@@ -1,0 +1,12 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Promovendusbegeleiding"
+    id="id-3c2eb2c2-2643-49c4-8b69-22b153a15515"
+    documentation="Het inhoudelijk begeleiden van een promovendus in zijn onderzoek.">
+  <properties
+      key="Domein"
+      value="Onderzoek"/>
+  <properties
+      key="Type"
+      value="Deelbedrijfsfunctie"/>
+</archimate:BusinessFunction>

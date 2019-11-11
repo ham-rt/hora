@@ -1,0 +1,12 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Afvalbeheer"
+    id="id-aa8d3044-1e50-4a27-a1ef-93769a3187a5"
+    documentation="Het sorteren en afhandelen van afval conform de regelgeving.">
+  <properties
+      key="Domein"
+      value="Bedrijfsvoering"/>
+  <properties
+      key="Type"
+      value="Deelbedrijfsfunctie"/>
+</archimate:BusinessFunction>

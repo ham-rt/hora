@@ -1,0 +1,12 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Aanbesteden"
+    id="id-0418c1a5-a105-4850-a8ae-262ac9d79dfc"
+    documentation="Een formele procedure voor het verwerven van middelen waarbij leveranciers om offertes worden gevraagd.">
+  <properties
+      key="Domein"
+      value="Bedrijfsvoering"/>
+  <properties
+      key="Type"
+      value="Deelbedrijfsfunctie"/>
+</archimate:BusinessFunction>

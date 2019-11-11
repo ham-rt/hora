@@ -1,0 +1,12 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Accreditatie"
+    id="id-7a43fafb-e2a7-4e60-97d6-d88777037941"
+    documentation="Het ervoor zorgdragen dat formeel wordt onderkend dat de instelling en/of een opleiding voldoet aan de geldende kwaliteitsnormen voor accreditatie.">
+  <properties
+      key="Domein"
+      value="Sturing"/>
+  <properties
+      key="Type"
+      value="Deelbedrijfsfunctie"/>
+</archimate:BusinessFunction>

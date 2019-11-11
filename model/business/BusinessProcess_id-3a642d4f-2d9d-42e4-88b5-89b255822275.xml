@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Verwerven octrooien"
+    id="id-3a642d4f-2d9d-42e4-88b5-89b255822275"
+    documentation="Het verwerven van octrooien voor de onderzoeksresultaten.">
+  <properties
+      key="Type"
+      value="Deelbedrijfsproces"/>
+  <properties
+      key="Domein"
+      value="Valorisatie"/>
+  <properties
+      key="Trigger"
+      value="Het willen beschermen van intellectueel eigendom."/>
+  <properties
+      key="Preconditie"
+      value="Onderzoeksresultaten zijn octrooieerbaar."/>
+  <properties
+      key="Postconditie"
+      value="Er is octrooi verleend op de onderzoeksresultaten."/>
+</archimate:BusinessProcess>

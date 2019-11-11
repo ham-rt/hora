@@ -1,0 +1,9 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Toetsuitvoeringsfunctie"
+    id="id-45fe2f81-dacc-42ae-87ce-86b934b6410f"
+    documentation="Het ondersteunen van het toetsen van deelnemers">
+  <properties
+      key="Type"
+      value="Applicatiefunctie"/>
+</archimate:ApplicationFunction>

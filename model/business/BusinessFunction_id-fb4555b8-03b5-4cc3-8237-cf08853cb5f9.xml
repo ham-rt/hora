@@ -1,0 +1,12 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Relatiebeheer"
+    id="id-fb4555b8-03b5-4cc3-8237-cf08853cb5f9"
+    documentation="Het onderhouden van contacten met personen buiten de instelling zoals stagebedrijven, opdrachtgevers en onderzoekspartners.">
+  <properties
+      key="Domein"
+      value="Bedrijfsvoering"/>
+  <properties
+      key="Type"
+      value="Deelbedrijfsfunctie"/>
+</archimate:BusinessFunction>

@@ -1,0 +1,34 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Disseminatiemedium"
+    id="id-fda8d3a3-7b2f-40c9-a6d2-79ad37c099e2"
+    documentation="Het medium waarlangs een onderzoeks(tussen)resultaat is ontsloten.">
+  <properties
+      key="Type"
+      value="Informatieobject"/>
+  <properties
+      key="Domein"
+      value="Onderzoek"/>
+  <properties
+      key="Synoniemen"/>
+  <properties
+      key="Gegevenstype"
+      value="transactie"/>
+  <properties
+      key="Gegevenscategorie"
+      value="middel"/>
+  <properties
+      key="Beschikbaarheid"
+      value="laag"/>
+  <properties
+      key="Integriteit"
+      value="hoog"/>
+  <properties
+      key="Vertrouwelijkheid"
+      value="laag"/>
+  <properties
+      key="Toelichting BIV-classificatie"/>
+  <properties
+      key="Voorbeelden"
+      value="Journal, Repository, Archief, Digitale databank, Conferentie"/>
+</archimate:BusinessObject>

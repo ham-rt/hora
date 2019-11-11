@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Opzetten onderzoekscollaboratie"
+    id="id-03de940d-0390-44ab-8ca4-27394a8e7803"
+    documentation="Het opzetten van organisatie-overstijgende samenwerking op het gebied van onderzoek.">
+  <properties
+      key="Domein"
+      value="Onderzoek"/>
+  <properties
+      key="Type"
+      value="Deelbedrijfsproces"/>
+  <properties
+      key="Trigger"
+      value="Er is behoefte aan organisatie-overstijgende samenwerking op het gebied van onderzoek."/>
+  <properties
+      key="Preconditie"
+      value="Er zijn organisaties en / of individuele onderzoekers bereid om samen te werken aan een onderzoek."/>
+  <properties
+      key="Postconditie"
+      value="Er zijn afspraken gemaakt over de wijze van samenwerking."/>
+</archimate:BusinessProcess>

@@ -1,0 +1,9 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Toetsbeoordelingsfunctie"
+    id="id-3f5b63a5-f6f7-4cbb-9dfb-511bede7ead7"
+    documentation="Het ondersteunen van het beoordelen van gemaakte toetsen">
+  <properties
+      key="Type"
+      value="Applicatiefunctie"/>
+</archimate:ApplicationFunction>

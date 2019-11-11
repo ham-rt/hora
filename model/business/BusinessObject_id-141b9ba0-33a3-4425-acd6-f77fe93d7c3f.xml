@@ -1,0 +1,32 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Doelstelling"
+    id="id-141b9ba0-33a3-4425-acd6-f77fe93d7c3f"
+    documentation="Een toestand of conditie van de organisatie die tot stand moet worden gebracht of behouden middels passende middelen.">
+  <properties
+      key="Domein"
+      value="Sturing"/>
+  <properties
+      key="Synoniemen"/>
+  <properties
+      key="Gegevenstype"
+      value="masterdata"/>
+  <properties
+      key="Gegevenscategorie"
+      value="richting"/>
+  <properties
+      key="Beschikbaarheid"
+      value="laag"/>
+  <properties
+      key="Integriteit"
+      value="middel"/>
+  <properties
+      key="Vertrouwelijkheid"
+      value="laag"/>
+  <properties
+      key="Toelichting BIV-classificatie"
+      value="De integriteit van objecten die de planvorming voor veranderingsprocessen beïnvloeden, is belangrijk."/>
+  <properties
+      key="Type"
+      value="Informatieobject"/>
+</archimate:BusinessObject>

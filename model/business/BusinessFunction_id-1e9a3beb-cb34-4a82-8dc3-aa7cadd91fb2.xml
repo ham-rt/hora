@@ -1,0 +1,12 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Formatieplanning"
+    id="id-1e9a3beb-cb34-4a82-8dc3-aa7cadd91fb2"
+    documentation="Het vaststellen welke budgetten en formatieplaatsen beschikbaar zijn voor afdelingen.">
+  <properties
+      key="Domein"
+      value="Bedrijfsvoering"/>
+  <properties
+      key="Type"
+      value="Deelbedrijfsfunctie"/>
+</archimate:BusinessFunction>

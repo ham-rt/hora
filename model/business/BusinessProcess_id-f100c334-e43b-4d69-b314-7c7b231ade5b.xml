@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Bepalen geschikt disseminatiemedium"
+    id="id-f100c334-e43b-4d69-b314-7c7b231ade5b"
+    documentation="Het bepalen van het juiste medium om onderzoeksresultaten te dissemineren.">
+  <properties
+      key="Domein"
+      value="Onderzoeksondersteuning"/>
+  <properties
+      key="Type"
+      value="Deelbedrijfsproces"/>
+  <properties
+      key="Trigger"
+      value="Er zijn onderzoeksresultaten beschikbaar."/>
+  <properties
+      key="Preconditie"
+      value="Er is een (voor)selectie van mogelijke disseminatiemedia."/>
+  <properties
+      key="Postconditie"
+      value="Er is vastgesteld welk medium het meest geschikt is voor disseminatie van de onderzoeksresultaten."/>
+</archimate:BusinessProcess>

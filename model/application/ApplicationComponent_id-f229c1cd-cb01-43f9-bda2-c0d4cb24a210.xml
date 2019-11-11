@@ -1,0 +1,22 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Bibliotheeksysteem"
+    id="id-f229c1cd-cb01-43f9-bda2-c0d4cb24a210"
+    documentation="Een systeem dat het beheren van collecties van materialen (boeken, tijdschriften, artikelen, multimedia) en het uitlenen ervan ondersteunt.">
+  <properties
+      key="Externe informatie"/>
+  <properties
+      key="Domein"
+      value="Informatieontsluiting"/>
+  <properties
+      key="Bouwsteen"
+      value="Nee"/>
+  <properties
+      key="Beheerder"/>
+  <properties
+      key="Voorbeelden"
+      value="Infor Vubis Smart (http://www.vubis-smart.com/html/homenl.htm), Square IS BIBIS Bibliotheek Systeem (http://www.squareis.com/oplossingen/catalogus/bibis-bibliotheek-systeem/), LibLime Koha (http://www.koha.org)"/>
+  <properties
+      key="Type"
+      value="Referentieapplicatie"/>
+</archimate:ApplicationComponent>

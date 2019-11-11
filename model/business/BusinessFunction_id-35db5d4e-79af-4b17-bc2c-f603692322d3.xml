@@ -1,0 +1,12 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Deelnemercounseling"
+    id="id-35db5d4e-79af-4b17-bc2c-f603692322d3"
+    documentation="Het begeleiden van deelnemers bij zaken die buiten hun directe onderwijsactiviteiten liggen.">
+  <properties
+      key="Domein"
+      value="Onderwijsondersteuning"/>
+  <properties
+      key="Type"
+      value="Hoofdbedrijfsfunctie"/>
+</archimate:BusinessFunction>

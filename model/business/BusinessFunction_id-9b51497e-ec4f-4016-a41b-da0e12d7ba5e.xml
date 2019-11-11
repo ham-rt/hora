@@ -1,0 +1,12 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Integrale veiligheidsbewaking"
+    id="id-9b51497e-ec4f-4016-a41b-da0e12d7ba5e"
+    documentation="Het bewaken dat de organisatie voldoet aan alle aspecten van veiligheid en beveiliging.">
+  <properties
+      key="Domein"
+      value="Sturing"/>
+  <properties
+      key="Type"
+      value="Deelbedrijfsfunctie"/>
+</archimate:BusinessFunction>

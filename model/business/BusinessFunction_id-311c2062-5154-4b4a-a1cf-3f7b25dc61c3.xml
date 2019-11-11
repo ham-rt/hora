@@ -1,0 +1,12 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Kwalificatiecontrole"
+    id="id-311c2062-5154-4b4a-a1cf-3f7b25dc61c3"
+    documentation="Het vaststellen of een deelnemer heeft voldaan aan de uit- of doorstroomkwalificaties zoals beschreven in het competentieprofiel.">
+  <properties
+      key="Domein"
+      value="Onderwijsondersteuning"/>
+  <properties
+      key="Type"
+      value="Deelbedrijfsfunctie"/>
+</archimate:BusinessFunction>

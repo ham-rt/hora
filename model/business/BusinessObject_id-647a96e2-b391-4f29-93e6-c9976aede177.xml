@@ -1,0 +1,33 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Ruimte"
+    id="id-647a96e2-b391-4f29-93e6-c9976aede177"
+    documentation="Een onderdeel van een gebouw waarin een activiteit kan plaats vinden.">
+  <properties
+      key="Domein"
+      value="Bedrijfsvoering"/>
+  <properties
+      key="Synoniemen"
+      value="Lokaal"/>
+  <properties
+      key="Gegevenstype"
+      value="masterdata"/>
+  <properties
+      key="Gegevenscategorie"
+      value="middel"/>
+  <properties
+      key="Beschikbaarheid"
+      value="middel"/>
+  <properties
+      key="Integriteit"
+      value="laag"/>
+  <properties
+      key="Vertrouwelijkheid"
+      value="middel"/>
+  <properties
+      key="Toelichting BIV-classificatie"
+      value="Vertrouwelijkheid L-M. Gegevens over de inrichting kunnen informatie bevatten over de beveiliging en kunnen belangrijk zijn bij calamiteiten."/>
+  <properties
+      key="Type"
+      value="Informatieobject"/>
+</archimate:BusinessObject>

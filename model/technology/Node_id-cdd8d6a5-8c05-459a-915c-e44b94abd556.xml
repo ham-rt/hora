@@ -1,0 +1,15 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Authenticatie proxy"
+    id="id-cdd8d6a5-8c05-459a-915c-e44b94abd556"
+    documentation="Een systeem dat in staat is gebruikers te authenticeren en grofmazig te autoriseren.">
+  <properties
+      key="Voorbeelden"
+      value="Oracle Access Management (http://www.oracle.com/us/products/middleware/identity-management/access-management/overview/index.html), IBM Tivoli Access Manager, Novell Access Manager"/>
+  <properties
+      key="Domein"
+      value="Applicatieplatform"/>
+  <properties
+      key="Type"
+      value="Platformnode"/>
+</archimate:Node>

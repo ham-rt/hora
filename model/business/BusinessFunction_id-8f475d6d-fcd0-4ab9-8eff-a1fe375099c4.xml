@@ -1,0 +1,12 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Productportfoliomanagement"
+    id="id-8f475d6d-fcd0-4ab9-8eff-a1fe375099c4"
+    documentation="Het bepalen en bewaken van het portfolio van opleidingen en onderzoek en de investeringen daarin.">
+  <properties
+      key="Domein"
+      value="Sturing"/>
+  <properties
+      key="Type"
+      value="Deelbedrijfsfunctie"/>
+</archimate:BusinessFunction>

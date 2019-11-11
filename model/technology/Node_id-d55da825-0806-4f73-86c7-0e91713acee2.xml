@@ -1,0 +1,15 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Applicatieserver"
+    id="id-d55da825-0806-4f73-86c7-0e91713acee2"
+    documentation="Ondersteunt het uitvoeren van softwarecomponenten op een transactionele, veilige en schaalbare wijze.">
+  <properties
+      key="Voorbeelden"
+      value="Oracle WebLogic Server (http://www.oracle.com/technetwork/middleware/weblogic/overview/index.html), IBM WebSphere Application Server (http://www-03.ibm.com/software/products/us/en/appserv-was/)"/>
+  <properties
+      key="Domein"
+      value="Applicatieplatform"/>
+  <properties
+      key="Type"
+      value="Platformnode"/>
+</archimate:Node>

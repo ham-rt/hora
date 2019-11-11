@@ -1,0 +1,12 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Communicatiemanagement"
+    id="id-7a9fdf2f-0804-4953-af2f-1af899753b25"
+    documentation="Het ervoor zorgdragen dat de organisatie zich op de juiste wijze uit naar interne en externe partijen.">
+  <properties
+      key="Domein"
+      value="Bedrijfsvoering"/>
+  <properties
+      key="Type"
+      value="Hoofdbedrijfsfunctie"/>
+</archimate:BusinessFunction>

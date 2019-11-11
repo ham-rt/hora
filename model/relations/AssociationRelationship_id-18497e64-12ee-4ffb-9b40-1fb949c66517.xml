@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="vraagt"
+    id="id-18497e64-12ee-4ffb-9b40-1fb949c66517">
+  <source
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-44052d63-31a7-4e29-b50d-dfa6c860627b.xml#id-44052d63-31a7-4e29-b50d-dfa6c860627b"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-3f697dd7-3959-4b67-bb5b-6999b2af3607.xml#id-3f697dd7-3959-4b67-bb5b-6999b2af3607"/>
+</archimate:AssociationRelationship>

@@ -1,0 +1,14 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Applicatie virtualisatie platform"
+    id="id-a0c0eb2a-45a2-4dfa-9f18-3d0c8d793a4a"
+    documentation="Ondersteunt het virtualiseren van applicaties">
+  <properties
+      key="Voorbeelden"/>
+  <properties
+      key="Domein"
+      value="Applicatieplatform"/>
+  <properties
+      key="Type"
+      value="Platformnode"/>
+</archimate:Node>

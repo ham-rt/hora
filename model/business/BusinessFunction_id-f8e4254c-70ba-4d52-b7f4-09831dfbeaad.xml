@@ -1,0 +1,12 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Servicemanagement"
+    id="id-f8e4254c-70ba-4d52-b7f4-09831dfbeaad"
+    documentation="Het afhandelen van directe contacten van deelnemers en medewerkers rondom de interne dienstverlening.">
+  <properties
+      key="Domein"
+      value="Bedrijfsvoering"/>
+  <properties
+      key="Type"
+      value="Deelbedrijfsfunctie"/>
+</archimate:BusinessFunction>

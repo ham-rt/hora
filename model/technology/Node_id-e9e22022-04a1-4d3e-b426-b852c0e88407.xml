@@ -1,0 +1,15 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Mobiele gateway"
+    id="id-e9e22022-04a1-4d3e-b426-b852c0e88407"
+    documentation="Een systeem dat gegevens naar mobiele apparaten ontsluit.">
+  <properties
+      key="Voorbeelden"
+      value="BlackBoard Mobile (http://www.blackboard.com/Platforms/Mobile/Overview.aspx)"/>
+  <properties
+      key="Domein"
+      value="Applicatieplatform"/>
+  <properties
+      key="Type"
+      value="Platformnode"/>
+</archimate:Node>

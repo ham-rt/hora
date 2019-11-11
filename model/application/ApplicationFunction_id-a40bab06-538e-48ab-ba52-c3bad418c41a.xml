@@ -1,0 +1,9 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Inzetplanningsfunctie"
+    id="id-a40bab06-538e-48ab-ba52-c3bad418c41a"
+    documentation="Het matchen van beschikbare medewerkerinzet met benodigde medewerkerinzet">
+  <properties
+      key="Type"
+      value="Applicatiefunctie"/>
+</archimate:ApplicationFunction>

@@ -1,0 +1,12 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Voortgangsbewaking"
+    id="id-28e81d08-22e0-457c-b5a2-f8c4678d4f91"
+    documentation="Het monitoren van voortgang van de deelnemer gedurende het uitvoeren van de onderwijseenheid.">
+  <properties
+      key="Domein"
+      value="Onderwijs"/>
+  <properties
+      key="Type"
+      value="Deelbedrijfsfunctie"/>
+</archimate:BusinessFunction>

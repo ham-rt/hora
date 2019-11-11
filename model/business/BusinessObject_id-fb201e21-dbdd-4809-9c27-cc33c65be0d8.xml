@@ -1,0 +1,32 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Onderwijseenheiddeelname"
+    id="id-fb201e21-dbdd-4809-9c27-cc33c65be0d8"
+    documentation="Een intentie van een deelnemer om deel te nemen aan een onderwijseenheid.">
+  <properties
+      key="Domein"
+      value="Onderwijsondersteuning"/>
+  <properties
+      key="Synoniemen"/>
+  <properties
+      key="Gegevenstype"
+      value="transactie"/>
+  <properties
+      key="Gegevenscategorie"
+      value="gebeurtenis"/>
+  <properties
+      key="Beschikbaarheid"
+      value="middel"/>
+  <properties
+      key="Integriteit"
+      value="middel"/>
+  <properties
+      key="Vertrouwelijkheid"
+      value="laag"/>
+  <properties
+      key="Toelichting BIV-classificatie"
+      value="Gegevens over studievoortgang zijn in onze cultuur vertrouwelijk met een lage risicoklasse. Meer vertrouwelijke informatie wordt doorgaans niet in gestructureerde objecten, maar in documenten vastgelegd"/>
+  <properties
+      key="Type"
+      value="Informatieobject"/>
+</archimate:BusinessObject>

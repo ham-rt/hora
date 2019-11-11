@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="verzorgt onderwijs aan"
+    id="id-516d84ff-24a1-4e6f-8add-0e2ca6127900">
+  <source
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-cca601ce-94ad-47b4-b66f-ed752bd67f7f.xml#id-cca601ce-94ad-47b4-b66f-ed752bd67f7f"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-68c5f962-2b2d-4a41-88cc-de700b09bca9.xml#id-68c5f962-2b2d-4a41-88cc-de700b09bca9"/>
+</archimate:AssociationRelationship>

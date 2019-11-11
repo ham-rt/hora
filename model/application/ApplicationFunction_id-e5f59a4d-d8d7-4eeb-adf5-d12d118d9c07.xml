@@ -1,0 +1,9 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Documentherkenningsfunctie"
+    id="id-e5f59a4d-d8d7-4eeb-adf5-d12d118d9c07"
+    documentation="Het herkennen van documenten">
+  <properties
+      key="Type"
+      value="Applicatiefunctie"/>
+</archimate:ApplicationFunction>

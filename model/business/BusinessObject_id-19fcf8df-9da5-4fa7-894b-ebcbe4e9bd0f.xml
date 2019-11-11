@@ -1,0 +1,33 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Onderwijsovereenkomst"
+    id="id-19fcf8df-9da5-4fa7-894b-ebcbe4e9bd0f"
+    documentation="Een afspraak die de rechten en verplichtingen regelt in onderwijsgerelateerde zaken tussen de onderwijsinstelling en een deelnemer.">
+  <properties
+      key="Domein"
+      value="Onderwijsondersteuning"/>
+  <properties
+      key="Synoniemen"
+      value="Contract"/>
+  <properties
+      key="Gegevenstype"
+      value="masterdata"/>
+  <properties
+      key="Gegevenscategorie"
+      value="overeenkomst"/>
+  <properties
+      key="Beschikbaarheid"
+      value="laag"/>
+  <properties
+      key="Integriteit"
+      value="middel"/>
+  <properties
+      key="Vertrouwelijkheid"
+      value="laag"/>
+  <properties
+      key="Toelichting BIV-classificatie"
+      value="Objecten waaruit inkomende betalingen voortvloeien onderbouwen financiële gegevens."/>
+  <properties
+      key="Type"
+      value="Informatieobject"/>
+</archimate:BusinessObject>

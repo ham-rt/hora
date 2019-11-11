@@ -1,0 +1,22 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Digitaal portfoliosysteem"
+    id="id-8e5fdf9b-30e9-48c0-b770-9cb3c392e999"
+    documentation="Een systeem dat een student ondersteunt bij het verzamelen van eigen werk.">
+  <properties
+      key="Externe informatie"/>
+  <properties
+      key="Domein"
+      value="Onderwijs"/>
+  <properties
+      key="Bouwsteen"
+      value="Nee"/>
+  <properties
+      key="Beheerder"/>
+  <properties
+      key="Voorbeelden"
+      value="Sakai CLE for ePortfolios (http://www.sakaiproject.org/eportfolios), Trajectplanner (http://www.trajectplanner.nl/producten/hoger-onderwijs), Winvision Digitaal Portfolio (http://www.winvision.nl/cases/Paginas/Hogeschool-van-Amsterdam.aspx), BlackBoard Learn (http://www.blackboard.com/Platforms/Learn/Overview.aspx)"/>
+  <properties
+      key="Type"
+      value="Referentieapplicatie"/>
+</archimate:ApplicationComponent>

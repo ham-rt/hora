@@ -1,0 +1,9 @@
+<archimate:Grouping
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Bedrijfsvoering"
+    id="id-838c9702-20f4-4be5-b870-41054880d587"
+    documentation="Het domein betreffende Bedrijfsvoering">
+  <properties
+      key="Type"
+      value="HORA-domein"/>
+</archimate:Grouping>

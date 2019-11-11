@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Produceren onderzoeks(tussen)resultaten"
+    id="id-da09db97-b123-468d-b614-4b0b05ee4bc5"
+    documentation="Het aan produceren van onderzoeks(tussen)resultaten.">
+  <properties
+      key="Domein"
+      value="Onderzoek"/>
+  <properties
+      key="Type"
+      value="Deelbedrijfsproces"/>
+  <properties
+      key="Trigger"
+      value="Onderzoek leidt tot onderzoeksgegevens, bevindingen, hypothesen en/of conclusies."/>
+  <properties
+      key="Preconditie"
+      value="Er zijn (nieuwe) onderzoeksgegevens en/of conclusies beschikbaar."/>
+  <properties
+      key="Postconditie"
+      value="Onderzoeksgegevens en/of conclusies zijn aangemerkt als onderzoeks(tussen)resultaten."/>
+</archimate:BusinessProcess>

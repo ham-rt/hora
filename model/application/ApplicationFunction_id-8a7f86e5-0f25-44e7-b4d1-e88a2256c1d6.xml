@@ -1,0 +1,9 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Datatransferfunctie"
+    id="id-8a7f86e5-0f25-44e7-b4d1-e88a2256c1d6"
+    documentation="Het - op een veilige manier - overdragen van onderzoeksgegevens, zo nodig gepseudonimiseerd en/of via een Trusted Third Party.">
+  <properties
+      key="Type"
+      value="Applicatiefunctie"/>
+</archimate:ApplicationFunction>

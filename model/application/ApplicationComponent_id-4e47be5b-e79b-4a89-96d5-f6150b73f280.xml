@@ -1,0 +1,22 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Plagiaatdetectiesysteem"
+    id="id-4e47be5b-e79b-4a89-96d5-f6150b73f280"
+    documentation="Een systeem dat het mogelijk maakt om plagiaat in bewijsstukken van deelnemers te detecteren.">
+  <properties
+      key="Externe informatie"/>
+  <properties
+      key="Domein"
+      value="Onderwijs"/>
+  <properties
+      key="Bouwsteen"
+      value="Nee"/>
+  <properties
+      key="Beheerder"/>
+  <properties
+      key="Voorbeelden"
+      value="Ephorus (https://www.ephorus.com/nl/), iParagdigms Turinitin (http://turnitin.com), PEACH (http://peach3.nl/trac/)"/>
+  <properties
+      key="Type"
+      value="Referentieapplicatie"/>
+</archimate:ApplicationComponent>

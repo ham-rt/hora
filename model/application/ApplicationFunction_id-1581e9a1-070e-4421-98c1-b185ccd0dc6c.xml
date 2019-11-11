@@ -1,0 +1,9 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Basisgegevensbeheer hoger onderwijs"
+    id="id-1581e9a1-070e-4421-98c1-b185ccd0dc6c"
+    documentation="Het beheren van gegevens over deelnemers van hoger onderwijsinstellingen">
+  <properties
+      key="Type"
+      value="Applicatiefunctie"/>
+</archimate:ApplicationFunction>

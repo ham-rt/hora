@@ -1,0 +1,22 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Onderzoekssubsidieaanvraagsysteem"
+    id="id-039c99ee-62b7-4caa-9544-0e80e639b8ef"
+    documentation="Een systeem dat subsidieaanvragen voor onderzoeken ondersteunt.">
+  <properties
+      key="Externe informatie"/>
+  <properties
+      key="Domein"
+      value="Onderzoeksondersteuning"/>
+  <properties
+      key="Bouwsteen"
+      value="Ja"/>
+  <properties
+      key="Beheerder"/>
+  <properties
+      key="Voorbeelden"
+      value="IRIS (https://www.iris.nwo.nl/iris/help/GebruikershandleidingIrisNWO_nl.pdf)"/>
+  <properties
+      key="Type"
+      value="Referentieapplicatie"/>
+</archimate:ApplicationComponent>

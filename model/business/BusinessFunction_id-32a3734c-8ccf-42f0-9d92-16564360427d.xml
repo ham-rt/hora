@@ -1,0 +1,12 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Informatie en Technologiemanagement"
+    id="id-32a3734c-8ccf-42f0-9d92-16564360427d"
+    documentation="Het ervoor zorgen dat informatie en technologie beschikbaar is voor de ondersteuning van de informatievoorziening.">
+  <properties
+      key="Domein"
+      value="Bedrijfsvoering"/>
+  <properties
+      key="Type"
+      value="Hoofdbedrijfsfunctie"/>
+</archimate:BusinessFunction>

@@ -1,0 +1,12 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Deelnemerherinschrijving"
+    id="id-71dcc3b3-c499-46f7-9e47-a9e4797514b9"
+    documentation="Het administratief verwerken van de jaarlijkse herinschrijving van een deelnemer.">
+  <properties
+      key="Domein"
+      value="Onderwijsondersteuning"/>
+  <properties
+      key="Type"
+      value="Deelbedrijfsfunctie"/>
+</archimate:BusinessFunction>

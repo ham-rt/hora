@@ -1,0 +1,9 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Debiteurgegevensbeheer"
+    id="id-492cfd78-f0ae-41d5-abb0-4888a173cca8"
+    documentation="Het beheren van gegevens over debiteuren">
+  <properties
+      key="Type"
+      value="Applicatiefunctie"/>
+</archimate:ApplicationFunction>

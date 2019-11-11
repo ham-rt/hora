@@ -1,0 +1,22 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Objectidentificatiesysteem"
+    id="id-300066a6-a356-4b9c-8b9d-a5c61e22cbef"
+    documentation="Een systeem dat identificaties van objecten (zoals publicaties en onderzoeksgegevens) toewijst en beheert.">
+  <properties
+      key="Externe informatie"/>
+  <properties
+      key="Domein"
+      value="Informatieontsluiting"/>
+  <properties
+      key="Bouwsteen"
+      value="Ja"/>
+  <properties
+      key="Beheerder"/>
+  <properties
+      key="Voorbeelden"
+      value="DataCite (http://www.datacite.org/services)"/>
+  <properties
+      key="Type"
+      value="Referentieapplicatie"/>
+</archimate:ApplicationComponent>

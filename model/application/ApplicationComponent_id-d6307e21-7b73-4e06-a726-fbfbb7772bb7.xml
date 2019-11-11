@@ -1,0 +1,15 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Identity- en accessmanagementsysteem"
+    id="id-d6307e21-7b73-4e06-a726-fbfbb7772bb7"
+    documentation="Een systeem dat identiteiten (gebruikers) en toegangsrechten beheert.">
+  <properties
+      key="Voorbeelden"
+      value="Oracle Identity Management (http://www.oracle.com/us/products/middleware/identity-management/overview/index.html)"/>
+  <properties
+      key="Domein"
+      value="Bedrijfsvoering"/>
+  <properties
+      key="Type"
+      value="Referentieapplicatie"/>
+</archimate:ApplicationComponent>

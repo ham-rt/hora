@@ -1,0 +1,12 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Persoonlijke situatiebegeleiding"
+    id="id-2612139a-fe0a-4d28-bdbe-bcd214cb46b7"
+    documentation="Het begeleiden van de deelnemer bij problemen met financiering, huisvesting, functiebeperkingen en persoonlijke situatie.">
+  <properties
+      key="Domein"
+      value="Onderwijsondersteuning"/>
+  <properties
+      key="Type"
+      value="Deelbedrijfsfunctie"/>
+</archimate:BusinessFunction>

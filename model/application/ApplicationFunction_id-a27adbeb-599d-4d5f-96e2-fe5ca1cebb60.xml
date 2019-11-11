@@ -1,0 +1,9 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Formatieplaatsgegevensbeheer"
+    id="id-a27adbeb-599d-4d5f-96e2-fe5ca1cebb60"
+    documentation="Het beheren van gegevens over formatieplaatsen">
+  <properties
+      key="Type"
+      value="Applicatiefunctie"/>
+</archimate:ApplicationFunction>

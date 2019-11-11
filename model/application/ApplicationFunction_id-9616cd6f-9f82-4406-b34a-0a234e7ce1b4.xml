@@ -1,0 +1,9 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Objectidentificatiefunctie"
+    id="id-9616cd6f-9f82-4406-b34a-0a234e7ce1b4"
+    documentation="Het ondersteunen van de toewijzing en het beheer van identificaties van objecten">
+  <properties
+      key="Type"
+      value="Applicatiefunctie"/>
+</archimate:ApplicationFunction>

@@ -1,0 +1,9 @@
+<archimate:Grouping
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Derden"
+    id="id-a9f977da-d6ea-40fd-8991-595d4f15d8f5"
+    documentation="Het domein betreffende Derden.">
+  <properties
+      key="Type"
+      value="HORA-domein"/>
+</archimate:Grouping>

@@ -1,0 +1,9 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Contractbeheerfunctie"
+    id="id-d41ee1c2-cf52-4d99-b924-1a086f96aa72"
+    documentation="Het ondersteunen van het beheren van contracten">
+  <properties
+      key="Type"
+      value="Applicatiefunctie"/>
+</archimate:ApplicationFunction>

@@ -1,0 +1,23 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Verantwoorden beleid"
+    id="id-f7804a1b-0acb-475d-b85d-ef64981ed333"
+    documentation="Afleggen van verantwoording over gevoerd beleid aan interne en externe stakeholders.">
+  <properties
+      key="Beschrijving"/>
+  <properties
+      key="Domein"
+      value="Sturing"/>
+  <properties
+      key="Trigger"
+      value="Vanuit interne en externe wordt verantwoording gevraagd omtrent gevoerd beleid cq. wil de organisatie zelf verantwoording afleggen."/>
+  <properties
+      key="Preconditie"
+      value="Voorgenomen beleid is bekend. Status en resultaten van de beleidsuitvoering zijn bekend."/>
+  <properties
+      key="Postconditie"
+      value="Over het gevoerde beleid is verantwoording afgelegd aan interne en externe stakeholders."/>
+  <properties
+      key="Type"
+      value="Deelbedrijfsproces"/>
+</archimate:BusinessProcess>

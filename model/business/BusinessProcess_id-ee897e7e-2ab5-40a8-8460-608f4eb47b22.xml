@@ -1,0 +1,23 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Werven deelnemers"
+    id="id-ee897e7e-2ab5-40a8-8460-608f4eb47b22"
+    documentation="Het werven van nieuwe deelnemers voor opleidingen.">
+  <properties
+      key="Beschrijving"/>
+  <properties
+      key="Domein"
+      value="Onderwijs"/>
+  <properties
+      key="Trigger"
+      value="Er is een moment aangebroken waarop gestart worden met het werven van nieuwe deelnemers (voor een geplande onderwijsperiode)."/>
+  <properties
+      key="Preconditie"
+      value="Er zijn één of meer opleidingen ontwikkeld."/>
+  <properties
+      key="Postconditie"
+      value="Potentiële deelnemers zijn benaderd voor en geïnformeerd over de opleidingen."/>
+  <properties
+      key="Type"
+      value="Deelbedrijfsproces"/>
+</archimate:BusinessProcess>

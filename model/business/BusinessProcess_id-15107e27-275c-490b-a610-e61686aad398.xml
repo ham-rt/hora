@@ -1,0 +1,23 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Implementeren veranderingen"
+    id="id-15107e27-275c-490b-a610-e61686aad398"
+    documentation="Het daadwerkelijk doorvoeren van een voorgenomen verandering.">
+  <properties
+      key="Beschrijving"/>
+  <properties
+      key="Domein"
+      value="Sturing"/>
+  <properties
+      key="Trigger"
+      value="Een veranderingstraject is voorbereid en er wordt gestart met implementatie van de verandering."/>
+  <properties
+      key="Preconditie"
+      value="Veranderingsinitiatieven zijn gedefinieerd en het veranderingstraject is voorbereid en opgestart (al dan niet in tijdelijk verband)."/>
+  <properties
+      key="Postconditie"
+      value="Gedefinieerde veranderingen zijn doorgevoerd (incl. overdracht aan lijnorganisatie) en blijvende werking en effect zijn geborgd."/>
+  <properties
+      key="Type"
+      value="Deelbedrijfsproces"/>
+</archimate:BusinessProcess>

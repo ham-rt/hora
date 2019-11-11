@@ -1,0 +1,12 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Onderzoeksevaluatie"
+    id="id-9b5e8edc-af05-4798-81e7-ac7a81c214ef"
+    documentation="Het evalueren van een onderzoek en de bijbehorende onderzoeksresultaten en hun impact.">
+  <properties
+      key="Domein"
+      value="Onderzoek"/>
+  <properties
+      key="Type"
+      value="Deelbedrijfsfunctie"/>
+</archimate:BusinessFunction>

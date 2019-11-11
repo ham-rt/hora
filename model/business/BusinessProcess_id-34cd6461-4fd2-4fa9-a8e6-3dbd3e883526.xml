@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Verdedigen octrooien"
+    id="id-34cd6461-4fd2-4fa9-a8e6-3dbd3e883526"
+    documentation="Het verdedigen van verworven octrooien voor de onderzoeksresultaten.">
+  <properties
+      key="Domein"
+      value="Valorisatie"/>
+  <properties
+      key="Type"
+      value="Deelbedrijfsproces"/>
+  <properties
+      key="Trigger"
+      value="Er is noodzaak om een verworven octrooi te verdedigen."/>
+  <properties
+      key="Preconditie"
+      value="Er is octrooi verworven."/>
+  <properties
+      key="Postconditie"
+      value="Inbreuk op intellectueel eigendom is middels het octrooi voorkomen."/>
+</archimate:BusinessProcess>

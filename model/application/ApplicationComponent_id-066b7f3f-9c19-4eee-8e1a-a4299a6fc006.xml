@@ -1,0 +1,22 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="BPM systeem"
+    id="id-066b7f3f-9c19-4eee-8e1a-a4299a6fc006"
+    documentation="Een systeem dat het uitvoeren van (bedrijfs)processen ondersteunt.">
+  <properties
+      key="Externe informatie"/>
+  <properties
+      key="Domein"
+      value="Generiek"/>
+  <properties
+      key="Bouwsteen"
+      value="Nee"/>
+  <properties
+      key="Beheerder"/>
+  <properties
+      key="Voorbeelden"
+      value="Microsoft BizTalk Server (http://www.microsoft.com/en-us/biztalk/default.aspx), Talend BPM (http://www.talend.com/products/bpm), IBM Business Process Manager (http://www.ibm.com/software/products/us/en/business-process-manager-family), Oracle Business Process Management Suite (http://www.oracle.com/us/technologies/bpm/overview/index.html), Circle Software Verseon Zaaksysteem (http://www.circlesoftware.nl/toepassingen/zaaksysteem/) * Perceptive Software Case Management (http://www.perceptivesoftware.com/products/perceptive-process/case-management) * Be Informed Business Process Platform (http://www.beinformed.com/BeInformed/website/en?init=true)"/>
+  <properties
+      key="Type"
+      value="Referentieapplicatie"/>
+</archimate:ApplicationComponent>

@@ -1,0 +1,32 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Octrooi"
+    id="id-702306f9-af72-4c02-8942-5808254ba7e6"
+    documentation="Een door de overheid of bevoegd gezag verleend exclusief recht tot het maken of verkopen van een industrieel product dat is verleend in een verslagjaar.">
+  <properties
+      key="Domein"
+      value="Valorisatie"/>
+  <properties
+      key="Synoniemen"
+      value="Patent"/>
+  <properties
+      key="Gegevenstype"
+      value="masterdata"/>
+  <properties
+      key="Gegevenscategorie"
+      value="middel"/>
+  <properties
+      key="Beschikbaarheid"
+      value="laag"/>
+  <properties
+      key="Integriteit"
+      value="hoog"/>
+  <properties
+      key="Vertrouwelijkheid"
+      value="laag"/>
+  <properties
+      key="Toelichting BIV-classificatie"/>
+  <properties
+      key="Type"
+      value="Informatieobject"/>
+</archimate:BusinessObject>

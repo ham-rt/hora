@@ -1,0 +1,9 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Documentconversiefunctie"
+    id="id-eb5f8889-adb6-442b-bd46-3d147ed56a2c"
+    documentation="Het converteren van documenten">
+  <properties
+      key="Type"
+      value="Applicatiefunctie"/>
+</archimate:ApplicationFunction>

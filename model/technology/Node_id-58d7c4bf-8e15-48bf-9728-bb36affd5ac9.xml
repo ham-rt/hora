@@ -1,0 +1,15 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ETL tool"
+    id="id-58d7c4bf-8e15-48bf-9728-bb36affd5ac9"
+    documentation="Een systeem dat het extraheren, transformeren en laden van gegevens in bulk ondersteunt.">
+  <properties
+      key="Voorbeelden"
+      value="Talend Data Integration (http://www.talend.com/products/data-integration), Informatica PowerCenter (http://www.informatica.com/us/products/enterprise-data-integration/powercenter/), Oracle Data Integrator (http://www.oracle.com/us/products/middleware/data-integration/enterprise-edition/overview/index.html), IBM InfoSphere Information Server (http://www-01.ibm.com/software/data/integration/products.html)"/>
+  <properties
+      key="Domein"
+      value="Applicatieplatform"/>
+  <properties
+      key="Type"
+      value="Platformnode"/>
+</archimate:Node>

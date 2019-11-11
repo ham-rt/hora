@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Preserveren onderzoeksresultaten"
+    id="id-60a8a35e-b8c7-4665-afab-145439db174f"
+    documentation="Het gedurende lange tijd beheren en beschikbaar houden van onderzoeksresultaten en onderzoeksmaterialen.">
+  <properties
+      key="Domein"
+      value="Valorisatie"/>
+  <properties
+      key="Type"
+      value="Deelbedrijfsproces"/>
+  <properties
+      key="Trigger"
+      value="Er zijn onderzoeksresultaten beschikbaar."/>
+  <properties
+      key="Preconditie"
+      value="De onderzoeksresultaten zijn overgedragen."/>
+  <properties
+      key="Postconditie"
+      value="De onderzoeksresultaten worden voor lange tijd beheerd en beschikbaar gehouden."/>
+</archimate:BusinessProcess>

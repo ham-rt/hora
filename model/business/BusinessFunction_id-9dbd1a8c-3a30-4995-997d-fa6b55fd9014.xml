@@ -1,0 +1,12 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Voorbereiding onderwijsuitvoering"
+    id="id-9dbd1a8c-3a30-4995-997d-fa6b55fd9014"
+    documentation="Het organiseren van de onderwijsuitvoering, zoals het samenstellen van groepen ten behoeve van het gezamenlijk uitvoeren van leeractiviteiten, het oriënteren op deelnemers/docent, verwerken van uitzonderingen, doorvoeren van wijzigingen. Delen van overzicht, inzicht en samenstelling van de onderwijseenheid (bestaat uit één of meerdere werkvormen).">
+  <properties
+      key="Domein"
+      value="Onderwijs"/>
+  <properties
+      key="Type"
+      value="Deelbedrijfsfunctie"/>
+</archimate:BusinessFunction>

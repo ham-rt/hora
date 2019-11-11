@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Bepalen onderzoeksimpact"
+    id="id-0e633e29-8dbc-47c7-872d-33939adc8342"
+    documentation="Het bepalen van de impact van een onderzoek, al dan niet afgezet tegen andere onderzoeken en onderzoeksresultaten in een bepaalde discipline.">
+  <properties
+      key="Domein"
+      value="Onderzoek"/>
+  <properties
+      key="Type"
+      value="Deelbedrijfsproces"/>
+  <properties
+      key="Trigger"
+      value="Er is behoefte de impact van een bepaald (voorgenomen) onderzoek vast te stellen."/>
+  <properties
+      key="Preconditie"
+      value="Er zijn onderzoeks(tussen)resultaten beschikbaar, of er is een onderzoeksvoorstel dat duidelijk maakt welke resultaten verwacht worden."/>
+  <properties
+      key="Postconditie"
+      value="Het is duidelijk wat de wetenschappelijke en/of maatschappelijke impact van het onderzoek is."/>
+</archimate:BusinessProcess>

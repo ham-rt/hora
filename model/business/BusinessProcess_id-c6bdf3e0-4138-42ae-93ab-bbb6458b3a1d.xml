@@ -1,0 +1,23 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Uitvoeren beleidsanalyse"
+    id="id-c6bdf3e0-4138-42ae-93ab-bbb6458b3a1d"
+    documentation="Het uitvoeren van een analyse voor een beleidsterrein (ontwikkelingen en trends, strategische keuzes, meerjarenplanningen, bereikte beleidsresultaten, leerpunten ect).">
+  <properties
+      key="Beschrijving"/>
+  <properties
+      key="Domein"
+      value="Sturing"/>
+  <properties
+      key="Trigger"
+      value="Vanuit interne en externe factoren en ontwikkelingen is er een reden om een beleidsanalyse uit te voeren voor een beleidsterrein. Deze redenen kunnen divers zijn: bijstelling van de instellingsidentiteit of gehanteerde business modellen, Aanpassing van de meerjarendoelen en -planning, externe ontwikkelingen en trends, tussentijds bereikte resultaten van de beleidsuitvoering etc."/>
+  <properties
+      key="Preconditie"
+      value="Instellingsidentiteit, business modellen, meerjarendoelstelling en –plan zijn bekend. Het actuele beleid is bekend. Resultaten van de beleidsuitvoering zijn bekend."/>
+  <properties
+      key="Postconditie"
+      value="De beleidsanalyse is uitgevoerd, afgestemd en beschikbaar."/>
+  <properties
+      key="Type"
+      value="Deelbedrijfsproces"/>
+</archimate:BusinessProcess>

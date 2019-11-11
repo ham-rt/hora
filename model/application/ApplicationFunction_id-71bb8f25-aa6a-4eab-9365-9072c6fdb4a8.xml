@@ -1,0 +1,9 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Grootboekgegevensbeheer"
+    id="id-71bb8f25-aa6a-4eab-9365-9072c6fdb4a8"
+    documentation="Het beheren van gegevens over grootboekrekeningen">
+  <properties
+      key="Type"
+      value="Applicatiefunctie"/>
+</archimate:ApplicationFunction>

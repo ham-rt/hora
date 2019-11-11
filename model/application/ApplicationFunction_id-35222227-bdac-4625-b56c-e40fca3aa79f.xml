@@ -1,0 +1,9 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Budgetgegevensbeheer"
+    id="id-35222227-bdac-4625-b56c-e40fca3aa79f"
+    documentation="Het beheren van gegevens over budgetten">
+  <properties
+      key="Type"
+      value="Applicatiefunctie"/>
+</archimate:ApplicationFunction>

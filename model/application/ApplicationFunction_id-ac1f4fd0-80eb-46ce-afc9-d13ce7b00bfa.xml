@@ -1,0 +1,9 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Documentmanagementfunctie"
+    id="id-ac1f4fd0-80eb-46ce-afc9-d13ce7b00bfa"
+    documentation="Het ondersteunen van het maken en beheren van documenten en records">
+  <properties
+      key="Type"
+      value="Applicatiefunctie"/>
+</archimate:ApplicationFunction>

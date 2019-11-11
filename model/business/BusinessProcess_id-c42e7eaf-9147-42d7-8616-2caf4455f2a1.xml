@@ -1,0 +1,23 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Faciliteren promotie"
+    id="id-c42e7eaf-9147-42d7-8616-2caf4455f2a1"
+    documentation="Het mogelijk maken dat een promotie plaatsvindt.">
+  <properties
+      key="Beschrijving"/>
+  <properties
+      key="Domein"
+      value="Onderzoek"/>
+  <properties
+      key="Trigger"
+      value="Er is een mogelijkheid om een promotietraject te starten."/>
+  <properties
+      key="Preconditie"
+      value="Er is een onderzoeksvraag en een promotiemogelijkheid, promovendus en een promotor geïdentificeerd."/>
+  <properties
+      key="Postconditie"
+      value="Er is wel of geen waardedocument uitgereikt aan de promovendus."/>
+  <properties
+      key="Type"
+      value="Deelbedrijfsproces"/>
+</archimate:BusinessProcess>

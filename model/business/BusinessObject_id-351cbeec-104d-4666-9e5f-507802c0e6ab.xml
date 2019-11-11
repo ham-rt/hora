@@ -1,0 +1,12 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Productportfolio"
+    id="id-351cbeec-104d-4666-9e5f-507802c0e6ab"
+    documentation="Het aanbod van producten en diensten van een instelling op het gebied van onderwijs, onderzoek en overige.">
+  <properties
+      key="Domein"
+      value="Sturing"/>
+  <properties
+      key="Type"
+      value="Informatieobject"/>
+</archimate:BusinessObject>

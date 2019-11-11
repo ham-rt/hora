@@ -1,0 +1,9 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Programmamanagementfunctie"
+    id="id-53f1db12-12ce-4e8b-bd81-342dfbe8d307"
+    documentation="Het ondersteunen van het bepalen en sturen van programma's">
+  <properties
+      key="Type"
+      value="Applicatiefunctie"/>
+</archimate:ApplicationFunction>

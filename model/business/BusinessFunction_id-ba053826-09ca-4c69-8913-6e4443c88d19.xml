@@ -1,0 +1,12 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Ontsluiting digitaal materiaal"
+    id="id-ba053826-09ca-4c69-8913-6e4443c88d19"
+    documentation="Het beschikbaar stellen van elektronische boeken en tijdschriften.">
+  <properties
+      key="Domein"
+      value="Informatieontsluiting"/>
+  <properties
+      key="Type"
+      value="Deelbedrijfsfunctie"/>
+</archimate:BusinessFunction>

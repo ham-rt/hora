@@ -1,0 +1,12 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Crediteur"
+    id="id-125d05c8-de15-4a7e-b111-cc0d72b100b7"
+    documentation="Een individu of organisatie die een vordering heeft bij de instelling op basis van een overeenkomst voor het leveren van producten of diensten aan de instelling. In de praktijk meestal een leverancier of opdractnemer.">
+  <properties
+      key="Type"
+      value="Informatieobject"/>
+  <properties
+      key="Domein"
+      value="Bedrijfsvoering"/>
+</archimate:BusinessObject>

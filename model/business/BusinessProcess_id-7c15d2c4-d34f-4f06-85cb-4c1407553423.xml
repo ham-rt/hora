@@ -1,0 +1,23 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Evalueren verbeteringen"
+    id="id-7c15d2c4-d34f-4f06-85cb-4c1407553423"
+    documentation="Doorgevoerde verbeteringen worden geëvalueerd op aanpak, resultaat en effect ten opzicht heersend beleid en beoogde werking en prestaties.">
+  <properties
+      key="Beschrijving"/>
+  <properties
+      key="Domein"
+      value="Sturing"/>
+  <properties
+      key="Trigger"
+      value="Een of meerdere verbeteringen zijn geïmplementeerd."/>
+  <properties
+      key="Preconditie"
+      value="Verbeteringen zijn/worden geïmplementeerd in de organisatie."/>
+  <properties
+      key="Postconditie"
+      value="Van een doorgevoerde verbetering zijn status, werking en prestatie getoetst met de gedefinieerde doelen en resultaten en het heersende beleid. Zonodig wordt bijgestuurd."/>
+  <properties
+      key="Type"
+      value="Deelbedrijfsproces"/>
+</archimate:BusinessProcess>

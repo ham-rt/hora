@@ -1,0 +1,9 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Architectuurbeheerfunctie"
+    id="id-032dffd3-ec6c-42a3-aa79-dc4c26e8ee29"
+    documentation="Het ondersteunen van het beheren van de enterprise-architectuur">
+  <properties
+      key="Type"
+      value="Applicatiefunctie"/>
+</archimate:ApplicationFunction>

@@ -1,0 +1,9 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Begrotingsgegevensbeheer"
+    id="id-98489407-ad49-4271-90d8-2ea700c7a4df"
+    documentation="Het beheren van gegevens over begrotingen">
+  <properties
+      key="Type"
+      value="Applicatiefunctie"/>
+</archimate:ApplicationFunction>

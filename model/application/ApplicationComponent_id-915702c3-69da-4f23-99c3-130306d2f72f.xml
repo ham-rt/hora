@@ -1,0 +1,22 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Digitaal toetssysteem"
+    id="id-915702c3-69da-4f23-99c3-130306d2f72f"
+    documentation="Een systeem dat het toetsen van deelnemers ondersteunt.">
+  <properties
+      key="Externe informatie"/>
+  <properties
+      key="Domein"
+      value="Onderwijs"/>
+  <properties
+      key="Bouwsteen"
+      value="Nee"/>
+  <properties
+      key="Beheerder"/>
+  <properties
+      key="Voorbeelden"
+      value="Questionmark Perception (https://www.questionmark.com/us/perception/Pages/default.aspx), Teelen Testvision (http://www.testvision.nl), MapleTA (http://www.maplesoft.com/products/testing_solutions/), Respondus (http://www.respondus.com), N@Tschool! / N@Tsmartest (http://www.threeships.nl), KioWare (http://www.kioware.com), Achievement Series Acuity (http://www.scantron.com/achievementseries/), Statlab (http://www.win.tue.nl/statlab/)"/>
+  <properties
+      key="Type"
+      value="Referentieapplicatie"/>
+</archimate:ApplicationComponent>

@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Uitvoeren peer review"
+    id="id-20da4a84-49fd-43ae-8104-124eb3fee9c0"
+    documentation="Het uitvoeren van een peer review op andermans onderzoeksresultaten.">
+  <properties
+      key="Domein"
+      value="Onderzoek"/>
+  <properties
+      key="Type"
+      value="Deelbedrijfsproces"/>
+  <properties
+      key="Trigger"
+      value="Verzoek om peer review uit te voeren."/>
+  <properties
+      key="Preconditie"
+      value="Onderzoeksresultaten zijn beschikbaar."/>
+  <properties
+      key="Postconditie"
+      value="De onderzoeksresultaten zijn beoordeeld."/>
+</archimate:BusinessProcess>

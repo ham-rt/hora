@@ -1,0 +1,12 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Disseminatiecreatie"
+    id="id-9555ab29-f79f-4e0d-bfe1-36621db10a02"
+    documentation="Het verwerken van de onderzoeksresultaten tot publicaties zoals benoemd in de definitieafspraken wetenschappelijk onderzoek van de VSNU, inclusief het verwerken van reviewcommentaar.">
+  <properties
+      key="Domein"
+      value="Onderzoek"/>
+  <properties
+      key="Type"
+      value="Deelbedrijfsfunctie"/>
+</archimate:BusinessFunction>

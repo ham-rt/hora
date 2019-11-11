@@ -1,0 +1,12 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Toepassing leermaterialen"
+    id="id-bd2241b7-4028-419c-894f-95b28a8bfd36"
+    documentation="Het gebruiken, toevoegen, wijzigen en publiceren van leermateriaal.">
+  <properties
+      key="Domein"
+      value="Onderwijs"/>
+  <properties
+      key="Type"
+      value="Deelbedrijfsfunctie"/>
+</archimate:BusinessFunction>

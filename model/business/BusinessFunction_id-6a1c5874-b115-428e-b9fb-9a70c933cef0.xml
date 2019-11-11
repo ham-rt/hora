@@ -1,0 +1,12 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Juridisch management"
+    id="id-6a1c5874-b115-428e-b9fb-9a70c933cef0"
+    documentation="Het ervoor zorgdragen dat de organisatie zich begeeft binnen de grenzen van wet- en regelgeving.">
+  <properties
+      key="Domein"
+      value="Bedrijfsvoering"/>
+  <properties
+      key="Type"
+      value="Hoofdbedrijfsfunctie"/>
+</archimate:BusinessFunction>

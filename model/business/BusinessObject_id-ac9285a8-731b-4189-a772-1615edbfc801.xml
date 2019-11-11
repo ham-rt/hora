@@ -1,0 +1,37 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Onderzoeksfaciliteit"
+    id="id-ac9285a8-731b-4189-a772-1615edbfc801"
+    documentation="Middel met een uniek karakter dat onontbeerlijk is om een onderzoek te kunnen verrichten.">
+  <properties
+      key="Toelichting definitie"
+      value="cf. 'onderzoeksinfrastructuur', art 3.17.1, Toekomstfondskrediet Onderzoeksfaciliteiten, stcrt-2015-18096."/>
+  <properties
+      key="Type"
+      value="Informatieobject"/>
+  <properties
+      key="Domein"
+      value="Onderzoek"/>
+  <properties
+      key="Synoniemen"/>
+  <properties
+      key="Gegevenstype"
+      value="masterdata"/>
+  <properties
+      key="Gegevenscategorie"
+      value="middel"/>
+  <properties
+      key="Beschikbaarheid"
+      value="laag"/>
+  <properties
+      key="Integriteit"
+      value="middel"/>
+  <properties
+      key="Vertrouwelijkheid"
+      value="laag"/>
+  <properties
+      key="Toelichting BIV-classificatie"/>
+  <properties
+      key="Voorbeelden"
+      value="Gebouw, Technische infrastructuur, Supercomputer, Software"/>
+</archimate:BusinessObject>

@@ -1,0 +1,22 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Gezondheid Veiligheid en Duurzaamheid systeem"
+    id="id-6c40ff51-f9b1-4b42-b92d-54a4fafd29aa"
+    documentation="Systeem dat processen ondersteunt om compliant te kunnen zijn aan wettelijke vereisten m.b.t. milieu, gezondheid en veiligheid.">
+  <properties
+      key="Externe informatie"/>
+  <properties
+      key="Domein"
+      value="Sturing"/>
+  <properties
+      key="Bouwsteen"
+      value="Nee"/>
+  <properties
+      key="Beheerder"/>
+  <properties
+      key="Voorbeelden"
+      value="Planon Maintenance Management (http://www.planonsoftware.com/nl), Planon Sustainability Management (http://www.planonsoftware.com/nl)"/>
+  <properties
+      key="Type"
+      value="Referentieapplicatie"/>
+</archimate:ApplicationComponent>

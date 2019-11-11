@@ -1,0 +1,22 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Portaal"
+    id="id-e9acaf1c-e320-4497-88f8-17dfcd2af604"
+    documentation="Een systeem dat gebruikers een persoonlijke omgeving biedt.">
+  <properties
+      key="Externe informatie"/>
+  <properties
+      key="Domein"
+      value="Generiek"/>
+  <properties
+      key="Bouwsteen"
+      value="Nee"/>
+  <properties
+      key="Beheerder"/>
+  <properties
+      key="Voorbeelden"
+      value="Oracle WebCenter Portal (https://www.oracle.com/us/products/middleware/webcenter/portal/overview/index.html), Microsoft SharePoint (http://office.microsoft.com/en-us/sharepoint/), LifeRay Portal (http://www.liferay.com), IBM WebSphere Portal (http://www-03.ibm.com/software/products/us/en/websportfami/), SAP NetWeaver Portal (http://www1.sap.com/netherlands/platform/netweaver/components/portal/index.epx)"/>
+  <properties
+      key="Type"
+      value="Referentieapplicatie"/>
+</archimate:ApplicationComponent>

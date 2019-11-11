@@ -1,0 +1,12 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Onderwijsactiviteitenplanning"
+    id="id-8272f416-ea90-4dc9-8bb6-7e14bb1b58ea"
+    documentation="Het inplannen van de specifieke activiteiten die in het kader van een onderwijseenheid noodzakelijk zijn, inclusief het bepalen van de vorm waarin de activiteit zal plaatsvinden (zoals bijvoorbeeld een stage).">
+  <properties
+      key="Domein"
+      value="Onderwijsondersteuning"/>
+  <properties
+      key="Type"
+      value="Deelbedrijfsfunctie"/>
+</archimate:BusinessFunction>

@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Beheren onderzoeksportfolio"
+    id="id-788e0079-a489-4d80-8c86-0522cf85b3b8"
+    documentation="Het beheren van de onderzoeksportfolio">
+  <properties
+      key="Domein"
+      value="Onderzoek"/>
+  <properties
+      key="Type"
+      value="Deelbedrijfsproces"/>
+  <properties
+      key="Trigger"
+      value="Er is een nieuwe strategische planningscyclus afgerond."/>
+  <properties
+      key="Preconditie"
+      value="De strategie van de instelling is helder."/>
+  <properties
+      key="Postconditie"
+      value="Het portfolio van onderzoeksgebieden is gedefinieerd."/>
+</archimate:BusinessProcess>

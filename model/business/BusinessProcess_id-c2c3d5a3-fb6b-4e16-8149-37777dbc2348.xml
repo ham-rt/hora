@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Ontwikkelen onderzoeksinstrumenten"
+    id="id-c2c3d5a3-fb6b-4e16-8149-37777dbc2348"
+    documentation="Het fabriceren van instrumenten die noodzakelijk zijn voor de uitvoering van een onderzoek.">
+  <properties
+      key="Domein"
+      value="Onderzoek"/>
+  <properties
+      key="Type"
+      value="Deelbedrijfsproces"/>
+  <properties
+      key="Trigger"
+      value="Er zijn nieuwe instrumenten nodig om een bepaald onderzoek uit te voeren."/>
+  <properties
+      key="Preconditie"
+      value="De expertise om de benodigde instrumenten te ontwikkelen is beschikbaar."/>
+  <properties
+      key="Postconditie"
+      value="De benodigde instrumenten zijn beschikbaar."/>
+</archimate:BusinessProcess>

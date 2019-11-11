@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Rapporteren tussenresultaten en voortgang onderzoek"
+    id="id-821be2e3-ac6d-4457-a94e-d293c18fb647"
+    documentation="Het verslag doen van de voortgang van een onderzoek en de behaalde (tussen)resultaten.">
+  <properties
+      key="Domein"
+      value="Onderzoek"/>
+  <properties
+      key="Type"
+      value="Gebundeld bedrijfsproces"/>
+  <properties
+      key="Trigger"
+      value="Er is een rapportageverzoek of een afspraak om op gezette tijden te rapporteren."/>
+  <properties
+      key="Preconditie"
+      value="Onderzoek wordt uitgevoerd."/>
+  <properties
+      key="Postconditie"
+      value="Er is een verslag van de voortgang van het onderzoek en de reeds behaalde (tussen)resultaten."/>
+</archimate:BusinessProcess>

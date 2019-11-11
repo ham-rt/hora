@@ -1,0 +1,23 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Examineren"
+    id="id-df213ce0-ada5-40ea-88d7-b2e2d62161ea"
+    documentation="Het toetsen of alle noodzakelijke competenties zijn behaald en het verstrekken van een waardedocument daarvoor.">
+  <properties
+      key="Beschrijving"/>
+  <properties
+      key="Domein"
+      value="Onderwijs"/>
+  <properties
+      key="Trigger"
+      value="Er zijn voldoende studiepunten behaald om te voldoen aan de uitstroomkwalificatie."/>
+  <properties
+      key="Preconditie"
+      value="De deelnemer heeft alle noodzakelijke onderwijseenheden afgerond."/>
+  <properties
+      key="Postconditie"
+      value="De deelnemer heeft wel of niet een waardedocument ontvangen."/>
+  <properties
+      key="Type"
+      value="Deelbedrijfsproces"/>
+</archimate:BusinessProcess>

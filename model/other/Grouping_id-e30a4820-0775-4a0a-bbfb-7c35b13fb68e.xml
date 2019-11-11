@@ -1,0 +1,9 @@
+<archimate:Grouping
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Informatieonsluiting"
+    id="id-e30a4820-0775-4a0a-bbfb-7c35b13fb68e"
+    documentation="Het domein betreffende Informatieontsluiting">
+  <properties
+      key="Type"
+      value="HORA-domein"/>
+</archimate:Grouping>

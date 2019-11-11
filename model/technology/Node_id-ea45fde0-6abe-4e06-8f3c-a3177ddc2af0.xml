@@ -1,0 +1,15 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="HTTP server"
+    id="id-ea45fde0-6abe-4e06-8f3c-a3177ddc2af0"
+    documentation="Omgeving die statische content ontsluit naar eindgebruiker.">
+  <properties
+      key="Voorbeelden"
+      value="Apache HTTP Server, Microsoft Internet Information Server, RedHat JBoss Enterprise Web Server (http://www.redhat.com/products/jbossenterprisemiddleware/web-server/)"/>
+  <properties
+      key="Domein"
+      value="Applicatieplatform"/>
+  <properties
+      key="Type"
+      value="Platformnode"/>
+</archimate:Node>

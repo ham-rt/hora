@@ -1,0 +1,12 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Vergunningswerving"
+    id="id-82b17637-e8b4-496e-92bf-2fb14202779f"
+    documentation="Het aanvragen van vergunningen voor het uitvoeren van een onderzoek.">
+  <properties
+      key="Domein"
+      value="Onderzoeksondersteuning"/>
+  <properties
+      key="Type"
+      value="Deelbedrijfsfunctie"/>
+</archimate:BusinessFunction>

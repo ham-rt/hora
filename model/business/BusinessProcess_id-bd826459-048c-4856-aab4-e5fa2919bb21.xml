@@ -1,0 +1,23 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Ontwikkelen opleiding"
+    id="id-bd826459-048c-4856-aab4-e5fa2919bb21"
+    documentation="Het (her)ontwikkelen van een specifieke opleiding.">
+  <properties
+      key="Beschrijving"/>
+  <properties
+      key="Domein"
+      value="Onderwijs"/>
+  <properties
+      key="Trigger"
+      value="Er is een nieuwe strategische planningscyclus afgerond."/>
+  <properties
+      key="Preconditie"
+      value="De strategie van de instelling is helder."/>
+  <properties
+      key="Postconditie"
+      value="De opleiding is ontwikkeld en kan ingepland worden."/>
+  <properties
+      key="Type"
+      value="Deelbedrijfsproces"/>
+</archimate:BusinessProcess>

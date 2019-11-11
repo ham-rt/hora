@@ -1,0 +1,12 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Facilitair management"
+    id="id-eb1280f0-a36d-4d81-bb2d-4421afac86f7"
+    documentation="Het zorgdragen voor de faciliteiten van de organisatie.">
+  <properties
+      key="Domein"
+      value="Bedrijfsvoering"/>
+  <properties
+      key="Type"
+      value="Hoofdbedrijfsfunctie"/>
+</archimate:BusinessFunction>

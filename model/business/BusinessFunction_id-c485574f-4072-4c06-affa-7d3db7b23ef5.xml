@@ -1,0 +1,12 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Innovatie"
+    id="id-c485574f-4072-4c06-affa-7d3db7b23ef5"
+    documentation="Het verkennen van en experimenteren met mogelijke vernieuwingen van producten, diensten en processen.">
+  <properties
+      key="Domein"
+      value="Sturing"/>
+  <properties
+      key="Type"
+      value="Deelbedrijfsfunctie"/>
+</archimate:BusinessFunction>

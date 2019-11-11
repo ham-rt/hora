@@ -1,0 +1,15 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Linked Data gateway"
+    id="id-56668e73-c415-460c-bd8c-a5c3824d34b6"
+    documentation="Een systeem dat het publiceren van Linked Data ondersteunt.">
+  <properties
+      key="Voorbeelden"
+      value="VIVO (http://www.vivoweb.org) , WikiXL (http://www.wikixl.nl)"/>
+  <properties
+      key="Domein"
+      value="Applicatieplatform"/>
+  <properties
+      key="Type"
+      value="Platformnode"/>
+</archimate:Node>

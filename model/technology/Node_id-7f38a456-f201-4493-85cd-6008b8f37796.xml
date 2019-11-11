@@ -1,0 +1,14 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Virtual-Private Connections"
+    id="id-7f38a456-f201-4493-85cd-6008b8f37796"
+    documentation="Ondersteunt het opzetten van een afgeschermd (privaat) netwerk via een publiek netwerk, met behoud van vertrouwelijkheid.">
+  <properties
+      key="Voorbeelden"/>
+  <properties
+      key="Domein"
+      value="Applicatieplatform"/>
+  <properties
+      key="Type"
+      value="Platformnode"/>
+</archimate:Node>

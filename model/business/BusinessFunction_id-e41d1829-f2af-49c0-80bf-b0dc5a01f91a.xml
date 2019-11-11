@@ -1,0 +1,12 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Arbeidsmarktbegeleiding"
+    id="id-e41d1829-f2af-49c0-80bf-b0dc5a01f91a"
+    documentation="Het helpen van deelnemers bij het vinden van een baan.">
+  <properties
+      key="Domein"
+      value="Onderwijsondersteuning"/>
+  <properties
+      key="Type"
+      value="Deelbedrijfsfunctie"/>
+</archimate:BusinessFunction>

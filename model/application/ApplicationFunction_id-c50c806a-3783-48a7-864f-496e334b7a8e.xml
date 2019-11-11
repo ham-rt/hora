@@ -1,0 +1,9 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Roosterwijzigingsfunctie"
+    id="id-c50c806a-3783-48a7-864f-496e334b7a8e"
+    documentation="Het beheren en communiceren van roosterwijzigingen">
+  <properties
+      key="Type"
+      value="Applicatiefunctie"/>
+</archimate:ApplicationFunction>

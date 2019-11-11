@@ -1,0 +1,22 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Videostreamingsysteem"
+    id="id-12e2bdf7-2efb-4f08-af89-78f18b9cd5a2"
+    documentation="Een systeem dat het streamen van hoge kwaliteit video ondersteunt.">
+  <properties
+      key="Externe informatie"/>
+  <properties
+      key="Domein"
+      value="Onderwijs"/>
+  <properties
+      key="Bouwsteen"
+      value="Nee"/>
+  <properties
+      key="Beheerder"/>
+  <properties
+      key="Voorbeelden"
+      value="Polycom RealPresence (http://www.polycom.com/products-services/hd-telepresence-video-conferencing.html)"/>
+  <properties
+      key="Type"
+      value="Referentieapplicatie"/>
+</archimate:ApplicationComponent>

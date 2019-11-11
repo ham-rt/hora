@@ -1,0 +1,22 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Onderzoeksgegevensarchief"
+    id="id-ea16d9f3-bccc-45c7-9881-4f9c994fecc3"
+    documentation="Een systeem dat het archiveren van onderzoeksgegevens ondersteunt.">
+  <properties
+      key="Externe informatie"/>
+  <properties
+      key="Domein"
+      value="Onderzoeksondersteuning"/>
+  <properties
+      key="Bouwsteen"
+      value="Nee"/>
+  <properties
+      key="Beheerder"/>
+  <properties
+      key="Voorbeelden"
+      value="3TU.Datacentrum Data archive (http://datacentrum.3tu.nl/en/what-we-offer/data-archive/), DANS EASY (https://easy.dans.knaw.nl/ui/home), Figshare (http://figshare.com), Dryad (http://datadryad.org)"/>
+  <properties
+      key="Type"
+      value="Referentieapplicatie"/>
+</archimate:ApplicationComponent>

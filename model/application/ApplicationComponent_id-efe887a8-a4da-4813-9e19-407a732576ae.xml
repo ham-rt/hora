@@ -1,0 +1,22 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Wetenschappelijke zoekmachine"
+    id="id-efe887a8-a4da-4813-9e19-407a732576ae"
+    documentation="Een systeem waarmee alle interne en externe wetenschappelijke content doorzocht kan worden.">
+  <properties
+      key="Externe informatie"/>
+  <properties
+      key="Domein"
+      value="Informatieontsluiting"/>
+  <properties
+      key="Bouwsteen"
+      value="Nee"/>
+  <properties
+      key="Beheerder"/>
+  <properties
+      key="Voorbeelden"
+      value="Infor V-spaces (http://www.vubis-smart.com/html/nlvsfs.htm), Summon (http://www.serialssolutions.com/en/services/summon/)"/>
+  <properties
+      key="Type"
+      value="Referentieapplicatie"/>
+</archimate:ApplicationComponent>

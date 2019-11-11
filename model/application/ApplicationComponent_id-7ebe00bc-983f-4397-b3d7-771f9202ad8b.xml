@@ -1,0 +1,21 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Auteuridentificatiesysteem"
+    id="id-7ebe00bc-983f-4397-b3d7-771f9202ad8b"
+    documentation="Een systeem dat auteurs van werken administreert en uniek identificeert.">
+  <properties
+      key="Externe informatie"/>
+  <properties
+      key="Domein"
+      value="Onderzoeksondersteuning"/>
+  <properties
+      key="Bouwsteen"/>
+  <properties
+      key="Beheerder"/>
+  <properties
+      key="Voorbeelden"
+      value="Nederlandse Thesaurus van Auteursnamen (http://www.oclc.org/nl/nl/ggc/support/nta.htm), ORCID (http://orcid.org)"/>
+  <properties
+      key="Type"
+      value="Referentieapplicatie"/>
+</archimate:ApplicationComponent>

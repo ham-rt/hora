@@ -1,0 +1,12 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Deelnemerbegeleiding"
+    id="id-be1b945b-2fc3-453e-a88a-1acad6aff1b6"
+    documentation="Het begeleiden van deelnemers in hun leertraject.">
+  <properties
+      key="Domein"
+      value="Onderwijs"/>
+  <properties
+      key="Type"
+      value="Hoofdbedrijfsfunctie"/>
+</archimate:BusinessFunction>

@@ -1,0 +1,14 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Versleutelde opslag"
+    id="id-9831ae4f-41f1-42bc-88f5-b115a9cb8588"
+    documentation="Ondersteunt de versleuteling van 'data in rust'.">
+  <properties
+      key="Voorbeelden"/>
+  <properties
+      key="Domein"
+      value="Applicatieplatform"/>
+  <properties
+      key="Type"
+      value="Platformnode"/>
+</archimate:Node>

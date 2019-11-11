@@ -1,0 +1,24 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Doorvoeren veranderingen"
+    id="id-1b4fd559-d243-40bb-bda3-be7dbf3ae369"
+    documentation="Veranderingen doorvoeren vanuit gedefinieerd beleid.">
+  <properties
+      key="Beschrijving"
+      value="Vanuit voorgenomen beleid worden veranderingen doorgevoerd. Deze veranderingen worden gedefinieerd en veranderingstrajecten voorbereid, opgestart en geïmplementeerd. Verder worden doorgevoerde veranderingen geëvalueerd op aanpak, resultaat en effect. Veranderingen kunnen betrekking hebben op een of meerdere beleidsterreinen. De veranderingen kunnen daarbij harde en/of zachte elementen raken: &lt;ul> &lt;li>Hard – bijv. organisatiestructuur, proces- en systeeminrichting &lt;li>Zacht – bijv. normen/waarden, gedrag/houding, wijze van samenwerken. &lt;/ul>"/>
+  <properties
+      key="Domein"
+      value="Sturing"/>
+  <properties
+      key="Trigger"
+      value="Vanuit voorgenomen beleid zijn er veranderingen voorzien die doorgevoerd moeten worden t.o.v. de huidige situatie."/>
+  <properties
+      key="Preconditie"
+      value="Beleid en beoogde doelen en resultaten zijn bekend."/>
+  <properties
+      key="Postconditie"
+      value="De veranderingen die voortkomen uit voorgenomen beleid zijn doorgevoerd, geborgd en geëvalueerd."/>
+  <properties
+      key="Type"
+      value="Gebundeld bedrijfsproces"/>
+</archimate:BusinessProcess>

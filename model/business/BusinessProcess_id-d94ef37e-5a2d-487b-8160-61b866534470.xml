@@ -1,0 +1,23 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Ontwikkelen instellingsplan"
+    id="id-d94ef37e-5a2d-487b-8160-61b866534470"
+    documentation="Het definiëren van meerjarendoelstelling en planning voor een planperiode, passend bij de instellingsidentiteit en de gekozen business modellen.Verder het sturen op doelstellingen vallend in de planperiode en het evalueren en bijstellen van het meerjarenplan.">
+  <properties
+      key="Beschrijving"/>
+  <properties
+      key="Domein"
+      value="Sturing"/>
+  <properties
+      key="Trigger"
+      value="De instellingsidentiteit en/of de business modellen zijn bijgesteld; bereikte resultaten van het lopende meerjarenplan noodzaken tot bijstelling van meerjarendoelstelling en planning."/>
+  <properties
+      key="Preconditie"
+      value="Instellingsidentiteit en de business modellen zijn beschikbaar. Er is een planperiode gedefinieerd. Vorderingen van lopende meerjarenplanning zijn bekend."/>
+  <properties
+      key="Postconditie"
+      value="Meerjarendoelstelling en planning voor een planperiode zijn vastgesteld, besturing is ingeregeld en er vindt periodieke evaluatie en bijsturing plaats van bereikte resulaten."/>
+  <properties
+      key="Type"
+      value="Gebundeld bedrijfsproces"/>
+</archimate:BusinessProcess>

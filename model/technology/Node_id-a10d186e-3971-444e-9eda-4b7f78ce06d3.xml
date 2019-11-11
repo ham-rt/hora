@@ -1,0 +1,14 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Internetconnectiviteit"
+    id="id-a10d186e-3971-444e-9eda-4b7f78ce06d3"
+    documentation="Ondersteunt de verbinding met systemen en diensten op het Internet.">
+  <properties
+      key="Voorbeelden"/>
+  <properties
+      key="Domein"
+      value="Applicatieplatform"/>
+  <properties
+      key="Type"
+      value="Platformnode"/>
+</archimate:Node>

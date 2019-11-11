@@ -1,0 +1,12 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Identiteitenbeheer"
+    id="id-11791a55-da52-4c97-bce3-36ac5a997a4a"
+    documentation="Het beheren en beschikbaar stellen van gegevens van gebruikers en hun autorisaties.">
+  <properties
+      key="Domein"
+      value="Bedrijfsvoering"/>
+  <properties
+      key="Type"
+      value="Deelbedrijfsfunctie"/>
+</archimate:BusinessFunction>

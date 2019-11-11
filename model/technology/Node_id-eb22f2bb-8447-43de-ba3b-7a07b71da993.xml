@@ -1,0 +1,14 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Metadata database"
+    id="id-eb22f2bb-8447-43de-ba3b-7a07b71da993"
+    documentation="Ondersteunt het beheren van gestructureerde metadata.">
+  <properties
+      key="Domein"
+      value="Applicatieplatform"/>
+  <properties
+      key="Type"
+      value="Platformnode"/>
+  <properties
+      key="Voorbeelden"/>
+</archimate:Node>

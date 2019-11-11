@@ -1,0 +1,9 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Identiteitgegevensbeheer"
+    id="id-bef99664-3508-4121-83eb-ec0844be3f41"
+    documentation="Het beheren van gegevens over identiteiten">
+  <properties
+      key="Type"
+      value="Applicatiefunctie"/>
+</archimate:ApplicationFunction>

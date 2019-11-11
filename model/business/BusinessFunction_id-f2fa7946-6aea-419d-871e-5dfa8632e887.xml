@@ -1,0 +1,12 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Functioneel beheer"
+    id="id-f2fa7946-6aea-419d-871e-5dfa8632e887"
+    documentation="Het in stand houden en aansturen van de informatievoorziening.">
+  <properties
+      key="Domein"
+      value="Bedrijfsvoering"/>
+  <properties
+      key="Type"
+      value="Deelbedrijfsfunctie"/>
+</archimate:BusinessFunction>

@@ -1,0 +1,12 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Medewerkerontwikkeling"
+    id="id-c7da4a24-84df-4d82-b2d5-af73c4b14180"
+    documentation="Het expliciet ontwikkelen van de kennis en vaardigheden van medewerkers, inclusief de daarbij behorende begeleiding.">
+  <properties
+      key="Domein"
+      value="Bedrijfsvoering"/>
+  <properties
+      key="Type"
+      value="Deelbedrijfsfunctie"/>
+</archimate:BusinessFunction>

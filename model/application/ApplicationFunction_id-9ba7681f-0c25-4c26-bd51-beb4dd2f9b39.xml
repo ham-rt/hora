@@ -1,0 +1,9 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Communicatiefunctie"
+    id="id-9ba7681f-0c25-4c26-bd51-beb4dd2f9b39"
+    documentation="Het ondersteunen van het communiceren tussen mensen via verschillende kanalen">
+  <properties
+      key="Type"
+      value="Applicatiefunctie"/>
+</archimate:ApplicationFunction>

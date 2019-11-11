@@ -1,0 +1,9 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Bibliotheekgegevensbeheer"
+    id="id-3a6207ab-cdd9-4a59-883b-93c375185b03"
+    documentation="Het beheren van gegevens over collecties van materialen en uitleningen daarvan">
+  <properties
+      key="Type"
+      value="Applicatiefunctie"/>
+</archimate:ApplicationFunction>

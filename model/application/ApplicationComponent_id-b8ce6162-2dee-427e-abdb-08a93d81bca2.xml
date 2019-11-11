@@ -1,0 +1,15 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Externe bibliotheekcatalogus"
+    id="id-b8ce6162-2dee-427e-abdb-08a93d81bca2"
+    documentation="Een systeem dat een catalogus bevat van publiek fysiek en digitaal materiaal. Voorbeeld NBC+ (Gemeenschappelijk Geautomatiseerd Catalogiseersysteem voor Nederlandse Bibliotheken).">
+  <properties
+      key="Externe informatie"
+      value="https://www.kb.nl/ob/digitale-infrastructuur/nationale-bibliotheekcatalogus-nbc"/>
+  <properties
+      key="Domein"
+      value="Derden"/>
+  <properties
+      key="Type"
+      value="Externe applicatie"/>
+</archimate:ApplicationComponent>

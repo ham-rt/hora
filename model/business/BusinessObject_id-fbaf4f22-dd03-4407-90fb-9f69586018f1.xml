@@ -1,0 +1,29 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Onderwijsmateriaal"
+    id="id-fbaf4f22-dd03-4407-90fb-9f69586018f1"
+    documentation="Materiaal dat gebruikt wordt bij het overdragen of toetsen van kennis en competenties.">
+  <properties
+      key="Domein"
+      value="Onderwijs"/>
+  <properties
+      key="Synoniemen"
+      value="Leerobject, Lesmateriaal, Leermateriaal, Onderwijsinhoud"/>
+  <properties
+      key="Gegevenstype"
+      value="masterdata"/>
+  <properties
+      key="Gegevenscategorie"
+      value="middel"/>
+  <properties
+      key="Beschikbaarheid"/>
+  <properties
+      key="Integriteit"/>
+  <properties
+      key="Vertrouwelijkheid"/>
+  <properties
+      key="Toelichting BIV-classificatie"/>
+  <properties
+      key="Type"
+      value="Informatieobject"/>
+</archimate:BusinessObject>

@@ -1,0 +1,12 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Ontsluiting digitale databanken"
+    id="id-f235cbdc-2248-423f-b586-016816f9ceca"
+    documentation="Het toegang geven tot externe gegevensverzamelingen die in digitale vorm aanwezig zijn.">
+  <properties
+      key="Domein"
+      value="Informatieontsluiting"/>
+  <properties
+      key="Type"
+      value="Deelbedrijfsfunctie"/>
+</archimate:BusinessFunction>

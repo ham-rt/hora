@@ -1,0 +1,18 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Extern inschrijfsysteem"
+    id="id-271a2f45-6201-47d4-8afa-a38c9202f222"
+    documentation="Een systeem waarmee individuen zich kunnen aanmelden voor een opleiding bij een onderwijsinstelling.">
+  <properties
+      key="Externe informatie"
+      value="http://info.studielink.nl/nl/studenten/Pages/Default.aspx"/>
+  <properties
+      key="Domein"
+      value="Derden"/>
+  <properties
+      key="Voorbeelden"
+      value="Studielink, Erasmus"/>
+  <properties
+      key="Type"
+      value="Externe applicatie"/>
+</archimate:ApplicationComponent>

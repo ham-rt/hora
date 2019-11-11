@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Ontwikkelen onderzoeksopzet"
+    id="id-b0070485-26e5-4517-8450-de74e67848e6"
+    documentation="Het vastleggen van de kaders waarbinnen het onderzoek dient plaats te vinden.">
+  <properties
+      key="Domein"
+      value="Onderzoek"/>
+  <properties
+      key="Type"
+      value="Deelbedrijfsproces"/>
+  <properties
+      key="Trigger"
+      value="Er worden onderzoeksvragen onderkend."/>
+  <properties
+      key="Preconditie"
+      value="Er is sprake van beleid, wet- en regelgeving, wetenschappelijke kaders/accepted practices of andersoortige kaders waar het onderzoek aan moet voldoen."/>
+  <properties
+      key="Postconditie"
+      value="De kaders waarbinnen het onderzoek dient plaats te vinden zijn vastgelegd."/>
+</archimate:BusinessProcess>

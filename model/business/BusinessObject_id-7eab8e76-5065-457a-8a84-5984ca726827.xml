@@ -1,0 +1,33 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Journaalpost"
+    id="id-7eab8e76-5065-457a-8a84-5984ca726827"
+    documentation="Vastlegging van een financiële gebeurtenis in gestandaardiseerde vorm waarbij wordt aangegeven welke grootboekrekeningen voor welk bedrag debet en welke grootboekrekeningen voor welk bedrag credit geboekt moeten worden.">
+  <properties
+      key="Domein"
+      value="Bedrijfsvoering"/>
+  <properties
+      key="Synoniemen"
+      value="Verzameling boekingsregels"/>
+  <properties
+      key="Gegevenstype"
+      value="transactie"/>
+  <properties
+      key="Gegevenscategorie"
+      value="gebeurtenis"/>
+  <properties
+      key="Beschikbaarheid"
+      value="laag"/>
+  <properties
+      key="Integriteit"
+      value="middel"/>
+  <properties
+      key="Vertrouwelijkheid"
+      value="laag"/>
+  <properties
+      key="Toelichting BIV-classificatie"
+      value="Financiële gegevens moeten integer zijn."/>
+  <properties
+      key="Type"
+      value="Informatieobject"/>
+</archimate:BusinessObject>

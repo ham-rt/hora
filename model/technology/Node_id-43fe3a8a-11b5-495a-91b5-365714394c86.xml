@@ -1,0 +1,14 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Logger"
+    id="id-43fe3a8a-11b5-495a-91b5-365714394c86"
+    documentation="Een systeem dat de vastlegging van gebeurtenissen in de IT-omgeving ondersteunt.">
+  <properties
+      key="Voorbeelden"/>
+  <properties
+      key="Domein"
+      value="Applicatieplatform"/>
+  <properties
+      key="Type"
+      value="Platformnode"/>
+</archimate:Node>

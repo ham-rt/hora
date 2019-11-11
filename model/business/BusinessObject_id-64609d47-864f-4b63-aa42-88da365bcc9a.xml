@@ -1,0 +1,12 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Deelnemercompetentie"
+    id="id-64609d47-864f-4b63-aa42-88da365bcc9a"
+    documentation="Geeft inzicht in de benodigde competenties voor een beroepsprofiel en/of vakgebied.">
+  <properties
+      key="Domein"
+      value="Onderwijs"/>
+  <properties
+      key="Type"
+      value="Informatieobject"/>
+</archimate:BusinessObject>

@@ -1,0 +1,37 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Dataset"
+    id="id-c2bfc0e1-f103-4c5c-a344-044efb3d6a75"
+    documentation="Een verzameling waarden van kwalitatieve of kwantitatieve variabelen die zijn gemeten en/of verzameld en die kunnen worden geanalyseerd of waarover kan worden gerapporteerd.">
+  <properties
+      key="Toelichting definitie"
+      value="Ontleend aan LCRDM Glossary."/>
+  <properties
+      key="Type"
+      value="Informatieobject"/>
+  <properties
+      key="Domein"
+      value="Onderzoek"/>
+  <properties
+      key="Synoniemen"/>
+  <properties
+      key="Gegevenstype"
+      value="transactie"/>
+  <properties
+      key="Gegevenscategorie"
+      value="middel"/>
+  <properties
+      key="Beschikbaarheid"
+      value="laag"/>
+  <properties
+      key="Integriteit"
+      value="middel"/>
+  <properties
+      key="Vertrouwelijkheid"
+      value="hoog"/>
+  <properties
+      key="Toelichting BIV-classificatie"
+      value="Uitgaande van hoogst mogelijke vertrouwelijkheid. In praktijk Vertrouwelijkheid L - H, mede afhankelijk van vertrouwelijkheid desbetreffend Onderzoeksobject"/>
+  <properties
+      key="Voorbeelden"/>
+</archimate:BusinessObject>

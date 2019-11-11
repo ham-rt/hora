@@ -1,0 +1,12 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Informatievaardigheidsondersteuning"
+    id="id-4d7f2630-227b-4937-b36d-11414e140b76"
+    documentation="Het ondersteunen van gebruikers bij het vinden en gebruiken van wetenschappelijke informatie.">
+  <properties
+      key="Domein"
+      value="Informatieontsluiting"/>
+  <properties
+      key="Type"
+      value="Deelbedrijfsfunctie"/>
+</archimate:BusinessFunction>

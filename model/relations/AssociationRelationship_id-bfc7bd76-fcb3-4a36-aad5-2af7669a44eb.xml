@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="heeft"
+    id="id-bfc7bd76-fcb3-4a36-aad5-2af7669a44eb">
+  <source
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-68c5f962-2b2d-4a41-88cc-de700b09bca9.xml#id-68c5f962-2b2d-4a41-88cc-de700b09bca9"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-2c2df65c-1aca-48a6-babc-cd9d68a74b92.xml#id-2c2df65c-1aca-48a6-babc-cd9d68a74b92"/>
+</archimate:AssociationRelationship>

@@ -1,0 +1,12 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Onderwijsadministratie"
+    id="id-777749ad-af62-41cf-9295-8aa4781741c1"
+    documentation="De administratieve ondersteuning van de ontwikkeling van het onderwijs, inclusief het publiceren van een OER en de studiegids.">
+  <properties
+      key="Domein"
+      value="Onderwijsondersteuning"/>
+  <properties
+      key="Type"
+      value="Deelbedrijfsfunctie"/>
+</archimate:BusinessFunction>

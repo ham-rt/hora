@@ -1,0 +1,12 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Programma"
+    id="id-7f7bcbe9-0537-4626-acb2-9053d2cd82b4"
+    documentation="Een tijdelijk geheel van samenhangende projecten en activiteiten gericht op het bereiken van één of meer strategische doelstellingen.">
+  <properties
+      key="Type"
+      value="Informatieobject"/>
+  <properties
+      key="Domein"
+      value="Sturing"/>
+</archimate:BusinessObject>

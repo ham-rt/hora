@@ -1,0 +1,12 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Enterprise risicomanagement"
+    id="id-5052dc11-73e8-4c10-b549-e722b4c1075f"
+    documentation="Het bepalen en bewaken van grootschalige risico's en de daarbij gewenste maatregelen.">
+  <properties
+      key="Domein"
+      value="Sturing"/>
+  <properties
+      key="Type"
+      value="Deelbedrijfsfunctie"/>
+</archimate:BusinessFunction>

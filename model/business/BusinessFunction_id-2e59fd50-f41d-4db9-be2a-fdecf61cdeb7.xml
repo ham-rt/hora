@@ -1,0 +1,12 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Opleidingsontwikkeling"
+    id="id-2e59fd50-f41d-4db9-be2a-fdecf61cdeb7"
+    documentation="Het (her)ontwikkelen, aanpassen en opheffen van een opleiding of minor, inclusief het bijbehorende competentieprofiel en examenprogramma.">
+  <properties
+      key="Domein"
+      value="Onderwijs"/>
+  <properties
+      key="Type"
+      value="Deelbedrijfsfunctie"/>
+</archimate:BusinessFunction>

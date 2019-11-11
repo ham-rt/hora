@@ -1,0 +1,12 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Autorisatie"
+    id="id-7b9e76bb-44e5-4f0c-bf20-d268f2283400"
+    documentation="Het toegangsrecht van een identiteit tot een gegevensobject, bestand of dienst.">
+  <properties
+      key="Domein"
+      value="Bedrijfsvoering"/>
+  <properties
+      key="Type"
+      value="Informatieobject"/>
+</archimate:BusinessObject>

@@ -1,0 +1,22 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Software-ontwikkelomgeving"
+    id="id-b3afa127-2e38-4c2e-a141-42b0e9a28207"
+    documentation="Een systeem dat erop gericht is om het ontwerpen, realiseren, deployen en beheren van software te ondersteunen.">
+  <properties
+      key="Externe informatie"/>
+  <properties
+      key="Domein"
+      value="Bedrijfsvoering"/>
+  <properties
+      key="Bouwsteen"
+      value="Nee"/>
+  <properties
+      key="Beheerder"/>
+  <properties
+      key="Voorbeelden"
+      value="Microsoft Visual Studio, Oracle JDeveloper"/>
+  <properties
+      key="Type"
+      value="Referentieapplicatie"/>
+</archimate:ApplicationComponent>

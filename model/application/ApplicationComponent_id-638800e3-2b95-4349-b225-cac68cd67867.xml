@@ -1,0 +1,22 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Personeelssysteem"
+    id="id-638800e3-2b95-4349-b225-cac68cd67867"
+    documentation="Een systeem dat het administreren en managen van medewerkers ondersteunt.">
+  <properties
+      key="Externe informatie"/>
+  <properties
+      key="Domein"
+      value="Bedrijfsvoering"/>
+  <properties
+      key="Bouwsteen"
+      value="Nee"/>
+  <properties
+      key="Beheerder"/>
+  <properties
+      key="Voorbeelden"
+      value="SAP ERP HCM (http://www.sap.com/netherlands/solutions/business-process/human-capital-management.epx), Oracle Fusion Human Capital Management (http://www.oracle.com/us/products/applications/fusion/human-capital-management/overview/index.html), Oracle PeopleSoft Human Capital Management (http://www.oracle.com/us/products/applications/peoplesoft-enterprise/human-capital-management/index.html), Exact Synergy Enterprise (http://www.exact.nl/software/producten/exact-synergy-enterprise/over-exact-synergy-enterprise), PeopleInc. HRM (http://www.peopleinc.nl/nl-nl/)"/>
+  <properties
+      key="Type"
+      value="Referentieapplicatie"/>
+</archimate:ApplicationComponent>

@@ -1,0 +1,9 @@
+<archimate:Grouping
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Onderzoek"
+    id="id-80b109f6-6658-46db-b2bd-834fbfe29f86"
+    documentation="Het domein betreffende Onderzoek.">
+  <properties
+      key="Type"
+      value="HORA-domein"/>
+</archimate:Grouping>

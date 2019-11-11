@@ -1,0 +1,33 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Gebouw"
+    id="id-53a7e36c-a518-4ed4-92a9-fa77cfa82dd0"
+    documentation="Vrijstaande, overdekte en geheel of gedeeltelijk met wanden omsloten toegankelijke ruimte, die direct of indirect met de grond is verbonden.">
+  <properties
+      key="Domein"
+      value="Bedrijfsvoering"/>
+  <properties
+      key="Synoniemen"
+      value="Pand"/>
+  <properties
+      key="Gegevenstype"
+      value="masterdata"/>
+  <properties
+      key="Gegevenscategorie"
+      value="middel"/>
+  <properties
+      key="Beschikbaarheid"
+      value="middel"/>
+  <properties
+      key="Integriteit"
+      value="middel"/>
+  <properties
+      key="Vertrouwelijkheid"
+      value="laag"/>
+  <properties
+      key="Toelichting BIV-classificatie"
+      value="Gegevens over de inrichting kunnen informatie bevatten over de beveiliging en kunnen belangrijk zijn bij calamiteiten"/>
+  <properties
+      key="Type"
+      value="Informatieobject"/>
+</archimate:BusinessObject>

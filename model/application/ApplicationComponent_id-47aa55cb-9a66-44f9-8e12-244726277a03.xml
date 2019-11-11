@@ -1,0 +1,22 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="E-mail systeem"
+    id="id-47aa55cb-9a66-44f9-8e12-244726277a03"
+    documentation="Een systeem dat het uitwisselen van e-mails tussen gebruikers ondersteunt.">
+  <properties
+      key="Externe informatie"/>
+  <properties
+      key="Domein"
+      value="Generiek"/>
+  <properties
+      key="Bouwsteen"
+      value="Nee"/>
+  <properties
+      key="Beheerder"/>
+  <properties
+      key="Voorbeelden"
+      value="Zimbra Collaboration Server (http://www.zimbra.com/products/), Microsoft Exchange Server (http://office.microsoft.com/en-us/exchange/), Microsoft Office 365 (http://office.microsoft.com/en-us/), Google Apps (http://www.google.com/enterprise/apps/education/)"/>
+  <properties
+      key="Type"
+      value="Referentieapplicatie"/>
+</archimate:ApplicationComponent>

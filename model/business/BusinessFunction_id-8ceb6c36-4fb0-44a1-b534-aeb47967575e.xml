@@ -1,0 +1,12 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Ziekte en verlofadministratie"
+    id="id-8ceb6c36-4fb0-44a1-b534-aeb47967575e"
+    documentation="Het administreren van ziekte en verlof van medewerkers.">
+  <properties
+      key="Domein"
+      value="Bedrijfsvoering"/>
+  <properties
+      key="Type"
+      value="Deelbedrijfsfunctie"/>
+</archimate:BusinessFunction>

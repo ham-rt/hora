@@ -1,0 +1,22 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Samenwerkingssysteem"
+    id="id-9c3bbbff-dda5-4585-bb7d-51df83303a45"
+    documentation="Een systeem dat het creeren en delen van gezamenlijke kennis ondersteunt.">
+  <properties
+      key="Externe informatie"/>
+  <properties
+      key="Domein"
+      value="Generiek"/>
+  <properties
+      key="Bouwsteen"
+      value="Nee"/>
+  <properties
+      key="Beheerder"/>
+  <properties
+      key="Voorbeelden"
+      value="EDUgroepen (https://www.edugroepen.nl/Pages/default.aspx), Microsoft Sharepoint (http://office.microsoft.com/en-us/sharepoint/), LifeRay Social Office (http://www.liferay.com/products/liferay-social-office), Sakai CLE for Project Collaboration (http://www.sakaiproject.org/project-collaboration), BlackBoard Collaborate (http://www.blackboard.com/Platforms/Collaborate/Overview.aspx), WikiXL (http://www.wikixl.nl)"/>
+  <properties
+      key="Type"
+      value="Referentieapplicatie"/>
+</archimate:ApplicationComponent>

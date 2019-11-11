@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="wordt ingepland in"
+    id="id-645da5fd-24ec-4acf-8fc7-f1c226c59de1">
+  <source
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-ce8d6b60-e660-452d-8f7e-035b7e9d965d.xml#id-ce8d6b60-e660-452d-8f7e-035b7e9d965d"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-518dc361-3838-4908-bf61-ab654455b049.xml#id-518dc361-3838-4908-bf61-ab654455b049"/>
+</archimate:AssociationRelationship>

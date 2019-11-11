@@ -1,0 +1,9 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Data cleansing-functie"
+    id="id-4a52c7f0-6cf8-4b52-8e8a-aca07db82e39"
+    documentation="Het onderesteunen van het detecteren en corrigeren of verwijderen van invalide gegevens.">
+  <properties
+      key="Type"
+      value="Applicatiefunctie"/>
+</archimate:ApplicationFunction>

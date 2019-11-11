@@ -1,0 +1,33 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Deelnemer"
+    id="id-68c5f962-2b2d-4a41-88cc-de700b09bca9"
+    documentation="Een individu die aan onderwijsactiviteiten deelneemt.">
+  <properties
+      key="Domein"
+      value="Onderwijs"/>
+  <properties
+      key="Synoniemen"
+      value="Student, Cursist, Lerende, Leerling, Onderwijsvolger"/>
+  <properties
+      key="Gegevenstype"
+      value="masterdata"/>
+  <properties
+      key="Gegevenscategorie"
+      value="partij"/>
+  <properties
+      key="Beschikbaarheid"
+      value="middel"/>
+  <properties
+      key="Integriteit"
+      value="hoog"/>
+  <properties
+      key="Vertrouwelijkheid"
+      value="hoog"/>
+  <properties
+      key="Toelichting BIV-classificatie"
+      value="Extra bescherming tegen diefstal van identiteitsgevens en bankrekening. De herkomst (geboorteplaats, nationaliteit) is vertrouwelijk. Een pasfoto daarom ook. Opt-out mogelijkheden kunnen de verouwelijkheidscore verlagen."/>
+  <properties
+      key="Type"
+      value="Informatieobject"/>
+</archimate:BusinessObject>

@@ -1,0 +1,9 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Onderzoeksregistratiefunctie"
+    id="id-66722fad-3874-417f-abb7-aff48b33d0bd"
+    documentation="Het ondersteunen van het registreren van gegevens over onderzoeken">
+  <properties
+      key="Type"
+      value="Applicatiefunctie"/>
+</archimate:ApplicationFunction>

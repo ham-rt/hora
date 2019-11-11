@@ -1,0 +1,11 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Ontwikkelen meerjarenplanning"
+    id="id-4191fd34-3759-48ab-898c-4c9373f55a4e">
+  <properties
+      key="Type"
+      value="Deelbedrijfsproces"/>
+  <properties
+      key="Domein"
+      value="Sturing"/>
+</archimate:BusinessProcess>

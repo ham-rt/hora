@@ -1,0 +1,9 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Factuurgegevensbeheer"
+    id="id-d03ea57e-4aa0-47c7-8dbb-7d7f83d2e932"
+    documentation="Het beheren van gegevens over facturen">
+  <properties
+      key="Type"
+      value="Applicatiefunctie"/>
+</archimate:ApplicationFunction>

@@ -1,0 +1,12 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Onderwijsuitvoering"
+    id="id-b8100b6e-d71c-4e87-978a-c8d9afb5b929"
+    documentation="Het voorbereiden en uitvoeren van alle direct aan het onderwijs gerelateerde activiteiten (incl. stage- en afstudeerbegeleiding).">
+  <properties
+      key="Domein"
+      value="Onderwijs"/>
+  <properties
+      key="Type"
+      value="Hoofdbedrijfsfunctie"/>
+</archimate:BusinessFunction>

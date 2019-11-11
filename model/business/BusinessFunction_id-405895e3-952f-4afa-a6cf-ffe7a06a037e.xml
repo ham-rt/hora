@@ -1,0 +1,12 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Onderwijseenheidontwikkeling"
+    id="id-405895e3-952f-4afa-a6cf-ffe7a06a037e"
+    documentation="Het (her)ontwikkelen, aanpassen en opheffen van een individuele onderwijseenheid, inclusief de werkvorm(en) en het bijbehorende leer- en toetsmateriaal.">
+  <properties
+      key="Domein"
+      value="Onderwijs"/>
+  <properties
+      key="Type"
+      value="Deelbedrijfsfunctie"/>
+</archimate:BusinessFunction>

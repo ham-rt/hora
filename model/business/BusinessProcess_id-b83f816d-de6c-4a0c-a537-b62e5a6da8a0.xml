@@ -1,0 +1,24 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Afhandelen periodieke/continue verzoeken"
+    id="id-b83f816d-de6c-4a0c-a537-b62e5a6da8a0"
+    documentation="Het verwerken van signalen en verzoeken die periodiek voorkomen.">
+  <properties
+      key="Beschrijving"
+      value="De af te handelen verzoeken kunnen betrekking hebben op meerdere beleidsterreinen. Afhankelijk van het onderwerp kan dit proces in hoge mate geautomatiseerd zijn."/>
+  <properties
+      key="Domein"
+      value="Ondersteuning"/>
+  <properties
+      key="Trigger"
+      value="Er is een signaal of verzoek dat periodiek of continu om afhandeling vraagt."/>
+  <properties
+      key="Preconditie"
+      value="Er is duidelijk gedefinieerd welke periodieke/continue afhandeling er plaats moet vinden en tot welk resultaat dit moet leiden."/>
+  <properties
+      key="Postconditie"
+      value="Het periodiek voorkomende verzoek is afgehandeld."/>
+  <properties
+      key="Type"
+      value="Deelbedrijfsproces"/>
+</archimate:BusinessProcess>

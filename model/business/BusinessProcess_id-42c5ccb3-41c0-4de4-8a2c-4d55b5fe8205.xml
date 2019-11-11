@@ -1,0 +1,23 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Voorbereiden veranderingen"
+    id="id-42c5ccb3-41c0-4de4-8a2c-4d55b5fe8205"
+    documentation="Het voorbereiden en opstarten van veranderingstrajecten ter uitvoering.">
+  <properties
+      key="Beschrijving"/>
+  <properties
+      key="Domein"
+      value="Sturing"/>
+  <properties
+      key="Trigger"
+      value="Door te voeren veranderingsinitiatieven worden voorbereid ter uitvoering."/>
+  <properties
+      key="Preconditie"
+      value="Beleid is bekend (voor betreffende beleidsterreinen). Veranderingsinitiatieven zijn gedefinieerd."/>
+  <properties
+      key="Postconditie"
+      value="De trajecten (programma’s, projecten, acties) om gedefinieerde veranderingen door te voeren zijn georganiseerd."/>
+  <properties
+      key="Type"
+      value="Deelbedrijfsproces"/>
+</archimate:BusinessProcess>

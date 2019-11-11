@@ -1,0 +1,12 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Toetsinschrijving"
+    id="id-3d5b1f70-8111-4cc9-ba14-735c6ca76af7"
+    documentation="Het (impliciet of expliciet) inschrijven van een deelnemer voor toetsactiviteiten.">
+  <properties
+      key="Domein"
+      value="Onderwijsondersteuning"/>
+  <properties
+      key="Type"
+      value="Deelbedrijfsfunctie"/>
+</archimate:BusinessFunction>

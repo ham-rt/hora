@@ -1,0 +1,22 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Onderzoeksinformatiesysteem"
+    id="id-08bddea0-be46-43ee-b669-054e8b65ce34"
+    documentation="Een systeem dat het plannen en managen van onderzoek ondersteunt.">
+  <properties
+      key="Externe informatie"/>
+  <properties
+      key="Domein"
+      value="Onderzoeksondersteuning"/>
+  <properties
+      key="Bouwsteen"
+      value="Nee"/>
+  <properties
+      key="Beheerder"/>
+  <properties
+      key="Voorbeelden"
+      value="METIS, SciVal PURE (http://info.scival.com/pure), Avedas Converis (http://www.avedas.com), Symplectic Elements (http://www.symplectic.co.uk)"/>
+  <properties
+      key="Type"
+      value="Referentieapplicatie"/>
+</archimate:ApplicationComponent>

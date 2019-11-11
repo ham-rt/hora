@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Identificeren bronnen"
+    id="id-756d6469-be02-48a6-a2f6-8fc6c4e6dcf9"
+    documentation="Het identificeren van bestaande literatuur en gegevensverzamelingen die kunnen worden gebruikt als bron voor het onderzoek.">
+  <properties
+      key="Domein"
+      value="Onderzoek"/>
+  <properties
+      key="Type"
+      value="Deelbedrijfsproces"/>
+  <properties
+      key="Trigger"
+      value="Er worden onderzoeksvragen onderkend."/>
+  <properties
+      key="Preconditie"
+      value="Er zijn relevante bronnen beschikbaar."/>
+  <properties
+      key="Postconditie"
+      value="Er is bekend welke beschikbare bronnen relevant zijn voor het onderzoek."/>
+</archimate:BusinessProcess>

@@ -1,0 +1,22 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Financieel systeem"
+    id="id-b33cf98d-78e7-4a16-b9dc-f74cd2d9cea4"
+    documentation="Een systeem dat de financiële administratie en de verwerking van financiële stromen ondersteunt.">
+  <properties
+      key="Externe informatie"/>
+  <properties
+      key="Domein"
+      value="Bedrijfsvoering"/>
+  <properties
+      key="Bouwsteen"
+      value="Nee"/>
+  <properties
+      key="Beheerder"/>
+  <properties
+      key="Voorbeelden"
+      value="Exact Online Boekhouden (http://www.exact.nl/software/producten/exact-online), Oracle Fusion Financial Management (http://www.oracle.com/us/products/applications/fusion/financial-management/overview/index.html), Oracle PeopleSoft Financial Management (http://www.oracle.com/us/products/applications/peoplesoft-enterprise/financial-management/052352.html), SAP ERP Financials (http://www54.sap.com/solution/lob/finance.html)"/>
+  <properties
+      key="Type"
+      value="Referentieapplicatie"/>
+</archimate:ApplicationComponent>

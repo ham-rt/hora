@@ -1,0 +1,23 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Leveren onderwijs"
+    id="id-b0719733-fb14-4db6-ad90-53f5b5c3a9aa"
+    documentation="Het aanleren van competenties door het uitvoeren van onderwijsactiviteiten.">
+  <properties
+      key="Beschrijving"/>
+  <properties
+      key="Domein"
+      value="Onderwijs"/>
+  <properties
+      key="Trigger"
+      value="Een deelnemer wil onderwijsactiviteiten uitvoeren."/>
+  <properties
+      key="Preconditie"
+      value="De deelnemer is ingeschreven (en toegelaten), de onderwijsactiviteiten zijn ingeroosterd."/>
+  <properties
+      key="Postconditie"
+      value="De deelnemer heeft onderwijsactiviteiten uitgevoerd."/>
+  <properties
+      key="Type"
+      value="Deelbedrijfsproces"/>
+</archimate:BusinessProcess>

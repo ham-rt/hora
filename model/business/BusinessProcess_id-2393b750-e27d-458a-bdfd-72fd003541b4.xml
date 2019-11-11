@@ -1,0 +1,23 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Beheren alumni"
+    id="id-2393b750-e27d-458a-bdfd-72fd003541b4"
+    documentation="Het beheren van de relatie met alumni.">
+  <properties
+      key="Beschrijving"/>
+  <properties
+      key="Domein"
+      value="Onderwijs"/>
+  <properties
+      key="Trigger"
+      value="Er is een aanleiding om contact te hebben met een alumnus."/>
+  <properties
+      key="Preconditie"
+      value="Er zijn alumni, er zijn redenen (geplande activiteiten) om de alumni te benaderen."/>
+  <properties
+      key="Postconditie"
+      value="Er heeft contact plaats gevonden met één of meer alumni."/>
+  <properties
+      key="Type"
+      value="Deelbedrijfsproces"/>
+</archimate:BusinessProcess>

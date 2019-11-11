@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="(Her)gebruiken onderzoeksgegevens"
+    id="id-933d44f0-6aa5-49be-bfe6-e0cabd644824"
+    documentation="Het (her)gebruiken van onderzoeksgegevens in de uitvoering van een onderzoek.">
+  <properties
+      key="Domein"
+      value="Onderzoek"/>
+  <properties
+      key="Type"
+      value="Gebundeld bedrijfsproces"/>
+  <properties
+      key="Trigger"
+      value="Er zijn onderzoeksgegevens nodig."/>
+  <properties
+      key="Preconditie"
+      value="De mogelijke bronnen voor de benodigde onderzoeksgegevens zijn bekend."/>
+  <properties
+      key="Postconditie"
+      value="Er zijn onderzoeksgegevens die voldoen aan de gestelde kwaliteitscriteria."/>
+</archimate:BusinessProcess>

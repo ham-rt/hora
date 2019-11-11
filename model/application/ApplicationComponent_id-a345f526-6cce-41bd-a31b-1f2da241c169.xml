@@ -1,0 +1,22 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Servicemanagementsysteem"
+    id="id-a345f526-6cce-41bd-a31b-1f2da241c169"
+    documentation="Een systeem dat de interne dienstverlening (servicemanagement) ondersteunt.">
+  <properties
+      key="Externe informatie"/>
+  <properties
+      key="Domein"
+      value="Bedrijfsvoering"/>
+  <properties
+      key="Bouwsteen"
+      value="Nee"/>
+  <properties
+      key="Beheerder"/>
+  <properties
+      key="Voorbeelden"
+      value="TOPdesk (http://www.topdesk.nl), HP IT Service Management (http://www8.hp.com/us/en/software/enterprise-software.html), Planon Integrated Services Management (http://planonsoftware.com/nl/producten/integrated-services-management/)"/>
+  <properties
+      key="Type"
+      value="Referentieapplicatie"/>
+</archimate:ApplicationComponent>

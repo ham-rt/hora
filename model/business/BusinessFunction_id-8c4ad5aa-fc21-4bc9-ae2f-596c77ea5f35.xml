@@ -1,0 +1,12 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Aanmeldingsregistratie"
+    id="id-8c4ad5aa-fc21-4bc9-ae2f-596c77ea5f35"
+    documentation="Het registreren van het formele verzoek van een deelnemer om zich in te schrijven voor een onderwijsproduct.">
+  <properties
+      key="Domein"
+      value="Onderwijsondersteuning"/>
+  <properties
+      key="Type"
+      value="Deelbedrijfsfunctie"/>
+</archimate:BusinessFunction>

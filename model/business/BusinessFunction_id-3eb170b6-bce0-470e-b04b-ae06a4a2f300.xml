@@ -1,0 +1,12 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Betalingen"
+    id="id-3eb170b6-bce0-470e-b04b-ae06a4a2f300"
+    documentation="Het uitbetalen van verplichtingen aan crediteuren.">
+  <properties
+      key="Domein"
+      value="Bedrijfsvoering"/>
+  <properties
+      key="Type"
+      value="Deelbedrijfsfunctie"/>
+</archimate:BusinessFunction>

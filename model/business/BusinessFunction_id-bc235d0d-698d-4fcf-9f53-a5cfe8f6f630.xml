@@ -1,0 +1,12 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Contractbeheer"
+    id="id-bc235d0d-698d-4fcf-9f53-a5cfe8f6f630"
+    documentation="Het tot stand brengen en bewaken van contracten met leveranciers.">
+  <properties
+      key="Domein"
+      value="Bedrijfsvoering"/>
+  <properties
+      key="Type"
+      value="Deelbedrijfsfunctie"/>
+</archimate:BusinessFunction>

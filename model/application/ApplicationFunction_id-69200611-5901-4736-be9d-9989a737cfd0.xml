@@ -1,0 +1,9 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Goederenstroombeheerfunctie"
+    id="id-69200611-5901-4736-be9d-9989a737cfd0"
+    documentation="Het ondersteunen van het beheer van goederenstromen">
+  <properties
+      key="Type"
+      value="Applicatiefunctie"/>
+</archimate:ApplicationFunction>

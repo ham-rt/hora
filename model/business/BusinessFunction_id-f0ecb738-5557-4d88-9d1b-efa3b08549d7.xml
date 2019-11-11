@@ -1,0 +1,12 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Vraagprognotisering"
+    id="id-f0ecb738-5557-4d88-9d1b-efa3b08549d7"
+    documentation="Het maken van een prognose van de hoeveelheid deelnemers en de onderwijsproducten die zij willen afnemen (studentenplanning).">
+  <properties
+      key="Domein"
+      value="Onderwijsondersteuning"/>
+  <properties
+      key="Type"
+      value="Deelbedrijfsfunctie"/>
+</archimate:BusinessFunction>

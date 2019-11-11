@@ -1,0 +1,12 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Gebouwbeheer"
+    id="id-aabb0bd5-93cd-46d4-98d4-4a1e892ef8d5"
+    documentation="Het verwerven, inrichten, beheren en afstoten van gebouwen.">
+  <properties
+      key="Domein"
+      value="Bedrijfsvoering"/>
+  <properties
+      key="Type"
+      value="Deelbedrijfsfunctie"/>
+</archimate:BusinessFunction>

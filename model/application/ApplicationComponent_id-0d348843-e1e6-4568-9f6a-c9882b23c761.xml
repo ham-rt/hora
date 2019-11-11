@@ -1,0 +1,22 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Tijdregistratiesysteem"
+    id="id-0d348843-e1e6-4568-9f6a-c9882b23c761"
+    documentation="Een systeem dat het registreren van de besteding van de tijd van individuen ondersteunt.">
+  <properties
+      key="Externe informatie"/>
+  <properties
+      key="Domein"
+      value="Bedrijfsvoering"/>
+  <properties
+      key="Bouwsteen"
+      value="Nee"/>
+  <properties
+      key="Beheerder"/>
+  <properties
+      key="Voorbeelden"
+      value="TimeTell (http://www.timetell.nl), PeopleInc. Time (http://www.peopleinc.nl/nl-nl/), Altrea Delta T Tijdregistratie (http://www.atrea.nl/producten/delta-t), AvanTimes iTR10 (http://oplossingen.avantimes.nl/producten/details/iTR10)"/>
+  <properties
+      key="Type"
+      value="Referentieapplicatie"/>
+</archimate:ApplicationComponent>

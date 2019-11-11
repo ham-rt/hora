@@ -1,0 +1,9 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Procurementfunctie"
+    id="id-6bd10781-333b-4c93-babb-fbab19228896"
+    documentation="Het ondersteunen van het beheren van productinkopen">
+  <properties
+      key="Type"
+      value="Applicatiefunctie"/>
+</archimate:ApplicationFunction>

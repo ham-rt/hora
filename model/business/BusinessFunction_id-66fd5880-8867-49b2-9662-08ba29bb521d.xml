@@ -1,0 +1,12 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Roosterwijziging"
+    id="id-66fd5880-8867-49b2-9662-08ba29bb521d"
+    documentation="Het aanbrengen van correcties in het rooster zodat deze beter past op de daadwerkelijke beschikbaarheid van mensen en middelen.">
+  <properties
+      key="Domein"
+      value="Onderwijsondersteuning"/>
+  <properties
+      key="Type"
+      value="Deelbedrijfsfunctie"/>
+</archimate:BusinessFunction>

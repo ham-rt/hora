@@ -1,0 +1,14 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Data workflow automation (rule-based)"
+    id="id-c135ba22-108c-4a00-985f-ad4aa436cbd2"
+    documentation="Ondersteunt orkestratie van gegevensstromen en -verwerking.">
+  <properties
+      key="Voorbeelden"/>
+  <properties
+      key="Domein"
+      value="Applicatieplatform"/>
+  <properties
+      key="Type"
+      value="Platformnode"/>
+</archimate:Node>

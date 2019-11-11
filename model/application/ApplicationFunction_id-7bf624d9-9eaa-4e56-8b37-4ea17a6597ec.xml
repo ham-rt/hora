@@ -1,0 +1,9 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Inzetgegevensbeheer"
+    id="id-7bf624d9-9eaa-4e56-8b37-4ea17a6597ec"
+    documentation="Het beheren van gegevens over medewerkerinzet">
+  <properties
+      key="Type"
+      value="Applicatiefunctie"/>
+</archimate:ApplicationFunction>

@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Verzamelen onderzoeksgegevens"
+    id="id-b1a96a1d-0f35-4117-a455-55a3584b196f"
+    documentation="Het verzamelen van bestaande en nieuw gecreëerde onderzoeksgegevens">
+  <properties
+      key="Domein"
+      value="Onderzoek"/>
+  <properties
+      key="Type"
+      value="Deelbedrijfsproces"/>
+  <properties
+      key="Trigger"
+      value="Er zijn onderzoeksgegevens nodig."/>
+  <properties
+      key="Preconditie"
+      value="Er zijn bronnen die de benodigde onderzoeksgegevens beschikbaar stellen en/of de benodigde onderzoeksgegevens zijn gecreëerd."/>
+  <properties
+      key="Postconditie"
+      value="Benodigde onderzoeksgegevens zijn verzameld."/>
+</archimate:BusinessProcess>

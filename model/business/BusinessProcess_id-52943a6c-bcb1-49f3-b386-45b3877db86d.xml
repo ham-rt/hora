@@ -1,0 +1,11 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Ontwikkelen BM Onderzoek"
+    id="id-52943a6c-bcb1-49f3-b386-45b3877db86d">
+  <properties
+      key="Type"
+      value="Deelbedrijfsproces"/>
+  <properties
+      key="Domein"
+      value="Sturing"/>
+</archimate:BusinessProcess>

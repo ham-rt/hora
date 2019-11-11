@@ -1,0 +1,12 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Studiekeuzebegeleiding"
+    id="id-6c5b003e-f05a-45f8-b241-902dcc830b10"
+    documentation="Het helpen van deelnemers in het kiezen van de juiste (vervolg)opleidingen om zich voor te bereiden op hun toekomstige loopbaan.">
+  <properties
+      key="Domein"
+      value="Onderwijsondersteuning"/>
+  <properties
+      key="Type"
+      value="Deelbedrijfsfunctie"/>
+</archimate:BusinessFunction>

@@ -1,0 +1,12 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Enterprise architectuur"
+    id="id-b182b2be-035c-4e7d-a0d1-4702203921f6"
+    documentation="Het vertalen van strategie en beleid in een gewenste inrichting en veranderingen.">
+  <properties
+      key="Domein"
+      value="Sturing"/>
+  <properties
+      key="Type"
+      value="Deelbedrijfsfunctie"/>
+</archimate:BusinessFunction>

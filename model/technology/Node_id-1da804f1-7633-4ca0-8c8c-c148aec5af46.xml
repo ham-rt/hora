@@ -1,0 +1,15 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Databasemanagementsysteem"
+    id="id-1da804f1-7633-4ca0-8c8c-c148aec5af46"
+    documentation="Ondersteunt het beheren van gestructureerde gegevens.">
+  <properties
+      key="Voorbeelden"
+      value="Oracle Database (http://www.oracle.com/us/products/database/overview/index.html), Oracle MySQL (http://www.oracle.com/us/products/mysql/overview/index.html), IBM DB2 (http://www-01.ibm.com/software/data/db2/), Microsoft SQL Server (http://www.microsoft.com/en-us/sqlserver/default.aspx)"/>
+  <properties
+      key="Domein"
+      value="Applicatieplatform"/>
+  <properties
+      key="Type"
+      value="Platformnode"/>
+</archimate:Node>

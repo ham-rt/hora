@@ -1,0 +1,12 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Contactmanagement"
+    id="id-f964d50b-1cf9-454a-9362-1825050dbc0e"
+    documentation="Het afhandelen van directe contacten met mensen binnen en buiten de instelling en het beheren van de relatie met deze mensen.">
+  <properties
+      key="Domein"
+      value="Bedrijfsvoering"/>
+  <properties
+      key="Type"
+      value="Hoofdbedrijfsfunctie"/>
+</archimate:BusinessFunction>

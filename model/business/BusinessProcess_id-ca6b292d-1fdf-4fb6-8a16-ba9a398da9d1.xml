@@ -1,0 +1,24 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Afhandelen contacten en meldingen"
+    id="id-ca6b292d-1fdf-4fb6-8a16-ba9a398da9d1"
+    documentation="Het direct te woord staan van iemand binnen of buiten de organisatie en ervoor zorgen dat zijn of haar vraag of verzoek wordt afgehandeld.">
+  <properties
+      key="Beschrijving"
+      value="Voor externe relaties en klanten worden vaak verschillende contactkanalen (front office met click, call, face) ingezet om het afhandelen van vragen, meldingen of verzoeken te stroomlijnen. Vanuit het afhandelingsproces worden andere processen aangestuurd (in wezen worden back office processen getriggerd om een vraag of verzoek verder af te handelen)."/>
+  <properties
+      key="Domein"
+      value="Ondersteuning"/>
+  <properties
+      key="Trigger"
+      value="Er is een persoon (intern of extern) die een vraag of een verzoek heeft stelt."/>
+  <properties
+      key="Preconditie"
+      value="Er moet duidelijk waar iemand terecht kan met zijn vraag of verzoek. Contactkanalen zijn hierop ingericht."/>
+  <properties
+      key="Postconditie"
+      value="De vraag of het verzoek is afgehandeld."/>
+  <properties
+      key="Type"
+      value="Deelbedrijfsproces"/>
+</archimate:BusinessProcess>

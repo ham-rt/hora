@@ -1,0 +1,12 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Kennisbescherming"
+    id="id-d7293a02-a180-4fd1-b6dd-fee0faf2ab1e"
+    documentation="Het beschermen van (het intellectueel eigendom op) kennis die voortvloeit uit de onderzoeksresultaten (publicaties, onderzoeksgegevens).">
+  <properties
+      key="Domein"
+      value="Valorisatie"/>
+  <properties
+      key="Type"
+      value="Deelbedrijfsfunctie"/>
+</archimate:BusinessFunction>

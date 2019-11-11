@@ -1,0 +1,12 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Interne communicatie"
+    id="id-44b59323-bdea-4ab6-8544-b1ff43a3f0b8"
+    documentation="Het verstrekken van informatie naar deelnemers en medewerkers.">
+  <properties
+      key="Domein"
+      value="Bedrijfsvoering"/>
+  <properties
+      key="Type"
+      value="Deelbedrijfsfunctie"/>
+</archimate:BusinessFunction>

@@ -1,0 +1,9 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Softwarebeheerfunctie"
+    id="id-45ec4828-6321-4c0e-8699-9055431ce5a3"
+    documentation="Het ondersteunen van het beheren van software">
+  <properties
+      key="Type"
+      value="Applicatiefunctie"/>
+</archimate:ApplicationFunction>

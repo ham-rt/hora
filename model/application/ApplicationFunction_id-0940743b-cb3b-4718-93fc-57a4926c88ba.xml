@@ -1,0 +1,9 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Corporate LMS-functie"
+    id="id-0940743b-cb3b-4718-93fc-57a4926c88ba"
+    documentation="Het ondersteunen van alle inhoudelijke, logistieke en administratieve processen rondom het aanbieden van leerinterventies aan medewerkers">
+  <properties
+      key="Type"
+      value="Applicatiefunctie"/>
+</archimate:ApplicationFunction>

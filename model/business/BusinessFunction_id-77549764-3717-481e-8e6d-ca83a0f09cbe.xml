@@ -1,0 +1,12 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Bindend studieadvies"
+    id="id-77549764-3717-481e-8e6d-ca83a0f09cbe"
+    documentation="Het waarderen van de studievoortgang van deelnemers waarbij verder onderwijs kan worden ontzegd.">
+  <properties
+      key="Domein"
+      value="Onderwijsondersteuning"/>
+  <properties
+      key="Type"
+      value="Deelbedrijfsfunctie"/>
+</archimate:BusinessFunction>

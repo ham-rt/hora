@@ -1,0 +1,9 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Aanbestedingsfunctie"
+    id="id-01eb9260-8440-4601-a63d-830b7fed6352"
+    documentation="Het ondersteunen van de uitvoering van aanbestedingen">
+  <properties
+      key="Type"
+      value="Applicatiefunctie"/>
+</archimate:ApplicationFunction>

@@ -1,0 +1,12 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Onderzoeksdisseminatie"
+    id="id-b760d271-2436-45ca-bc87-4d6b9a94a85e"
+    documentation="Het aan een breder publiek beschikbaar stellen van resultaten uit een onderzoek">
+  <properties
+      key="Domein"
+      value="Onderzoek"/>
+  <properties
+      key="Type"
+      value="Hoofdbedrijfsfunctie"/>
+</archimate:BusinessFunction>

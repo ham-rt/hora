@@ -1,0 +1,32 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Disseminatie"
+    id="id-156fad3a-f7bf-4990-aece-09f96e7d9af5"
+    documentation="Een onderzoeks(tussen)resultaat dat c.q. onderzoeksgegevens die op enigerlei wijze ontsloten zijn. Dat kan  extern zijn, maar ook intern (bijv. tbv hergebruik van onderzoeksgegevens binnen de eigen  onderzoeksgroep).">
+  <properties
+      key="Domein"
+      value="Onderzoek"/>
+  <properties
+      key="Synoniemen"
+      value="Publicatie"/>
+  <properties
+      key="Gegevenstype"
+      value="masterdata"/>
+  <properties
+      key="Gegevenscategorie"
+      value="product"/>
+  <properties
+      key="Beschikbaarheid"
+      value="laag"/>
+  <properties
+      key="Integriteit"
+      value="hoog"/>
+  <properties
+      key="Vertrouwelijkheid"
+      value="laag"/>
+  <properties
+      key="Toelichting BIV-classificatie"/>
+  <properties
+      key="Type"
+      value="Informatieobject"/>
+</archimate:BusinessObject>

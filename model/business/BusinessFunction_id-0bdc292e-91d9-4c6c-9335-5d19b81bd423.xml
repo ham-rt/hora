@@ -1,0 +1,12 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Inschrijving"
+    id="id-0bdc292e-91d9-4c6c-9335-5d19b81bd423"
+    documentation="Het verwerken van de aanmelding van een deelnemer en verzoek om uit te schrijven van een deelnemer.">
+  <properties
+      key="Domein"
+      value="Onderwijsondersteuning"/>
+  <properties
+      key="Type"
+      value="Hoofdbedrijfsfunctie"/>
+</archimate:BusinessFunction>

@@ -1,0 +1,9 @@
+<archimate:Grouping
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Onderwijsondersteuning"
+    id="id-86640b50-6d91-461a-9f2f-5f03e261e92f"
+    documentation="Het domein betreffende Onderwijsondersteuning.">
+  <properties
+      key="Type"
+      value="HORA-domein"/>
+</archimate:Grouping>

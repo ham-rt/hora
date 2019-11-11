@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Schrijven en indienen financieringsaanvraag"
+    id="id-c15ca674-e98d-4b16-b7d9-d3d196d12c5b"
+    documentation="Het werven van fondsen ten behoeve van het uitvoeren van onderzoek.">
+  <properties
+      key="Domein"
+      value="Onderzoek"/>
+  <properties
+      key="Type"
+      value="Deelbedrijfsproces"/>
+  <properties
+      key="Trigger"
+      value="Er is behoefte aan financiering voor een onderzoek."/>
+  <properties
+      key="Preconditie"
+      value="Er is een onderzoeksvoorstel."/>
+  <properties
+      key="Postconditie"
+      value="Er is een al dan niet goedgekeurde financieringsaanvraag."/>
+</archimate:BusinessProcess>

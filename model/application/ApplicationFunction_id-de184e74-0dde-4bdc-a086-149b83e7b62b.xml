@@ -1,0 +1,9 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Relatiegegevensbeheer"
+    id="id-de184e74-0dde-4bdc-a086-149b83e7b62b"
+    documentation="Het beheren van gegevens over relaties">
+  <properties
+      key="Type"
+      value="Applicatiefunctie"/>
+</archimate:ApplicationFunction>

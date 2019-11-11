@@ -1,0 +1,12 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Waardedocumentverstrekking"
+    id="id-0e334eba-5acf-42b3-bd13-369641b85899"
+    documentation="Het produceren en verstrekken van een waardedocument aan de deelnemer.">
+  <properties
+      key="Domein"
+      value="Onderwijsondersteuning"/>
+  <properties
+      key="Type"
+      value="Deelbedrijfsfunctie"/>
+</archimate:BusinessFunction>

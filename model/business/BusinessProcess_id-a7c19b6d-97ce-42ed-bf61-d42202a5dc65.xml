@@ -1,0 +1,23 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Ontwikkelen instellingsidentiteit"
+    id="id-a7c19b6d-97ce-42ed-bf61-d42202a5dc65"
+    documentation="Het definiëren en bijstellen van de visie, missie en identiteit van de organisatie en het sturen van op de ontwikkeling van de organisatie.">
+  <properties
+      key="Beschrijving"/>
+  <properties
+      key="Domein"
+      value="Sturing"/>
+  <properties
+      key="Trigger"
+      value="Er zijn interne en externe factoren die noodzaken om de instellingsidentiteit te (her)definiëren."/>
+  <properties
+      key="Preconditie"
+      value="Visie en missie zijn aanwezig (of worden gedefinieerd)."/>
+  <properties
+      key="Postconditie"
+      value="De instellingsidentiteit is vastgesteld en er vindt periodieke evaluatie en bijsturing plaats van de ontwikkelingen binnen de organisatie. Informatie over interne en externe ontwikkelingen zijn bekend."/>
+  <properties
+      key="Type"
+      value="Deelbedrijfsproces"/>
+</archimate:BusinessProcess>

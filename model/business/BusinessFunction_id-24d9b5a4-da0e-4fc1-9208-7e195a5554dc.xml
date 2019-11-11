@@ -1,0 +1,12 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Strategie en governance"
+    id="id-24d9b5a4-da0e-4fc1-9208-7e195a5554dc"
+    documentation="Het ontwikkelen van een visie en het inrichten en bewaken van de organisatie en haar besturing.">
+  <properties
+      key="Domein"
+      value="Sturing"/>
+  <properties
+      key="Type"
+      value="Hoofdbedrijfsfunctie"/>
+</archimate:BusinessFunction>

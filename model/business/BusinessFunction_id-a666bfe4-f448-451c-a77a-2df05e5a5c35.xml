@@ -1,0 +1,12 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Gegevenscollectie"
+    id="id-a666bfe4-f448-451c-a77a-2df05e5a5c35"
+    documentation="Het verzamelen van nieuwe en bestaande onderzoeksgegevens.">
+  <properties
+      key="Domein"
+      value="Onderzoek"/>
+  <properties
+      key="Type"
+      value="Deelbedrijfsfunctie"/>
+</archimate:BusinessFunction>

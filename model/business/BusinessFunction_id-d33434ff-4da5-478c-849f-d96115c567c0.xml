@@ -1,0 +1,12 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Kennisuitnutting"
+    id="id-d33434ff-4da5-478c-849f-d96115c567c0"
+    documentation="Het beschikbaar en geschikt maken van onderzoeksresultaten (publicaties, onderzoeksgegevens) voor de toepassing in producten, processen en diensten zoals interactie met de maatschappij en private organisaties.">
+  <properties
+      key="Domein"
+      value="Valorisatie"/>
+  <properties
+      key="Type"
+      value="Hoofdbedrijfsfunctie"/>
+</archimate:BusinessFunction>

@@ -1,0 +1,9 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Campagnegegevensbeheer"
+    id="id-ec3523c9-0b37-42b8-8f8a-89c9b4145b12"
+    documentation="Het beheren van gegevens over campagnes">
+  <properties
+      key="Type"
+      value="Applicatiefunctie"/>
+</archimate:ApplicationFunction>

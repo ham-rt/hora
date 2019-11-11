@@ -1,0 +1,12 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Vaststelling verworven competenties"
+    id="id-54b4897e-4ad6-48de-ae13-7d72f19a06ba"
+    documentation="Het vaststellen van de competenties die op een bepaald moment door de deelnemer zijn verworven.">
+  <properties
+      key="Domein"
+      value="Onderwijs"/>
+  <properties
+      key="Type"
+      value="Deelbedrijfsfunctie"/>
+</archimate:BusinessFunction>

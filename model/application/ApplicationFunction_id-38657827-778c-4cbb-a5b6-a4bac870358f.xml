@@ -1,0 +1,9 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Auteuridentificatiefunctie"
+    id="id-38657827-778c-4cbb-a5b6-a4bac870358f"
+    documentation="Het ondersteunen van de identificatie van auteurs van werken">
+  <properties
+      key="Type"
+      value="Applicatiefunctie"/>
+</archimate:ApplicationFunction>

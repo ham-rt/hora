@@ -1,0 +1,12 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Verbetermanagement"
+    id="id-8c1ef2c9-4b41-4635-8e40-0236851a1834"
+    documentation="Het managen van de dagelijkse operatie en werken aan het identificeren van verbeterpunten en het realiseren van verbetermaatregelen vanuit dagelijkse operatie.">
+  <properties
+      key="Domein"
+      value="Sturing"/>
+  <properties
+      key="Type"
+      value="Hoofdbedrijfsfunctie"/>
+</archimate:BusinessFunction>

@@ -1,0 +1,12 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Juridische bescherming"
+    id="id-a2b47c45-6abb-46a0-b3e3-21936af4f25d"
+    documentation="Het beschermen van de intellectuele eigendommen van de onderwijsinstelling.">
+  <properties
+      key="Domein"
+      value="Bedrijfsvoering"/>
+  <properties
+      key="Type"
+      value="Deelbedrijfsfunctie"/>
+</archimate:BusinessFunction>

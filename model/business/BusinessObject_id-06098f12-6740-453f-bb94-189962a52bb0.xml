@@ -1,0 +1,12 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Promotietrajectovereenkomst"
+    id="id-06098f12-6740-453f-bb94-189962a52bb0"
+    documentation="Een afspraak die de rechten en verplichtingen regelt in promotiegerelateerde zaken tussen de instelling en de promovendus.">
+  <properties
+      key="Domein"
+      value="Onderzoek"/>
+  <properties
+      key="Type"
+      value="Informatieobject"/>
+</archimate:BusinessObject>

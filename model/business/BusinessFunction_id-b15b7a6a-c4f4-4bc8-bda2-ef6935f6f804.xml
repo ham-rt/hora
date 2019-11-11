@@ -1,0 +1,12 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Collegiale toetsing"
+    id="id-b15b7a6a-c4f4-4bc8-bda2-ef6935f6f804"
+    documentation="Het reviewen van onderzoeksresultaten van anderen.">
+  <properties
+      key="Domein"
+      value="Onderzoek"/>
+  <properties
+      key="Type"
+      value="Deelbedrijfsfunctie"/>
+</archimate:BusinessFunction>

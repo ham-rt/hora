@@ -1,0 +1,9 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Archiveringsfunctie"
+    id="id-875ddb61-b3d1-451f-b2b8-70426591a68d"
+    documentation="Het ondersteunen van het archiveren van documenten en records">
+  <properties
+      key="Type"
+      value="Applicatiefunctie"/>
+</archimate:ApplicationFunction>

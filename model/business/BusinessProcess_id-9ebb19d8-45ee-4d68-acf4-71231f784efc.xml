@@ -1,0 +1,23 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Uitbaten onderzoeksresultaten"
+    id="id-9ebb19d8-45ee-4d68-acf4-71231f784efc"
+    documentation="Het inzetten van onderzoeksresultaten voor een ander doel dan het primaire (onderzoeks)doel waarvoor ze oorspronkelijk zijn verzameld en/of gecreëerd.">
+  <properties
+      key="Beschrijving"/>
+  <properties
+      key="Domein"
+      value="Valorisatie"/>
+  <properties
+      key="Trigger"
+      value="Er is een indicatie dat de onderzoekresultaten kunnen worden uitgebaat."/>
+  <properties
+      key="Preconditie"
+      value="Er zijn onderzoeksresultaten met een geborgde status."/>
+  <properties
+      key="Postconditie"
+      value="Onderzoeksresultaten worden succesvol uitgebaat."/>
+  <properties
+      key="Type"
+      value="Gebundeld bedrijfsproces"/>
+</archimate:BusinessProcess>

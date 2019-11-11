@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Overdragen kennis naar onderwijs"
+    id="id-2f05a54e-d554-42dc-9ed0-b7d74356e4ec"
+    documentation="Het overdragen van kennis over de onderzoeksresultaten naar onderwijs ten behoeve van educatie.">
+  <properties
+      key="Domein"
+      value="Valorisatie"/>
+  <properties
+      key="Type"
+      value="Deelbedrijfsproces"/>
+  <properties
+      key="Trigger"
+      value="Er is een indicatie dat de onderzoekresultaten kunnen worden uitgebaat ten behoeve van educatie."/>
+  <properties
+      key="Preconditie"
+      value="Er zijn onderzoeksresultaten met een geborgde status."/>
+  <properties
+      key="Postconditie"
+      value="Onderzoeksresultaten zijn succesvol naar het onderwijs overgedragen."/>
+</archimate:BusinessProcess>

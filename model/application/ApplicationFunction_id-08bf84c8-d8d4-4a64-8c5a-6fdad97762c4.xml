@@ -1,0 +1,9 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Documentindexatiefunctie"
+    id="id-08bf84c8-d8d4-4a64-8c5a-6fdad97762c4"
+    documentation="Het indexeren van documenten">
+  <properties
+      key="Type"
+      value="Applicatiefunctie"/>
+</archimate:ApplicationFunction>

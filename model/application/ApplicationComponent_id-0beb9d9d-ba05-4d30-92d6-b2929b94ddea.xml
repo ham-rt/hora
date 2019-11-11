@@ -1,0 +1,23 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Basisregistratie hoger onderwijs"
+    id="id-0beb9d9d-ba05-4d30-92d6-b2929b94ddea"
+    documentation="Een systeem dat gegevens verzamelt over deelnemers van hoger onderwijsinstellingen.">
+  <properties
+      key="Externe informatie"
+      value="http://www.ib-groep.nl/zakelijk/ho/bron_ho/bron_ho.asp"/>
+  <properties
+      key="Domein"
+      value="Onderwijs"/>
+  <properties
+      key="Bouwsteen"
+      value="Ja"/>
+  <properties
+      key="Beheerder"
+      value="DUO"/>
+  <properties
+      key="Voorbeelden"/>
+  <properties
+      key="Type"
+      value="Referentieapplicatie"/>
+</archimate:ApplicationComponent>

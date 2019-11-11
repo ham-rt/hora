@@ -1,0 +1,32 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Competentie"
+    id="id-798280ef-4a3b-49ea-9d58-6f3993d622eb"
+    documentation="Een geïntegreerd geheel van kennis, vaardigheden, inzicht en houding, dat nodig is om in een beroepscontext beroepsproducten te realiseren die aan de geldende kwaliteitseisen voldoen. Competenties zijn samengesteld van karakter, verwijzen naar onderliggende vaardigheids-, kennis- en houdingsdomeinen en worden in een context toegepast en ontwikkeld (COLO, 2007).">
+  <properties
+      key="Domein"
+      value="Onderwijs, Bedrijfsvoering"/>
+  <properties
+      key="Synoniemen"
+      value="Opleidingscompetentie"/>
+  <properties
+      key="Gegevenstype"
+      value="masterdata"/>
+  <properties
+      key="Gegevenscategorie"
+      value="partij"/>
+  <properties
+      key="Beschikbaarheid"
+      value="laag"/>
+  <properties
+      key="Integriteit"
+      value="laag"/>
+  <properties
+      key="Vertrouwelijkheid"
+      value="openbaar"/>
+  <properties
+      key="Toelichting BIV-classificatie"/>
+  <properties
+      key="Type"
+      value="Informatieobject"/>
+</archimate:BusinessObject>

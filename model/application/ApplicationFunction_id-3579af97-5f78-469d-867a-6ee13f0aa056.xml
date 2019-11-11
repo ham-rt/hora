@@ -1,0 +1,9 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Informed Consent gegevensbeheer"
+    id="id-3579af97-5f78-469d-867a-6ee13f0aa056"
+    documentation="Het beheren van gegevens over 'informed consent'/">
+  <properties
+      key="Type"
+      value="Applicatiefunctie"/>
+</archimate:ApplicationFunction>

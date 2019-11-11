@@ -1,0 +1,9 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Auteurgegevensbeheer"
+    id="id-3dbc9c67-4423-4eda-9c4d-abb66796bf00"
+    documentation="Het beheren van gegevens over auteurs van werken">
+  <properties
+      key="Type"
+      value="Applicatiefunctie"/>
+</archimate:ApplicationFunction>

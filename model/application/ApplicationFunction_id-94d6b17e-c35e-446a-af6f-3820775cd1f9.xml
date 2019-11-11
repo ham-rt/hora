@@ -1,0 +1,9 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="E-mailfunctie"
+    id="id-94d6b17e-c35e-446a-af6f-3820775cd1f9"
+    documentation="Het ondersteunen van het uitwisselen van e-mails tussen gebruikers">
+  <properties
+      key="Type"
+      value="Applicatiefunctie"/>
+</archimate:ApplicationFunction>

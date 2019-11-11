@@ -1,0 +1,12 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Deelnemermatching"
+    id="id-0d8b3d5b-8e59-40b7-ab62-b76d184529c7"
+    documentation="Het bepalen of een opleiding passend is voor een deelnemer, en vice versa.">
+  <properties
+      key="Domein"
+      value="Onderwijsondersteuning"/>
+  <properties
+      key="Type"
+      value="Deelbedrijfsfunctie"/>
+</archimate:BusinessFunction>

@@ -1,0 +1,12 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Research Playground"
+    id="id-8c41343f-5195-4b1a-910c-488b7e23dcf1"
+    documentation="Het deel van de VRE waar het analytische en data-crunchende deel van het onderzoek plaatsvindt.">
+  <properties
+      key="Type"
+      value="Gebundelde applicatiefunctie"/>
+  <properties
+      key="Externe informatie"
+      value="https://www.edugroepen.nl/sites/RDM_platform/RDM%20Glossary/RT/Research%20Playground.aspx"/>
+</archimate:ApplicationFunction>

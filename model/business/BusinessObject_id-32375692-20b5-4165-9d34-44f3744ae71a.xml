@@ -1,0 +1,12 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Evenement"
+    id="id-32375692-20b5-4165-9d34-44f3744ae71a"
+    documentation="Een georganiseerde gebeurtenis voor (grote) groepen waarbij muziek, cultuur, sport, religie, wetenschap, voorlichting of een combinatie hiervan centraal staat.">
+  <properties
+      key="Type"
+      value="Informatieobject"/>
+  <properties
+      key="Domein"
+      value="Onderwijsondersteuning"/>
+</archimate:BusinessObject>

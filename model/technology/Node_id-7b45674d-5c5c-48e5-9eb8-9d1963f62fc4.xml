@@ -1,0 +1,15 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Datadistributiesysteem"
+    id="id-7b45674d-5c5c-48e5-9eb8-9d1963f62fc4"
+    documentation="Een systeem dat het synchroniseren van masterdata ondersteunt.">
+  <properties
+      key="Voorbeelden"
+      value="Talend MDM (http://www.talend.com/products/mdm), SAP NetWeaver Master Data Management (http://www1.sap.com/platform/netweaver/components/mdm/index.epx), IBM InfoSphere Master Data Management (http://www-03.ibm.com/software/products/us/en/infosphere-master-data-management), Informatica Master Data Management (http://www.informatica.com/us/products/master-data-management/mdm/)"/>
+  <properties
+      key="Domein"
+      value="Applicatieplatform"/>
+  <properties
+      key="Type"
+      value="Platformnode"/>
+</archimate:Node>

@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Overdragen kennis naar bedrijven"
+    id="id-9b672371-4e11-472c-9524-86944c3483de"
+    documentation="Het overdragen van kennis over de onderzoeksresultaten naar bedrijven ten behoeve van hun innovatie of voor marketingdoeleinden.">
+  <properties
+      key="Domein"
+      value="Valorisatie"/>
+  <properties
+      key="Type"
+      value="Deelbedrijfsproces"/>
+  <properties
+      key="Trigger"
+      value="Er is een indicatie dat de onderzoekresultaten kunnen worden uitgebaat ten behoeve van innovatie door bedrijven."/>
+  <properties
+      key="Preconditie"
+      value="Er zijn onderzoeksresultaten met een geborgde status."/>
+  <properties
+      key="Postconditie"
+      value="Onderzoeksresultaten zijn succesvol naar bedrijven overgedragen."/>
+</archimate:BusinessProcess>

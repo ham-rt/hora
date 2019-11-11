@@ -1,0 +1,9 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Onderzoeksgegevenscreatiefunctie"
+    id="id-e562ed62-fe5c-4d10-856b-107155d383e5"
+    documentation="Het ondersteunen van het creëren van onderzoeksgegevens">
+  <properties
+      key="Type"
+      value="Applicatiefunctie"/>
+</archimate:ApplicationFunction>

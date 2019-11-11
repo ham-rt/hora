@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="toetst"
+    id="id-afd12e5f-5149-4d0a-a4b6-7de18586e805">
+  <source
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-d7b6f657-6787-425c-9d10-ab842aaef5d5.xml#id-d7b6f657-6787-425c-9d10-ab842aaef5d5"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-7fdb8cfb-50fb-4122-bfcc-2477acc5fcc7.xml#id-7fdb8cfb-50fb-4122-bfcc-2477acc5fcc7"/>
+</archimate:AssociationRelationship>

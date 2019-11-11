@@ -1,0 +1,12 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Verantwoording"
+    id="id-78149054-dbb8-4486-8753-09962f7a806c"
+    documentation="Het rapporteren naar belanghebbenden binnen en buiten de instelling over de mate waarin deze voldoet aan verplichtingen en afspraken.">
+  <properties
+      key="Domein"
+      value="Sturing"/>
+  <properties
+      key="Type"
+      value="Hoofdbedrijfsfunctie"/>
+</archimate:BusinessFunction>

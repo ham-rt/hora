@@ -1,0 +1,12 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Roosterpublicatie"
+    id="id-c4d9dbc0-1dc9-403e-bbda-9d168b4ce26e"
+    documentation="Het beschikbaar stellen van het rooster aan alle relevante doelgroepen.">
+  <properties
+      key="Domein"
+      value="Onderwijsondersteuning"/>
+  <properties
+      key="Type"
+      value="Deelbedrijfsfunctie"/>
+</archimate:BusinessFunction>

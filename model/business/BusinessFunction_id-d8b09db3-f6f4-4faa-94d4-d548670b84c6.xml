@@ -1,0 +1,12 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Informatiemanagement"
+    id="id-d8b09db3-f6f4-4faa-94d4-d548670b84c6"
+    documentation="Het vormgeven, sturen, aanpassen, bewaken en in stand houden van de informatievoorziening op strategisch en tactisch niveau.">
+  <properties
+      key="Domein"
+      value="Bedrijfsvoering"/>
+  <properties
+      key="Type"
+      value="Deelbedrijfsfunctie"/>
+</archimate:BusinessFunction>

@@ -1,0 +1,15 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Bestandsbroker"
+    id="id-4d529bb9-124f-4fd0-a12d-1257d8f2d737"
+    documentation="Een systeem dat het routeren en transporteren van bestanden ondersteunt.">
+  <properties
+      key="Voorbeelden"
+      value="Axway Transfer CFT (http://www.axway.com/products-solutions/mft/a2a-mft/transfer-cft)"/>
+  <properties
+      key="Domein"
+      value="Applicatieplatform"/>
+  <properties
+      key="Type"
+      value="Platformnode"/>
+</archimate:Node>

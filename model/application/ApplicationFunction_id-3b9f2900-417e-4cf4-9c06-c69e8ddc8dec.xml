@@ -1,0 +1,9 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Activagegevensbeheer"
+    id="id-3b9f2900-417e-4cf4-9c06-c69e8ddc8dec"
+    documentation="Het beheren van gegevens over activa">
+  <properties
+      key="Type"
+      value="Applicatiefunctie"/>
+</archimate:ApplicationFunction>

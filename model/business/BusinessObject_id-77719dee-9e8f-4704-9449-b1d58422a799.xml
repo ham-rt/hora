@@ -1,0 +1,33 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Onderzoeksgegevens"
+    id="id-77719dee-9e8f-4704-9449-b1d58422a799"
+    documentation="Het vastgelegde feitelijke materiaal dat algemeen wordt aanvaard in de wetenschappelijke gemeenschap als noodzakelijk om onderzoeksbevindingen te valideren.">
+  <properties
+      key="Domein"
+      value="Onderzoek"/>
+  <properties
+      key="Synoniemen"
+      value="Onderzoeksdata"/>
+  <properties
+      key="Gegevenstype"
+      value="transactie"/>
+  <properties
+      key="Gegevenscategorie"
+      value="middel"/>
+  <properties
+      key="Beschikbaarheid"
+      value="laag"/>
+  <properties
+      key="Integriteit"
+      value="middel"/>
+  <properties
+      key="Vertrouwelijkheid"
+      value="middel"/>
+  <properties
+      key="Toelichting BIV-classificatie"
+      value="Het resultaat van het primaire proces moet integer zijn."/>
+  <properties
+      key="Type"
+      value="Informatieobject"/>
+</archimate:BusinessObject>

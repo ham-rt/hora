@@ -1,0 +1,12 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Tijdregistratie"
+    id="id-4ed4a058-cd66-4289-948f-ce1a93093ddb"
+    documentation="Het registreren waaraan de tijd van medewerkers is besteedt.">
+  <properties
+      key="Domein"
+      value="Bedrijfsvoering"/>
+  <properties
+      key="Type"
+      value="Deelbedrijfsfunctie"/>
+</archimate:BusinessFunction>

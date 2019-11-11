@@ -1,0 +1,9 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Enqueteafnamefunctie"
+    id="id-a2ab5cb7-7c99-4a9c-9d3c-c3441d238b50"
+    documentation="Het ondersteunen van de afname van enquetes">
+  <properties
+      key="Type"
+      value="Applicatiefunctie"/>
+</archimate:ApplicationFunction>

@@ -1,0 +1,12 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Klachtenafhandeling"
+    id="id-f4e8d7c2-3fc0-430c-8f4a-00060554524e"
+    documentation="Het afhandelen van klachten van personen over het functioneren van de instelling of haar medewerkers.">
+  <properties
+      key="Domein"
+      value="Bedrijfsvoering"/>
+  <properties
+      key="Type"
+      value="Deelbedrijfsfunctie"/>
+</archimate:BusinessFunction>

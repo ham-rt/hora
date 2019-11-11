@@ -1,0 +1,9 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Onderwijsplanningsfunctie"
+    id="id-f2d8fcd5-019f-40ff-a930-4bcb014e53c1"
+    documentation="Het ondersteunen van het koppelen van onderwijsaanbod aan deelnemers">
+  <properties
+      key="Type"
+      value="Applicatiefunctie"/>
+</archimate:ApplicationFunction>

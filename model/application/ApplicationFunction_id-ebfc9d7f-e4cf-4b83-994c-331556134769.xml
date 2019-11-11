@@ -1,0 +1,9 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Clinical Trial Management-functie"
+    id="id-ebfc9d7f-e4cf-4b83-994c-331556134769"
+    documentation="Het beheren van gegevens over klinische onderzoeken.">
+  <properties
+      key="Type"
+      value="Applicatiefunctie"/>
+</archimate:ApplicationFunction>

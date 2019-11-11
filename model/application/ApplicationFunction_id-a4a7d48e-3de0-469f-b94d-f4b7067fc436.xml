@@ -1,0 +1,9 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Onderzoeksdatagovernancefunctie"
+    id="id-a4a7d48e-3de0-469f-b94d-f4b7067fc436"
+    documentation="Het beheren en afdwingen van licentievoorwaarden van onderzoeksgegevens.">
+  <properties
+      key="Type"
+      value="Applicatiefunctie"/>
+</archimate:ApplicationFunction>

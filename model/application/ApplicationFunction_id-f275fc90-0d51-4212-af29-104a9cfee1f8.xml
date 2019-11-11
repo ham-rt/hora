@@ -1,0 +1,9 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Samenwerkingsfunctie"
+    id="id-f275fc90-0d51-4212-af29-104a9cfee1f8"
+    documentation="Het ondersteunen van het creëren en delen van gezamenlijke kennis">
+  <properties
+      key="Type"
+      value="Applicatiefunctie"/>
+</archimate:ApplicationFunction>

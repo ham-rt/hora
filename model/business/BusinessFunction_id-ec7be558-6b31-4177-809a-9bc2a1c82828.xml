@@ -1,0 +1,12 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Verandermanagement"
+    id="id-ec7be558-6b31-4177-809a-9bc2a1c82828"
+    documentation="Het bepalen en managen van grotere veranderingen zodat maximaal wordt bijgedragen aan de doelstellingen.">
+  <properties
+      key="Domein"
+      value="Sturing"/>
+  <properties
+      key="Type"
+      value="Hoofdbedrijfsfunctie"/>
+</archimate:BusinessFunction>

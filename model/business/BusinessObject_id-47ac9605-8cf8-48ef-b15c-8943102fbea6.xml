@@ -1,0 +1,33 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="(Wetenschappelijk) onderzoek"
+    id="id-47ac9605-8cf8-48ef-b15c-8943102fbea6"
+    documentation="Een zorgvuldige, verifieerbare en systematische studie van een bepaalde kwestie.">
+  <properties
+      key="Domein"
+      value="Onderzoek"/>
+  <properties
+      key="Synoniemen"
+      value="Onderzoeksactiviteit"/>
+  <properties
+      key="Gegevenstype"
+      value="transactie"/>
+  <properties
+      key="Gegevenscategorie"
+      value="gebeurtenis"/>
+  <properties
+      key="Beschikbaarheid"
+      value="laag"/>
+  <properties
+      key="Integriteit"
+      value="middel"/>
+  <properties
+      key="Vertrouwelijkheid"
+      value="middel"/>
+  <properties
+      key="Toelichting BIV-classificatie"
+      value="Het administratieve object. Bevat niet het onderzoeksresultaat of de onderzoeksgegevens."/>
+  <properties
+      key="Type"
+      value="Informatieobject"/>
+</archimate:BusinessObject>

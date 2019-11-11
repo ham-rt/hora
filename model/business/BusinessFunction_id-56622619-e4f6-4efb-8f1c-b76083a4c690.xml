@@ -1,0 +1,12 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Gegevensbeheer"
+    id="id-56622619-e4f6-4efb-8f1c-b76083a4c690"
+    documentation="Het ervoor zorgen dat er kwalitatief hoogwaardige gegevens beschikbaar zijn.">
+  <properties
+      key="Domein"
+      value="Bedrijfsvoering"/>
+  <properties
+      key="Type"
+      value="Deelbedrijfsfunctie"/>
+</archimate:BusinessFunction>

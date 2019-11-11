@@ -1,0 +1,22 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Betaalsysteem"
+    id="id-77ba10b1-00da-4434-8ee2-2a277052f0bf"
+    documentation="Systeem waarmee fysieke betalingen kunnen worden ontvangen.">
+  <properties
+      key="Externe informatie"/>
+  <properties
+      key="Domein"
+      value="Bedrijfsvoering"/>
+  <properties
+      key="Bouwsteen"
+      value="Nee"/>
+  <properties
+      key="Beheerder"/>
+  <properties
+      key="Voorbeelden"
+      value="PayPro (http://www.paypro.nl), Ogone (http://www.ogone.nl/nl/Default.aspx)"/>
+  <properties
+      key="Type"
+      value="Referentieapplicatie"/>
+</archimate:ApplicationComponent>

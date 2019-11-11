@@ -1,0 +1,9 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Documentscanningfunctie"
+    id="id-02dfa8e7-9c3b-496c-8146-a0a4d1dd789b"
+    documentation="Het scannen van documenten">
+  <properties
+      key="Type"
+      value="Applicatiefunctie"/>
+</archimate:ApplicationFunction>

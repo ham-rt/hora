@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="is basis voor"
+    id="id-a9ddd917-8c32-4bf0-9c56-159a3247ffd8">
+  <source
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-1d638427-2230-4559-bcff-cb82d0779c0d.xml#id-1d638427-2230-4559-bcff-cb82d0779c0d"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-e0d5efff-cbe5-4591-9c43-257704fb7f46.xml#id-e0d5efff-cbe5-4591-9c43-257704fb7f46"/>
+</archimate:AssociationRelationship>

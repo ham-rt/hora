@@ -1,0 +1,23 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Inventariseren verbeteringen"
+    id="id-5e9ef3b9-c478-4a9e-b829-569022d2ef1f"
+    documentation="Het inventariseren van ideeën en voorstellen voor verbeteringen die doorgevoerd kunnen worden.">
+  <properties
+      key="Beschrijving"/>
+  <properties
+      key="Domein"
+      value="Sturing"/>
+  <properties
+      key="Trigger"
+      value="Er zijn signalen dat de feitelijke werking en prestatie achterblijven bij de beoogde situatie."/>
+  <properties
+      key="Preconditie"
+      value="De doelen en beoogde opzet voor de werking en prestatie van de organisatie zijn bekend."/>
+  <properties
+      key="Postconditie"
+      value="Ideeën en voorstellen voor verbetering zijn bekend."/>
+  <properties
+      key="Type"
+      value="Deelbedrijfsproces"/>
+</archimate:BusinessProcess>

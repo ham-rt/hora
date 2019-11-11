@@ -1,0 +1,9 @@
+<archimate:Grouping
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Onderzoeksondersteuning"
+    id="id-52b55b73-1b1d-4b5f-9678-82988d04d515"
+    documentation="Het domein betreffende Onderzoeksondersteuning.">
+  <properties
+      key="Type"
+      value="HORA-domein"/>
+</archimate:Grouping>

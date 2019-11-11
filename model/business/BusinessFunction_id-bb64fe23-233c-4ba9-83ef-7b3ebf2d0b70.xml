@@ -1,0 +1,12 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Programmamanagement"
+    id="id-bb64fe23-233c-4ba9-83ef-7b3ebf2d0b70"
+    documentation="Het op een doelgerichte wijze werken aan een verzameling van tijdelijke, samenhangende en dynamische doelen, inspanningen en middelen.">
+  <properties
+      key="Domein"
+      value="Sturing"/>
+  <properties
+      key="Type"
+      value="Deelbedrijfsfunctie"/>
+</archimate:BusinessFunction>

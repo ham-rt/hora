@@ -1,0 +1,9 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Architectuurmodelleringsfunctie"
+    id="id-a57ce651-d918-4963-8508-76341f95cc37"
+    documentation="Het ondersteunen van het modelleren van de enterprise-architectuur">
+  <properties
+      key="Type"
+      value="Applicatiefunctie"/>
+</archimate:ApplicationFunction>

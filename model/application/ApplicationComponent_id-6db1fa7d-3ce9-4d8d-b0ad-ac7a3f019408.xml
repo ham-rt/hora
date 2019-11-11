@@ -1,0 +1,22 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Roostersysteem"
+    id="id-6db1fa7d-3ce9-4d8d-b0ad-ac7a3f019408"
+    documentation="Een systeem het maken van roosters ondersteunt op basis van beschikbaarheid van middelen.">
+  <properties
+      key="Externe informatie"/>
+  <properties
+      key="Domein"
+      value="Onderwijsondersteuning"/>
+  <properties
+      key="Bouwsteen"
+      value="Nee"/>
+  <properties
+      key="Beheerder"/>
+  <properties
+      key="Voorbeelden"
+      value="Scientia Syllabus Plus (http://www.scientia.com/nl/), Untis (http://www.untis.nl/basis.asp), Paralax Rostar Eduflex (http://www.paralax.nl/nl/3/planningssoftware/personeelsplanning_roosterplanning.htm), BitByBit IRIS-Planning (http://www.bitbybit-is.nl/Website/nl/software/iris-planning), Advitrae Xedule (http://www.xedule.nl)"/>
+  <properties
+      key="Type"
+      value="Referentieapplicatie"/>
+</archimate:ApplicationComponent>

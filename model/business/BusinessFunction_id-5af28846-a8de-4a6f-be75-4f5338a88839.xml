@@ -1,0 +1,12 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Onderzoeksvraagidentificatie"
+    id="id-5af28846-a8de-4a6f-be75-4f5338a88839"
+    documentation="Het verkennen van waardevolle onderzoeksonderwerpen.">
+  <properties
+      key="Domein"
+      value="Onderzoek"/>
+  <properties
+      key="Type"
+      value="Deelbedrijfsfunctie"/>
+</archimate:BusinessFunction>

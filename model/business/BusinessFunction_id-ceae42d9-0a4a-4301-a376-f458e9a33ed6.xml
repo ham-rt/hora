@@ -1,0 +1,12 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Toetsuitvoering"
+    id="id-ceae42d9-0a4a-4301-a376-f458e9a33ed6"
+    documentation="Het onderzoeken van de kennis, het inzicht en de vaardigheden van de deelnemer waarbij het resultaat wordt gebruikt om te bepalen of aan een examenprogramma is voldaan.">
+  <properties
+      key="Domein"
+      value="Onderwijs"/>
+  <properties
+      key="Type"
+      value="Deelbedrijfsfunctie"/>
+</archimate:BusinessFunction>

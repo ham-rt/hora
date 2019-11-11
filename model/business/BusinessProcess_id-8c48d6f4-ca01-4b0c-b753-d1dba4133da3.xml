@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Aanvragen onderzoeksvergunningen"
+    id="id-8c48d6f4-ca01-4b0c-b753-d1dba4133da3"
+    documentation="Het aanvragen van de benodigde vergunningen om een bepaald onderzoek uit te mogen voeren.">
+  <properties
+      key="Domein"
+      value="Onderzoeksondersteuning"/>
+  <properties
+      key="Type"
+      value="Deelbedrijfsproces"/>
+  <properties
+      key="Trigger"
+      value="Voor de uitvoering van een onderzoek is een vergunning nodig."/>
+  <properties
+      key="Preconditie"
+      value="Er is een onderzoeksvoorstel"/>
+  <properties
+      key="Postconditie"
+      value="Er is al dan niet vergunning verleend voor de uitvoering van het onderzoek."/>
+</archimate:BusinessProcess>

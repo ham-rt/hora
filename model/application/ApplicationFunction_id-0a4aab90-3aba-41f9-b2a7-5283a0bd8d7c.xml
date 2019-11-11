@@ -1,0 +1,9 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Onderzoeksobjectverwervingsfunctie"
+    id="id-0a4aab90-3aba-41f9-b2a7-5283a0bd8d7c"
+    documentation="Het ondersteunen van het verwerven van objecten van onderzoek">
+  <properties
+      key="Type"
+      value="Applicatiefunctie"/>
+</archimate:ApplicationFunction>

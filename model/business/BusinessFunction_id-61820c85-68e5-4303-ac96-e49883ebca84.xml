@@ -1,0 +1,12 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Tactische planning"
+    id="id-61820c85-68e5-4303-ac96-e49883ebca84"
+    documentation="Het vertalen van beleid in meerjarenplannen met voorgestelde programma's en projecten.">
+  <properties
+      key="Domein"
+      value="Sturing"/>
+  <properties
+      key="Type"
+      value="Deelbedrijfsfunctie"/>
+</archimate:BusinessFunction>

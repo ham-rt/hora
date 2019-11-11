@@ -1,0 +1,12 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Onderwijsuitvoeringsbegeleiding"
+    id="id-ac27b18a-56f0-4a06-9283-8af1b85d8f5d"
+    documentation="Het begeleiden bij het uitvoeren van de werkvorm.">
+  <properties
+      key="Domein"
+      value="Onderwijs"/>
+  <properties
+      key="Type"
+      value="Deelbedrijfsfunctie"/>
+</archimate:BusinessFunction>

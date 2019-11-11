@@ -1,0 +1,9 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Vacaturegegevensbeheer"
+    id="id-6b816f9e-c76e-4fad-a191-1e512c7683b1"
+    documentation="Het beheren van gegevens over vacatures">
+  <properties
+      key="Type"
+      value="Applicatiefunctie"/>
+</archimate:ApplicationFunction>

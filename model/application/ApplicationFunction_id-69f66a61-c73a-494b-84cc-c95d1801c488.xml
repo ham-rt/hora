@@ -1,0 +1,9 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Kwaliteitsmanagementfunctie"
+    id="id-69f66a61-c73a-494b-84cc-c95d1801c488"
+    documentation="Het ondersteunen van kwaliteitsmanagement">
+  <properties
+      key="Type"
+      value="Applicatiefunctie"/>
+</archimate:ApplicationFunction>

@@ -1,0 +1,9 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Preserveringsfunctie"
+    id="id-6d13ceea-1242-454c-b08d-c89f4362a513"
+    documentation="Het ondersteunen van het langdurig preserveren van gegevens">
+  <properties
+      key="Type"
+      value="Applicatiefunctie"/>
+</archimate:ApplicationFunction>

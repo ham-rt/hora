@@ -1,0 +1,9 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Plagiaatdetectiefunctie"
+    id="id-7383e577-6fc7-4613-b53d-455ff92195fd"
+    documentation="Het ondersteunen van het detecteren van plagiaat">
+  <properties
+      key="Type"
+      value="Applicatiefunctie"/>
+</archimate:ApplicationFunction>

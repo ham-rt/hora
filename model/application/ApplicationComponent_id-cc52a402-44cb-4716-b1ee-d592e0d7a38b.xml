@@ -1,0 +1,22 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="E-Depot"
+    id="id-cc52a402-44cb-4716-b1ee-d592e0d7a38b"
+    documentation="Een systeem dat het langdurig preserveren van gegevens ondersteunt.">
+  <properties
+      key="Externe informatie"/>
+  <properties
+      key="Domein"
+      value="Informatieontsluiting"/>
+  <properties
+      key="Bouwsteen"
+      value="Nee"/>
+  <properties
+      key="Beheerder"/>
+  <properties
+      key="Voorbeelden"
+      value="KB e-Depot (http://www.kb.nl/expertise/e-depot-en-digitale-duurzaamheid/meer-over-het-e-depot)"/>
+  <properties
+      key="Type"
+      value="Referentieapplicatie"/>
+</archimate:ApplicationComponent>

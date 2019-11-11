@@ -1,0 +1,12 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Kwaliteitsmanagement"
+    id="id-41f03e6b-9df3-43e9-97fe-5ec92bf57c6c"
+    documentation="Het ervoor zorgdragen dat het functioneren van de organisatie in lijn is met gestelde kwaliteitseisen.">
+  <properties
+      key="Domein"
+      value="Sturing"/>
+  <properties
+      key="Type"
+      value="Deelbedrijfsfunctie"/>
+</archimate:BusinessFunction>

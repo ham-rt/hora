@@ -1,0 +1,9 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Digitaalportfoliofunctie"
+    id="id-e1f79db7-2ace-4774-a83b-639477846568"
+    documentation="Het ondersteunen van het verzamelen van eigen werk">
+  <properties
+      key="Type"
+      value="Applicatiefunctie"/>
+</archimate:ApplicationFunction>

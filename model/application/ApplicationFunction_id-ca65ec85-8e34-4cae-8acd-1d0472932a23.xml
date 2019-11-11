@@ -1,0 +1,9 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Projectmanagementfunctie"
+    id="id-ca65ec85-8e34-4cae-8acd-1d0472932a23"
+    documentation="Het ondersteunen van het bepalen en sturen van projecten">
+  <properties
+      key="Type"
+      value="Applicatiefunctie"/>
+</archimate:ApplicationFunction>
